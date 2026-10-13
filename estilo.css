@@ -18,6 +18,7 @@ h1{font-size:clamp(28px,6vw,46px);margin:.3em 0 .4em}h2{font-size:22px;margin:2e
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(290px,1fr));gap:16px;margin:12px 0 48px}
 .card{display:block;background:var(--card);border:1px solid var(--line);padding:20px;text-decoration:none;color:var(--ink);transition:.15s}
 .card:hover{border-color:var(--gold);transform:translateY(-2px)}.card h3{font-size:18px;margin:.5em 0 .4em}.card p{color:var(--mute);font-size:15.5px;margin:0;line-height:1.55}
+.meta{display:flex;align-items:flex-start;justify-content:space-between;gap:10px}.meta .eyebrow{flex:1;min-width:0;line-height:1.5}.meta .chip{flex:none;margin-left:0;white-space:nowrap}
 .chip{display:inline-block;font:700 11px/1 Arial,sans-serif;letter-spacing:.14em;text-transform:uppercase;padding:5px 8px;border:1px solid var(--line);color:var(--mute);margin-left:6px}
 ol.tl{list-style:none;padding:0;margin:0;border-left:1px solid var(--line)}ol.tl li{position:relative;padding:0 0 18px 24px}ol.tl li:before{content:"";position:absolute;left:-5px;top:11px;width:9px;height:9px;background:var(--gold);border-radius:50%}
 .box{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--gold);padding:6px 20px;margin:0}.box ul{padding-left:18px}.box li{margin:.7em 0}
