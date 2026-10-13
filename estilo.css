@@ -12,6 +12,7 @@ h1{font-size:clamp(28px,6vw,46px);margin:.3em 0 .4em}h2{font-size:22px;margin:2e
 .eyebrow{font:700 12px/1 Arial,sans-serif;letter-spacing:.18em;text-transform:uppercase;color:var(--gold)}
 .lead{font-size:21px;color:#f4ecd9;border-left:3px solid var(--gold);padding-left:16px;margin:0 0 1.2em}
 .hero{padding:56px 0 34px;text-align:center}.hero img{width:96px;height:96px;border-radius:14px;border:1px solid var(--line)}
+.hero-banner{padding-top:0}.hero .banner{display:block;width:100%;height:auto;max-height:420px;object-fit:cover;border:0;border-radius:0;margin:0 0 28px}.vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .hero h1{margin:.5em 0 .2em}.tag{color:var(--mute);font-style:italic;margin:0 0 22px}
 .btns{display:flex;flex-wrap:wrap;gap:10px;justify-content:center}.btn{display:inline-block;padding:11px 18px;border:1px solid var(--gold);color:var(--gold);text-decoration:none;font:700 13px/1 Arial,sans-serif;letter-spacing:.1em;text-transform:uppercase;border-radius:3px}
 .btn:hover{background:var(--gold);color:#0b0a09}
