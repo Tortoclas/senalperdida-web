@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tortoclas.github.io/senalperdida-web/sitemap.xml
