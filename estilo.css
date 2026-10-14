@@ -67,6 +67,24 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offse
 .share button.btn{background:none;cursor:pointer}.share button.btn:hover{background:var(--gold)}.share .btn[hidden]{display:none}
 @media(max-width:560px){header.site .wrap{gap:8px}.brand{font-size:13px;gap:7px;white-space:nowrap}.brand img{width:38px;height:40px}.brand span{top:5px}nav{font-size:13px;gap:10px}nav a{white-space:nowrap}}
 .mailbig{font:700 clamp(18px,4.5vw,26px)/1.3 Arial,sans-serif;color:var(--gold);word-break:break-all;margin:18px 0}.mailbtns{display:flex;flex-wrap:wrap;gap:10px;margin:0 0 26px}.mailbtns .btn{cursor:pointer;background:none}.mailbtns .btn:hover{background:var(--gold)}
+.mapa{position:relative;border:1px solid var(--line);background:#04080c;margin:0 0 30px;overflow:hidden}.mapa svg{display:block;width:100%;height:auto}
+.mapa:before{content:"";position:absolute;inset:0;z-index:2;background:repeating-linear-gradient(0deg,rgba(0,0,0,.22) 0,rgba(0,0,0,.22) 1px,transparent 1px,transparent 3px);pointer-events:none}
+.mapa:after{content:"";position:absolute;left:0;right:0;top:-4px;height:2px;z-index:2;background:rgba(130,225,255,.07);animation:barrido 14s linear infinite;pointer-events:none}
+.mapa .land{fill:#10181e;stroke:#243540;stroke-width:.5}.mapa .grat{fill:none;stroke:rgba(120,200,230,.07);stroke-width:.4}
+.mapa .st{fill:#cfe8f5;opacity:.5;animation:tw var(--d) ease-in-out var(--l) infinite}
+@keyframes tw{0%,100%{opacity:.16}50%{opacity:.95}}
+.mapa .aura{animation:aur 11s ease-in-out infinite}@keyframes aur{0%,100%{opacity:1}50%{opacity:.5}}
+.mapa .lin{fill:none;stroke:rgba(190,215,255,.45);stroke-width:1;stroke-dasharray:2 6;animation:fluye 5s linear infinite}@keyframes fluye{to{stroke-dashoffset:-32}}
+.mapa .base{fill:none;stroke:rgba(190,215,255,.7);stroke-width:1}
+.mapa .pt{cursor:pointer;outline:none;transition:opacity .35s}.mapa .pt .hit{fill:transparent;pointer-events:all}.mapa .pt .dot{fill:#2eeefc}
+.mapa .pt .halo{fill:#2eeefc;opacity:0;transform-box:fill-box;transform-origin:center;animation:latido 3.4s ease-out var(--l) infinite}
+.mapa .pt.sp .dot{fill:#d4e3ff}.mapa .pt.sp .halo{fill:#d4e3ff;animation-duration:5.2s}
+@keyframes latido{0%{transform:scale(1);opacity:.5}100%{transform:scale(2.8);opacity:0}}
+.mapa .pt:hover .dot,.mapa .pt:focus .dot{fill:#fff}.mapa .pt:focus-visible .dot{stroke:var(--gold);stroke-width:1.2}.mapa .pt.off{opacity:.1;pointer-events:none}.mapa .pt.off .halo{display:none}
+.tip{position:absolute;z-index:4;display:flex;gap:10px;background:rgba(10,14,18,.96);border:1px solid var(--gold);padding:8px;max-width:280px;font:13px/1.3 Arial,sans-serif}.tip[hidden]{display:none}.tip img{object-fit:cover;width:60px;height:80px;flex:none}.tip img[hidden]{display:none}
+.tip strong{display:block;color:var(--ink);font-size:14px;margin-bottom:3px}.tip span{display:block;color:var(--gold);font-size:11px;letter-spacing:.1em;text-transform:uppercase;margin-bottom:7px}.tip a{color:var(--gold);font-weight:700}
+.mfil .zoom{margin-left:auto}@media(max-width:560px){.mfil .zoom{margin-left:0}.mapa .st:nth-child(n+41){display:none}}
+@media(prefers-reduced-motion:reduce){.mapa:after{display:none}.mapa .st,.mapa .aura,.mapa .lin,.mapa .pt .halo{animation:none}.mapa .st{opacity:.6}}
 .bnr{position:relative;overflow:hidden;width:100%;margin:0 0 22px;border:0;border-bottom:1px solid var(--line);background:#020306 url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='300' height='300'%3E%3Cfilter id='n'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='2' stitchTiles='stitch'/%3E%3CfeColorMatrix values='0 0 0 0 .45 0 0 0 0 .85 0 0 0 0 .95 .9 0 0 0 -.47'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23n)'/%3E%3C/svg%3E");animation:ruido .5s steps(1,end) infinite;display:flex;justify-content:center}
 .bnr .gl{position:absolute;top:0;bottom:0;left:50%;width:min(100%,880px);transform:translateX(-50%);background:url(/banner-senal-perdida-fondo-sin-rotulos-animados.jpg) center/100% 100% no-repeat;z-index:1;pointer-events:none;opacity:0;animation:rebanada 6s steps(1,end) infinite}
 @keyframes ruido{0%{background-position:0 0}25%{background-position:-97px 41px}50%{background-position:63px -120px}75%{background-position:-151px -33px}100%{background-position:20px 88px}}
