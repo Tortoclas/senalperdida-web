@@ -62,4 +62,5 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offse
 .gal{grid-template-columns:repeat(3,1fr)}
 @media(max-width:560px){.gal{display:flex;overflow-x:auto;scroll-snap-type:x mandatory;gap:10px;margin-right:-18px;padding-right:18px;-webkit-overflow-scrolling:touch}.gal figure{flex:0 0 72%;scroll-snap-align:start}}
 @media(max-width:560px){.grid{grid-template-columns:1fr 1fr;gap:10px}.cb{padding:10px 11px 14px}.cb p{display:none}.cb h3{font-size:14px;line-height:1.25}.cb .eyebrow{font-size:10px;letter-spacing:.1em}.card.dest{grid-column:1/-1}.card.dest .cb p{display:block;font-size:15px}.card.dest h3{font-size:20px}.ph.fb{padding:12px}.ph.fb .big{font-size:20px}.ph .chip{font-size:9px;padding:4px 6px;left:6px;top:6px}}
+.gal.one{grid-template-columns:1fr}.gal.one img{width:100%}@media(max-width:560px){.gal.one figure{flex:0 0 100%;max-width:none}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
