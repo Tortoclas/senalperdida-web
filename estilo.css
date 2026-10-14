@@ -66,10 +66,12 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offse
 .vtop{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin:0 0 1.4em;font:700 12px/1 Arial,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--mute)}.vtop span{margin-right:4px}.vtop .btn{background:var(--gold);color:#0b0a09}.vtop .btn:hover{background:#e3b95a}
 .share button.btn{background:none;cursor:pointer}.share button.btn:hover{background:var(--gold)}.share .btn[hidden]{display:none}
 @media(max-width:560px){header.site .wrap{gap:8px}.brand{font-size:13px;gap:7px;white-space:nowrap}.brand img{width:28px;height:28px}nav{font-size:13px;gap:10px}nav a{white-space:nowrap}}
-.bnr{position:relative;overflow:hidden;max-width:880px;width:calc(100% - 36px);margin:18px auto 22px;border-radius:4px;border:1px solid var(--line);background:#06080a}
-.bnr:after{content:"";position:absolute;left:0;right:0;top:0;height:18%;background:linear-gradient(transparent,rgba(120,220,255,.10),transparent);transform:translateY(-120%);animation:barrido 7s linear infinite;pointer-events:none;will-change:transform}
-.bnr .banner{animation:parpadeo 9s steps(1,end) infinite}
-@keyframes barrido{0%{transform:translateY(-120%)}100%{transform:translateY(620%)}}
-@keyframes parpadeo{0%,91%,94%,100%{opacity:1;transform:none}92%{opacity:.86;transform:translateX(2px)}93%{opacity:.93;transform:translateX(-1px)}}
-@media(prefers-reduced-motion:reduce){.bnr:after,.bnr .banner{animation:none}}
+.bnr{position:relative;overflow:hidden;width:100%;margin:0 0 22px;border:0;border-bottom:1px solid var(--line);background:#020306;display:flex;justify-content:center}
+.bnr .banner{display:block;width:100%;max-width:880px;height:auto;-webkit-mask-image:linear-gradient(90deg,transparent,#000 7%,#000 93%,transparent);mask-image:linear-gradient(90deg,transparent,#000 7%,#000 93%,transparent);animation:parpadeo 5s steps(1,end) infinite}
+.bnr:before{content:"";position:absolute;inset:0;z-index:1;background:repeating-linear-gradient(0deg,rgba(0,0,0,.28) 0,rgba(0,0,0,.28) 1px,transparent 1px,transparent 3px);pointer-events:none;animation:lineas 0.6s steps(3,end) infinite}
+.bnr:after{content:"";position:absolute;left:0;right:0;top:0;height:26%;z-index:2;background:linear-gradient(transparent,rgba(120,220,255,.26),rgba(255,255,255,.10),transparent);transform:translateY(-120%);animation:barrido 4.5s linear infinite;pointer-events:none;will-change:transform}
+@keyframes barrido{0%{transform:translateY(-120%)}100%{transform:translateY(420%)}}
+@keyframes lineas{0%{background-position:0 0}100%{background-position:0 3px}}
+@keyframes parpadeo{0%,80%,86%,90%,95%,100%{opacity:1;transform:none;filter:none}81%{opacity:.55;transform:translateX(6px);filter:hue-rotate(-30deg) brightness(1.5)}83%{opacity:.8;transform:translateX(-5px) skewX(2deg);filter:hue-rotate(30deg)}91%{opacity:.7;transform:translateX(4px);filter:brightness(1.7)}93%{opacity:.9;transform:translateX(-2px)}}
+@media(prefers-reduced-motion:reduce){.bnr:before,.bnr:after,.bnr .banner{animation:none}.bnr:after{display:none}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
