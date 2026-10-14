@@ -85,8 +85,9 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offse
 @keyframes l3{0%{opacity:0}54%{opacity:1}60%{opacity:0}}
 @keyframes l4{0%{opacity:0}56%{opacity:1}58%{opacity:0}}
 .bnr:before{content:"";position:absolute;inset:0;z-index:1;background:repeating-linear-gradient(0deg,rgba(0,0,0,.28) 0,rgba(0,0,0,.28) 1px,transparent 1px,transparent 3px);pointer-events:none;animation:lineas 0.6s steps(3,end) infinite}
-.bnr:after{content:"";position:absolute;left:0;right:0;top:-14px;height:12px;z-index:2;background:linear-gradient(transparent,rgba(120,220,255,.16) 45%,rgba(255,255,255,.10) 55%,transparent);animation:barrido 4.5s linear infinite;pointer-events:none}
+.bnr:after{content:"";position:absolute;left:0;right:0;top:-14px;height:12px;z-index:2;background:linear-gradient(transparent,rgba(120,220,255,.16) 45%,rgba(255,255,255,.10) 55%,transparent);animation:barrido 9s linear infinite,glitchbarra 2.3s steps(1,end) infinite;pointer-events:none}
 @keyframes barrido{0%{top:-14px}100%{top:100%}}
+@keyframes glitchbarra{0%{opacity:1;transform:none;filter:none}12%{opacity:.3;transform:translateX(22px)}14%{opacity:1;transform:translateX(-30px) scaleY(2.4);filter:hue-rotate(-60deg) brightness(1.6)}16%{opacity:.6;transform:skewX(-35deg)}18%{opacity:1;transform:none;filter:none}48%{opacity:1;transform:translateX(34px) skewX(25deg);filter:hue-rotate(60deg)}50%{opacity:0}52%{opacity:1;transform:none;filter:none}80%{opacity:.5;transform:scaleY(3.2) translateX(-14px);filter:brightness(1.8)}82%{opacity:1;transform:none;filter:none}}
 @keyframes lineas{0%{background-position:0 0}100%{background-position:0 3px}}
 @keyframes parpadeo{0%,80%,86%,90%,95%,100%{opacity:1;transform:none;filter:none}81%{opacity:.55;transform:translateX(6px);filter:hue-rotate(-30deg) brightness(1.5)}83%{opacity:.8;transform:translateX(-5px) skewX(2deg);filter:hue-rotate(30deg)}91%{opacity:.7;transform:translateX(4px);filter:brightness(1.7)}93%{opacity:.9;transform:translateX(-2px)}}
 @media(prefers-reduced-motion:reduce){.bnr,.bnr:before,.bnr:after,.bnr .bw,.bnr .cg,.bnr .barras i:after{animation:none}.bnr:after,.bnr .gl{display:none}}
