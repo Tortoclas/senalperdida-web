@@ -11,7 +11,7 @@ h1,h2,h3{font-family:'Arial Black',Impact,sans-serif;line-height:1.15;letter-spa
 h1{font-size:clamp(28px,6vw,46px);margin:.3em 0 .4em}h2{font-size:22px;margin:2em 0 .6em;color:var(--gold);text-transform:uppercase;letter-spacing:.08em}
 .eyebrow{font:700 12px/1 Arial,sans-serif;letter-spacing:.18em;text-transform:uppercase;color:var(--gold)}
 .lead{font-size:21px;color:#f4ecd9;border-left:3px solid var(--gold);padding-left:16px;margin:0 0 1.2em}
-.hero{padding:56px 0 34px;text-align:center}.hero img{width:96px;height:96px;border-radius:14px;border:1px solid var(--line)}
+.hero{padding:56px 0 26px;text-align:center}.hero img{width:96px;height:96px;border-radius:14px;border:1px solid var(--line)}
 .hero-banner{padding-top:0}.hero .banner{display:block;width:100%;height:auto;max-height:420px;object-fit:cover;border:0;border-radius:0;margin:0 0 28px}.vh{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
 .hero h1{margin:.5em 0 .2em}.tag{color:var(--mute);font-style:italic;margin:0 0 22px}
 .gal{display:grid;grid-template-columns:repeat(3,1fr);gap:10px;margin:1.4em 0}.gal figure{margin:0}.gal img{width:100%;height:auto;display:block;border-radius:4px;border:1px solid var(--line)}.gal figcaption,.cap{font:12px/1.4 Arial,sans-serif;color:var(--mute);margin-top:6px}
@@ -36,7 +36,7 @@ footer{border-top:1px solid var(--line);margin-top:60px;padding:28px 0 48px;colo
 a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offset:3px}
 .skip{position:absolute;left:-999px;top:0;background:var(--gold);color:#000;padding:8px 12px;z-index:9}.skip:focus{left:8px;top:8px}
 .wrap.read{max-width:700px}
-.hero-banner .banner{max-height:none;height:auto;object-fit:contain;max-width:1600px;margin-left:auto;margin-right:auto}
+.hero-banner .banner{max-height:none;height:auto;object-fit:contain;max-width:880px;width:calc(100% - 36px);margin:18px auto 22px;border-radius:4px;border:1px solid var(--line)}
 
 .filtros{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 18px}
 .filtros button{background:none;border:1px solid var(--line);color:var(--mute);font:700 12px/1 Arial,sans-serif;letter-spacing:.12em;text-transform:uppercase;padding:9px 12px;border-radius:3px;cursor:pointer}
@@ -65,4 +65,5 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offse
 .gal.one{grid-template-columns:1fr}.gal.one img{width:100%}@media(max-width:560px){.gal.one figure{flex:0 0 100%;max-width:none}}
 .vtop{display:flex;flex-wrap:wrap;align-items:center;gap:10px;margin:0 0 1.4em;font:700 12px/1 Arial,sans-serif;letter-spacing:.14em;text-transform:uppercase;color:var(--mute)}.vtop span{margin-right:4px}.vtop .btn{background:var(--gold);color:#0b0a09}.vtop .btn:hover{background:#e3b95a}
 .share button.btn{background:none;cursor:pointer}.share button.btn:hover{background:var(--gold)}.share .btn[hidden]{display:none}
+@media(max-width:560px){header.site .wrap{gap:8px}.brand{font-size:13px;gap:7px;white-space:nowrap}.brand img{width:28px;height:28px}nav{font-size:13px;gap:10px}nav a{white-space:nowrap}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
