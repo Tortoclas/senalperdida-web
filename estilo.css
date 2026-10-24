@@ -116,3 +116,19 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offse
 .up{display:inline-block;margin-top:.4em;padding:9px 16px;border:1px solid var(--line);color:var(--mute);text-decoration:none;font:700 12px/1 Arial,sans-serif;letter-spacing:.12em;text-transform:uppercase}
 .up:hover,.up:focus-visible{color:var(--ink);border-color:currentColor}
 @media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
+
+/* colores por etiqueta */
+[data-cat="Crimen"],[data-f="Crimen"]{--c:#e0586b}
+[data-cat="Espacio"],[data-f="Espacio"]{--c:#78a6ee}
+[data-cat="Historia"],[data-f="Historia"]{--c:#d4a73f}
+[data-cat="Injusticia"],[data-f="Injusticia"]{--c:#ec8a4a}
+[data-cat="Leyendas"],[data-f="Leyendas"]{--c:#9fd06a}
+[data-cat="Lugares malditos"],[data-f="Lugares malditos"]{--c:#3fc1b6}
+[data-cat="Misterio"],[data-f="Misterio"]{--c:#a98be6}
+.chip[data-cat]{color:var(--c);border-color:var(--c)}
+.ph .chip[data-cat]{color:var(--c);border-color:var(--c);background:rgba(11,10,9,.82)}
+.card[data-cat]{border-top:3px solid var(--c)}
+.filtros button[data-f]:not([data-f=""]){border-left:4px solid var(--c)}
+.filtros button[data-f]:not([data-f=""])[aria-pressed=true]{border-color:var(--c);color:var(--c)}
+.mapa .pt[data-cat] .dot,.mapa .pt[data-cat] .halo{fill:var(--c)}
+.mapa .pt[data-cat]:hover .dot,.mapa .pt[data-cat]:focus .dot{fill:#fff}
