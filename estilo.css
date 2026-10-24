@@ -132,3 +132,9 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offse
 .filtros button[data-f]:not([data-f=""])[aria-pressed=true]{border-color:var(--c);color:var(--c)}
 .mapa .pt[data-cat] .dot,.mapa .pt[data-cat] .halo{fill:var(--c)}
 .mapa .pt[data-cat]:hover .dot,.mapa .pt[data-cat]:focus .dot{fill:#fff}
+
+.busca{margin:0 0 14px}
+.busca input{width:100%;box-sizing:border-box;background:var(--card);border:1px solid var(--line);color:var(--ink);font:16px/1.2 Arial,sans-serif;padding:13px 14px;border-radius:3px}
+.busca input::placeholder{color:var(--mute)}
+.busca input:focus-visible{outline:2px solid var(--gold);outline-offset:1px}
+.nada{color:var(--mute);font:15px Arial,sans-serif;margin:18px 0}
