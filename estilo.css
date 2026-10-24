@@ -112,3 +112,7 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offse
 @keyframes parpadeo{0%,80%,86%,90%,95%,100%{opacity:1;transform:none;filter:none}81%{opacity:.55;transform:translateX(6px);filter:hue-rotate(-30deg) brightness(1.5)}83%{opacity:.8;transform:translateX(-5px) skewX(2deg);filter:hue-rotate(30deg)}91%{opacity:.7;transform:translateX(4px);filter:brightness(1.7)}93%{opacity:.9;transform:translateX(-2px)}}
 @media(prefers-reduced-motion:reduce){.bnr,.bnr:before,.bnr:after,.bnr .bw,.bnr .cg,.bnr .barras i:after{animation:none}.bnr:after,.bnr .gl{display:none}}
 @media(prefers-reduced-motion:reduce){*{transition:none!important;scroll-behavior:auto!important}}
+
+.up{display:inline-block;margin-top:.4em;padding:9px 16px;border:1px solid var(--line);color:var(--mute);text-decoration:none;font:700 12px/1 Arial,sans-serif;letter-spacing:.12em;text-transform:uppercase}
+.up:hover,.up:focus-visible{color:var(--ink);border-color:currentColor}
+@media (prefers-reduced-motion:no-preference){html{scroll-behavior:smooth}}
