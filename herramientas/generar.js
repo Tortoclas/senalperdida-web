@@ -62,7 +62,35 @@ function portada(todos) {
   if (a < 0 || b < 0) throw new Error('No encuentro la rejilla de la portada');
   return h.slice(0, a) + '<div class="grid">' + todos.map((d, i) => tarjeta(d, { dest: i === 0 })).join('') + h.slice(b);
 }
-module.exports = { pagina, portada, cargar };
+// Mapa: los puntos que ya existen no se tocan; se añaden los casos nuevos (con d.mapa = {lat, lon} o {x, y}) y se regenera «Todos los casos»
+const proy = (lat, lon) => [+(2.68 * lon + 501.4).toFixed(1), +(-3.175 * lat + 416).toFixed(1)];   // ajustada con los casos actuales (error de unos pocos px)
+function mapa(todos) {
+  const f = path.join(RAIZ, 'mapa', 'index.html'); let h = fs.readFileSync(f, 'utf8');
+  const hay = new Set([...h.matchAll(/<a class="pt[^"]*" href="\/casos\/(.*?)\/"/g)].map(m => m[1]));
+  const nuevos = todos.filter(d => !hay.has(d.slug));
+  let n = hay.size;
+  const pts = nuevos.map(d => {
+    if (!d.mapa) throw new Error('Falta d.mapa (lat/lon o x/y) en el caso ' + d.slug);
+    const [x, y] = d.mapa.x !== undefined ? [d.mapa.x, d.mapa.y] : proy(d.mapa.lat, d.mapa.lon), l = (-0.55 * n++).toFixed(2);
+    const t = d.corto, e = d.lugar;
+    return `<a class="pt" href="/casos/${d.slug}/" data-cat="${d.cat}" data-t="${ea(t)}" data-e="${ea(e)}" data-i="${d.portada}" data-x="${x.toFixed(1)}" data-y="${y.toFixed(1)}" aria-label="${ea(t + ', ' + e)}" style="--l:${l}s"><circle class="hit" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="8"/><circle class="halo" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="6"/><circle class="dot" cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="4.2"/></a>`;
+  }).join('');
+  h = h.replace('</g></svg><div class="tip"', pts + '</g></svg><div class="tip"');
+  const a = h.indexOf('<h2>Todos los casos</h2><div class="grid">'), b = h.indexOf('</div>', h.lastIndexOf('</a>', h.indexOf('</main>', a)));
+  if (a < 0 || b < 0) throw new Error('No encuentro «Todos los casos» en el mapa');
+  return h.slice(0, a) + '<h2>Todos los casos</h2><div class="grid">' + todos.slice().sort((p, q) => q.publicado.localeCompare(p.publicado) || (p.ordenMapa < 0 ? 1e9 : p.ordenMapa) - (q.ordenMapa < 0 ? 1e9 : q.ordenMapa)).map(d => tarjeta(d)).join('') + h.slice(b);
+}
+// Sitemap: las entradas que ya existen no se tocan; se añaden las de los casos nuevos justo detrás de la portada, el más reciente primero
+const ex = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+function sitemap(todos) {
+  const f = path.join(RAIZ, 'sitemap.xml'), h = fs.readFileSync(f, 'utf8');
+  const nuevos = todos.filter(d => !h.includes(`<loc>${SITIO}/casos/${d.slug}/</loc>`)); if (!nuevos.length) return h;
+  const ent = d => `<url><loc>${SITIO}/casos/${d.slug}/</loc><lastmod>${d.modificado}</lastmod><priority>0.8</priority>` + d.figs.map(g => `<image:image><image:loc>${SITIO}${g.src}</image:loc><image:caption>${ex(g.alt)}</image:caption></image:image>`).join('') +
+    (d.video ? `<video:video><video:thumbnail_loc>https://i.ytimg.com/vi/${d.video.id}/hqdefault.jpg</video:thumbnail_loc><video:title>${ex(d.titulo)}</video:title><video:description>${ex(d.desc)}</video:description><video:player_loc>https://www.youtube.com/embed/${d.video.id}</video:player_loc><video:publication_date>${d.video.subido}</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video>` : '') + '</url>\n';
+  const i = h.indexOf('\n', h.indexOf('<loc>' + SITIO + '/</loc>')) + 1;
+  return h.slice(0, i) + nuevos.map(ent).join('') + h.slice(i);
+}
+module.exports = { pagina, portada, mapa, sitemap, cargar };
 if (require.main === module) {
   const comp = process.argv.includes('--comprobar'); let ok = 0, mal = 0; const TODOS = cargar();
   for (const f of fs.readdirSync(DATOS).filter(x => x.endsWith('.json'))) {
@@ -72,5 +100,9 @@ if (require.main === module) {
   }
   { const f = path.join(RAIZ, 'index.html'), nuevo = portada(TODOS), real = fs.readFileSync(f, 'utf8');
     if (comp) { if (nuevo === real) ok++; else { mal++; let i = 0; while (i < real.length && real[i] === nuevo[i]) i++; console.log('DIFIERE portada en', i, '\n  real:', JSON.stringify(real.slice(Math.max(0, i - 40), i + 100)), '\n  gen: ', JSON.stringify(nuevo.slice(Math.max(0, i - 40), i + 100))); } } else { fs.writeFileSync(f, nuevo); ok++; } }
+  { const f = path.join(RAIZ, 'mapa', 'index.html'), nuevo = mapa(TODOS), real = fs.readFileSync(f, 'utf8');
+    if (comp) { if (nuevo === real) ok++; else { mal++; let i = 0; while (i < real.length && real[i] === nuevo[i]) i++; console.log('DIFIERE mapa en', i, '\n  real:', JSON.stringify(real.slice(Math.max(0, i - 60), i + 100)), '\n  gen: ', JSON.stringify(nuevo.slice(Math.max(0, i - 60), i + 100))); } } else { fs.writeFileSync(f, nuevo); ok++; } }
+  { const f = path.join(RAIZ, 'sitemap.xml'), nuevo = sitemap(TODOS), real = fs.readFileSync(f, 'utf8');
+    if (comp) { if (nuevo === real) ok++; else { mal++; let i = 0; while (i < real.length && real[i] === nuevo[i]) i++; console.log('DIFIERE sitemap en', i, '\n  real:', JSON.stringify(real.slice(Math.max(0, i - 60), i + 100)), '\n  gen: ', JSON.stringify(nuevo.slice(Math.max(0, i - 60), i + 100))); } } else { fs.writeFileSync(f, nuevo); ok++; } }
   console.log(comp ? `Iguales: ${ok}, distintas: ${mal}` : `Escritas: ${ok}`);
 }
