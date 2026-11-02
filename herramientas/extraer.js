@@ -6,6 +6,7 @@ fs.mkdirSync(OUT, { recursive: true });
 const un = (s, re, i) => { const m = re.exec(s); if (!m) throw new Error('No encuentro ' + re); return m[i === undefined ? 1 : i]; };
 const op = (s, re, i) => { const m = re.exec(s); return m ? m[i === undefined ? 1 : i] : null; };
 const dec = s => s.replace(/&quot;/g, '"').replace(/&#39;/g, "'").replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+const IDX = fs.readFileSync(path.join(RAIZ, 'index.html'), 'utf8'), TARJ = [...IDX.matchAll(/<a class="card[^>]*href="\/casos\/(.*?)\/"><div class="ph"><img src="(.*?)"/g)];
 for (const slug of fs.readdirSync(path.join(RAIZ, 'casos'))) {
   const f = path.join(RAIZ, 'casos', slug, 'index.html'); if (!fs.existsSync(f)) continue;
   const s = fs.readFileSync(f, 'utf8'), d = { slug };
@@ -29,6 +30,7 @@ for (const slug of fs.readdirSync(path.join(RAIZ, 'casos'))) {
   d.video = vid ? { formato: vid[1] ? 'short' : 'largo', etiqueta: vid[2], id: vid[3], titulo: dec(vid[4]), subido: op(s, /"uploadDate": "(.*?)"/) } : null;
   d.fuentes = [...un(s, /<h2>Fuentes<\/h2><ul class="src">(.*?)<\/ul>/).matchAll(/<li><a href="(.*?)" rel="noopener nofollow" target="_blank">(.*?)<\/a><\/li>/g)].map(m => ({ url: dec(m[1]), txt: dec(m[2]) }));
   d.saltoMas = /<\/article>\n<h2>Más casos/.test(s);
+  { const k = TARJ.findIndex(m => m[1] === slug); d.orden = k; d.portada = k >= 0 ? TARJ[k][2] : null; }
   d.masRaw = un(s, /<h2>Más casos<\/h2>(.*?)<\/main>/);
   fs.writeFileSync(path.join(OUT, slug + '.json'), JSON.stringify(d, null, 1));
   console.log(slug.slice(0, 30), d.figs.length, d.sabemos.length, d.discute.length, d.fuentes.length, d.video ? 'video' : '');

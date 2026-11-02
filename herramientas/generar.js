@@ -9,7 +9,16 @@ const ET = { 'Crimen': 1, 'Espacio': 1, 'Historia': 1, 'Injusticia': 1, 'Leyenda
 const enc = encodeURIComponent;
 // mismo formato que el resto de la web: ", " entre elementos y ": " en los objetos, con tildes tal cual
 const J = o => Array.isArray(o) ? '[' + o.map(J).join(', ') + ']' : o && typeof o === 'object' ? '{' + Object.keys(o).map(k => JSON.stringify(k) + ': ' + J(o[k])).join(', ') + '}' : JSON.stringify(o);
-function pagina(d) {
+function cargar() {
+  return fs.readdirSync(DATOS).filter(x => x.endsWith('.json')).map(f => JSON.parse(fs.readFileSync(path.join(DATOS, f), 'utf8'))).sort((a, b) => a.orden - b.orden);
+}
+const tarjeta = (d, o) => { o = o || {}; return `<a class="card pc${o.dest ? ' dest' : ''}" data-cat="${d.cat}" href="/casos/${d.slug}/"><div class="ph"><img src="${d.portada}" alt="" width="640" height="800" loading="${o.dest ? 'eager' : 'lazy'}"><span class="chip" data-cat="${d.cat}">${d.cat}</span></div><div class="cb">${o.dest ? '<span class="etq">Último caso</span>' : ''}<span class="eyebrow">${d.lugar}</span><h3>${ea(d.titulo)}</h3><p>${ea(d.desc)}</p></div></a>`; };
+// Más casos: los de la misma etiqueta primero y luego el resto en el orden de la portada, cuatro en total
+function masCasos(d, todos) {
+  const otros = todos.filter(x => x.slug !== d.slug);
+  return '<div class="grid" style="margin-bottom:0">' + otros.filter(x => x.cat === d.cat).concat(otros.filter(x => x.cat !== d.cat)).slice(0, 4).map(x => tarjeta(x)).join('') + '</div>';
+}
+function pagina(d, todos) {
   const url = `${SITIO}/casos/${d.slug}/`, tit = `${d.titulo} | Señal Perdida`, og = SITIO + d.ogimg;
   const ld1 = { '@context': 'https://schema.org', '@type': 'Article', headline: d.titulo, description: d.desc, inLanguage: 'es', datePublished: d.publicado, dateModified: d.modificado, mainEntityOfPage: url, author: { '@type': 'Organization', name: 'Señal Perdida' }, publisher: { '@type': 'Organization', name: 'Señal Perdida', logo: { '@type': 'ImageObject', url: SITIO + '/logo-senal-perdida.jpg' } }, image: [og] };
   const ld2 = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Inicio', item: SITIO + '/' }, { '@type': 'ListItem', position: 2, name: d.corto, item: url }] };
@@ -44,16 +53,24 @@ ${d.saltoGal ? '\n' : ''}<div class="gal${d.galClase}">${figs}</div><p class="ca
 ${vid}<div class="cta"><p><strong>¿Te ha dejado con ganas de más?</strong></p><p>Cada semana, una historia oscura en vídeo.</p>
 <div class="btns"><a class="btn" href="https://www.tiktok.com/@senalperdida_oficial" rel="noopener">TikTok</a><a class="btn" href="https://www.youtube.com/@Se%C3%B1alPerdidasecretos" rel="noopener">YouTube</a></div></div>
 <h2>Fuentes</h2><ul class="src">${d.fuentes.map(x => `<li><a href="${ea(x.url)}" rel="noopener nofollow" target="_blank">${ea(x.txt)}</a></li>`).join('')}</ul>
-${share}<h2>Más casos</h2>${d.masRaw}`;
+${share}<h2>Más casos</h2>${todos ? masCasos(d, todos) : d.masRaw}`;
   return head + cuerpo + PIE;
 }
-module.exports = { pagina };
+// Portada: solo se sustituye la rejilla de tarjetas; el resto de index.html se deja como está
+function portada(todos) {
+  const f = path.join(RAIZ, 'index.html'), h = fs.readFileSync(f, 'utf8'), a = h.indexOf('<div class="grid">'), b = h.indexOf('</div><p id="nada"');
+  if (a < 0 || b < 0) throw new Error('No encuentro la rejilla de la portada');
+  return h.slice(0, a) + '<div class="grid">' + todos.map((d, i) => tarjeta(d, { dest: i === 0 })).join('') + h.slice(b);
+}
+module.exports = { pagina, portada, cargar };
 if (require.main === module) {
-  const comp = process.argv.includes('--comprobar'); let ok = 0, mal = 0;
+  const comp = process.argv.includes('--comprobar'); let ok = 0, mal = 0; const TODOS = cargar();
   for (const f of fs.readdirSync(DATOS).filter(x => x.endsWith('.json'))) {
-    const d = JSON.parse(fs.readFileSync(path.join(DATOS, f), 'utf8')), html = pagina(d), dest = path.join(RAIZ, 'casos', d.slug, 'index.html');
+    const d = JSON.parse(fs.readFileSync(path.join(DATOS, f), 'utf8')), html = pagina(d, TODOS), dest = path.join(RAIZ, 'casos', d.slug, 'index.html');
     if (comp) { const real = fs.readFileSync(dest, 'utf8'); if (real === html) ok++; else { mal++; let i = 0; while (i < real.length && real[i] === html[i]) i++; console.log('DIFIERE', d.slug, 'en', i, '\n  real:', JSON.stringify(real.slice(Math.max(0, i - 40), i + 80)), '\n  gen: ', JSON.stringify(html.slice(Math.max(0, i - 40), i + 80))); } }
     else { fs.mkdirSync(path.dirname(dest), { recursive: true }); fs.writeFileSync(dest, html); ok++; }
   }
+  { const f = path.join(RAIZ, 'index.html'), nuevo = portada(TODOS), real = fs.readFileSync(f, 'utf8');
+    if (comp) { if (nuevo === real) ok++; else { mal++; let i = 0; while (i < real.length && real[i] === nuevo[i]) i++; console.log('DIFIERE portada en', i, '\n  real:', JSON.stringify(real.slice(Math.max(0, i - 40), i + 100)), '\n  gen: ', JSON.stringify(nuevo.slice(Math.max(0, i - 40), i + 100))); } } else { fs.writeFileSync(f, nuevo); ok++; } }
   console.log(comp ? `Iguales: ${ok}, distintas: ${mal}` : `Escritas: ${ok}`);
 }
