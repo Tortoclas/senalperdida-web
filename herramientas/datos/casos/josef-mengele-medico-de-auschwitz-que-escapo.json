@@ -1,0 +1,72 @@
+{
+ "slug": "josef-mengele-medico-de-auschwitz-que-escapo",
+ "titulo": "Josef Mengele: el médico de Auschwitz que murió libre",
+ "desc": "Josef Mengele, médico de Auschwitz, escapó a Sudamérica y murió en Brasil en 1979. Cronología verificada y cómo se confirmó su identidad en 1985.",
+ "lead": "Seleccionó a miles de personas para la muerte en Auschwitz. Después de la guerra nadie lo juzgó. Murió nadando en una playa de Brasil y vivió años con otro nombre.",
+ "lugar": "Alemania-Brasil, 1943-1985",
+ "cat": "Historia",
+ "corto": "Josef Mengele",
+ "ogimg": "/img/josef-mengele-imagen-para-compartir.jpg",
+ "publicado": "2026-10-13",
+ "modificado": "2026-10-13",
+ "vtop": {
+  "saltoAntes": false,
+  "texto": "Míralo en vídeo",
+  "botones": [
+   {
+    "href": "https://www.tiktok.com/@senalperdida_oficial/video/7693662987109895426",
+    "boton": "Ver en TikTok"
+   }
+  ]
+ },
+ "saltoGal": false,
+ "galClase": "",
+ "figs": [
+  {
+   "src": "/img/josef-mengele-ilustracion-de-una-calle-con-luces-rojas-y-una-multitud.jpg",
+   "srcset": "/img/josef-mengele-ilustracion-de-una-calle-con-luces-rojas-y-una-multitud-640.jpg 640w, /img/josef-mengele-ilustracion-de-una-calle-con-luces-rojas-y-una-multitud.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de una calle con luces rojas y una multitud",
+   "w": 768,
+   "h": 1344
+  },
+  {
+   "src": "/img/josef-mengele-ilustracion-de-un-ataud-con-una-cruz-en-un-cementerio.jpg",
+   "srcset": "/img/josef-mengele-ilustracion-de-un-ataud-con-una-cruz-en-un-cementerio-640.jpg 640w, /img/josef-mengele-ilustracion-de-un-ataud-con-una-cruz-en-un-cementerio.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de un ataúd con una cruz en un cementerio",
+   "w": 768,
+   "h": 1344
+  },
+  {
+   "src": "/img/josef-mengele-ilustracion-de-unas-manos-sosteniendo-una-carta-antigua.jpg",
+   "srcset": "/img/josef-mengele-ilustracion-de-unas-manos-sosteniendo-una-carta-antigua-640.jpg 640w, /img/josef-mengele-ilustracion-de-unas-manos-sosteniendo-una-carta-antigua.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de unas manos sosteniendo una carta antigua",
+   "w": 768,
+   "h": 1344
+  }
+ ],
+ "cap": "Recreación: Mengele murió en Brasil en 1979. En 1985, un equipo forense confirmó su identidad.",
+ "sabemos": [
+  "Josef Mengele nació el 16 de marzo de 1911 en Günzburg (Alemania).",
+  "Entre 1943 y 1945 fue médico jefe en Birkenau, el campo de exterminio complementario de Auschwitz. Participó en la selección de los recién llegados entre trabajo forzado y exterminio y supervisó experimentos con presos, sobre todo con gemelos. Muchos terminaron con la muerte de los sujetos.",
+  "Tras la guerra evitó el internamiento y se ocultó cuatro años como mozo de cuadra cerca de Rosenheim (Baviera).",
+  "Según se cree, escapó por Génova a Sudamérica en 1949. Se casó en Uruguay en 1958, obtuvo la ciudadanía paraguaya como «José Mengele» en 1959 y se mudó a Brasil hacia 1961.",
+  "Murió el 7 de febrero de 1979 en Enseada da Bertioga, cerca de São Paulo, a los 67 años. Se atribuye a un derrame mientras nadaba.",
+  "En 1985, un equipo forense de Brasil, Alemania Occidental y Estados Unidos concluyó que había vivido con la identidad de Wolfgang Gerhard y estaba enterrado con ese nombre. Los registros dentales lo confirmaron."
+ ],
+ "discute": [
+  "Su ruta exacta de huida y sus movimientos por Sudamérica. Las fuentes dicen «según se cree» o «aparentemente».",
+  "Las causas exactas de su muerte (derrame mientras nadaba, según la versión citada)."
+ ],
+ "video": null,
+ "fuentes": [
+  {
+   "url": "https://www.britannica.com/EBchecked/topic/374956",
+   "txt": "Josef Mengele (Encyclopaedia Britannica)"
+  }
+ ],
+ "saltoMas": true,
+ "masRaw": "<div class=\"grid\" style=\"margin-bottom:0\"><a class=\"card pc\" data-cat=\"Historia\" href=\"/casos/maria-antonieta-juicio-hijo-luis-carlos-ultima-carta/\"><div class=\"ph\"><img src=\"/img/maria-antonieta-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Historia\">Historia</span></div><div class=\"cb\"><span class=\"eyebrow\">París, 1793-1816</span><h3>María Antonieta: la acusación de su hijo de ocho años y la carta que nunca llegó</h3><p>María Antonieta, octubre de 1793: la declaración que firmó su hijo de ocho años, el juicio, la guillotina y la última carta que no llegó a su destino. Hechos y dudas.</p></div></a><a class=\"card pc\" data-cat=\"Historia\" href=\"/casos/hiroo-onoda-soldado-que-siguio-en-guerra-30-anos/\"><div class=\"ph\"><img src=\"/img/hiroo-onoda-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Historia\">Historia</span></div><div class=\"cb\"><span class=\"eyebrow\">Filipinas, 1944-1974</span><h3>Hiroo Onoda: el soldado que siguió en guerra hasta 1974</h3><p>Hiroo Onoda, soldado japonés, se escondió en la isla de Lubang 29 años tras acabar la guerra y se rindió en 1974 cuando su mayor lo relevó. La historia.</p></div></a><a class=\"card pc\" data-cat=\"Historia\" href=\"/casos/sinodo-del-cadaver-el-papa-juzgado-despues-de-muerto/\"><div class=\"ph\"><img src=\"/img/sinodo-del-cadaver-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Historia\">Historia</span></div><div class=\"cb\"><span class=\"eyebrow\">Roma, 896-897</span><h3>El sínodo del cadáver: el papa que fue juzgado después de muerto</h3><p>El sínodo del cadáver (897): el papa Esteban VI juzgó el cuerpo exhumado de Formoso. Qué se sabe, qué es rumor y cómo terminó.</p></div></a><a class=\"card pc\" data-cat=\"Misterio\" href=\"/casos/michael-rockefeller-muerte-nueva-guinea-holanda-encubrimiento/\"><div class=\"ph\"><img src=\"/img/michael-rockefeller-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Misterio\">Misterio</span></div><div class=\"cb\"><span class=\"eyebrow\">Nueva Guinea Holandesa, 1958-1964</span><h3>Michael Rockefeller: lo que Holanda ocultó sobre su muerte en Nueva Guinea</h3><p>Michael Rockefeller desapareció en Nueva Guinea en 1961. Oficialmente se ahogó; según Carl Hoffman lo mataron en Otsjanep y Holanda lo supo. Hechos y dudas.</p></div></a></div>"
+}

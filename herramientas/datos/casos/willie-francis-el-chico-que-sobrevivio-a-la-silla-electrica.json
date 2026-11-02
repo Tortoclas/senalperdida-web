@@ -1,0 +1,89 @@
+{
+ "slug": "willie-francis-el-chico-que-sobrevivio-a-la-silla-electrica",
+ "titulo": "Willie Francis: el chico que sobrevivió a la silla eléctrica",
+ "desc": "Willie Francis sobrevivió a la silla eléctrica en 1946 y Luisiana volvió a ejecutarlo en 1947. Cronología, el voto 5 a 4 del Tribunal Supremo y lo que sigue en duda.",
+ "lead": "En mayo de 1946, un chico de diecisiete años se sentó en la silla eléctrica de Luisiana. La corriente pasó. No murió. Un año después, el Estado lo ejecutó otra vez.",
+ "lugar": "Luisiana, 1946-1947",
+ "cat": "Injusticia",
+ "corto": "Willie Francis",
+ "ogimg": "/img/willie-francis-imagen-para-compartir.jpg",
+ "publicado": "2026-10-13",
+ "modificado": "2026-10-13",
+ "vtop": {
+  "saltoAntes": false,
+  "texto": "Míralo en vídeo",
+  "botones": [
+   {
+    "href": "https://www.tiktok.com/@senalperdida_oficial/video/7627209540496379158",
+    "boton": "Ver en TikTok"
+   },
+   {
+    "href": "https://www.youtube.com/watch?v=7ABff72DDks",
+    "boton": "Ver en YouTube"
+   }
+  ]
+ },
+ "saltoGal": false,
+ "galClase": "",
+ "figs": [
+  {
+   "src": "/img/willie-francis-ilustracion-de-una-silla-electrica-bajo-una-lampara.jpg",
+   "srcset": "/img/willie-francis-ilustracion-de-una-silla-electrica-bajo-una-lampara-640.jpg 640w, /img/willie-francis-ilustracion-de-una-silla-electrica-bajo-una-lampara.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de una silla eléctrica bajo una lámpara",
+   "w": 784,
+   "h": 1168
+  },
+  {
+   "src": "/img/willie-francis-ilustracion-de-un-joven-preso-sentado-en-su-celda.jpg",
+   "srcset": "/img/willie-francis-ilustracion-de-un-joven-preso-sentado-en-su-celda-640.jpg 640w, /img/willie-francis-ilustracion-de-un-joven-preso-sentado-en-su-celda.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de un joven preso sentado en su celda",
+   "w": 784,
+   "h": 1168
+  },
+  {
+   "src": "/img/willie-francis-ilustracion-del-rostro-de-un-joven-en-el-momento-de-la-ejecucion.jpg",
+   "srcset": "/img/willie-francis-ilustracion-del-rostro-de-un-joven-en-el-momento-de-la-ejecucion-640.jpg 640w, /img/willie-francis-ilustracion-del-rostro-de-un-joven-en-el-momento-de-la-ejecucion.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración del rostro de un joven en el momento de la ejecución",
+   "w": 784,
+   "h": 1168
+  }
+ ],
+ "cap": "La silla eléctrica portátil falló el 3 de mayo de 1946. Willie Francis fue ejecutado un año después, el 9 de mayo de 1947.",
+ "sabemos": [
+  "Willie Francis nació el 12 de enero de 1929 en St. Martinville, Luisiana.",
+  "Lo acusaron del asesinato de Andrew Thomas, un farmacéutico del pueblo que había sido su empleador, tiroteado en diciembre de 1944.",
+  "Lo detuvieron el 3 de agosto de 1945 en Port Arthur (Texas) y firmó confesiones. Tenía dieciséis años.",
+  "Sus abogados de oficio no presentaron objeciones ni llamaron a ningún testigo. El jurado lo declaró culpable tras quince minutos de deliberación. La pena de muerte era obligatoria.",
+  "El 3 de mayo de 1946, con diecisiete años, sobrevivió a una primera ejecución. La silla portátil estaba mal instalada. Los testigos le oyeron gritar: «¡Quítenmelo! ¡Déjenme respirar!».",
+  "El abogado local Bertrand DeBlanc defendió que una segunda ejecución violaba la Constitución. La Junta de Perdones de Luisiana rechazó conmutar la pena.",
+  "El 13 de enero de 1947, el Tribunal Supremo de Estados Unidos falló en su contra por 5 votos a 4 (caso Francis contra Resweber). El juez Harold Burton votó en contra de la ejecución.",
+  "El 9 de mayo de 1947, con dieciocho años, fue ejecutado. Lo declararon muerto a las 12:10."
+ ],
+ "discute": [
+  "Si era culpable. Él mantuvo siempre su versión y el autor Gilbert King calificó el juicio de «farsa». La causa tuvo cabos sueltos: el arma y las balas desaparecieron antes del juicio.",
+  "Si hubo otros implicados. Francis nombró primero a dos chicos, que la policía descartó. Más tarde se habló de un ayudante del sheriff, pero no hay un informe que lo sostenga.",
+  "Los rumores de abusos de la víctima hacia Francis circularon, pero no están confirmados."
+ ],
+ "video": {
+  "formato": "short",
+  "etiqueta": "Vídeo en YouTube (español)",
+  "id": "7ABff72DDks",
+  "titulo": "Vídeo en YouTube (español)",
+  "subido": "2026-10-13T12:00:00+02:00"
+ },
+ "fuentes": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Willie_Francis",
+   "txt": "Willie Francis (Wikipedia, en inglés)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Louisiana_ex_rel._Francis_v._Resweber",
+   "txt": "Louisiana ex rel. Francis v. Resweber (Wikipedia, en inglés)"
+  }
+ ],
+ "saltoMas": true,
+ "masRaw": "<div class=\"grid\" style=\"margin-bottom:0\"><a class=\"card pc\" data-cat=\"Injusticia\" href=\"/casos/chicas-del-radio-radium-girls-fabrica-pintura-luminosa/\"><div class=\"ph\"><img src=\"/img/chicas-del-radio-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Injusticia\">Injusticia</span></div><div class=\"cb\"><span class=\"eyebrow\">Estados Unidos, 1917-1939</span><h3>Las chicas del radio: las obreras que pintaban con veneno</h3><p>Las Radium Girls pintaban relojes luminosos con radio y las empresas negaron que las enfermara. Casos, juicios y el cambio en la ley laboral.</p></div></a><a class=\"card pc\" data-cat=\"Injusticia\" href=\"/casos/crimen-de-cuenca-el-muerto-que-estaba-vivo/\"><div class=\"ph\"><img src=\"/img/crimen-de-cuenca-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Injusticia\">Injusticia</span></div><div class=\"cb\"><span class=\"eyebrow\">Cuenca, 1910-1935</span><h3>El crimen de Cuenca: condenados por matar a un hombre que estaba vivo</h3><p>El crimen de Cuenca: dos hombres torturados y condenados por asesinar a un pastor que reapareció vivo en 1926. Fechas, condena e indemnización.</p></div></a><a class=\"card pc\" data-cat=\"Injusticia\" href=\"/casos/bebes-robados-doctor-vela-primer-juicio/\"><div class=\"ph\"><img src=\"/img/bebes-robados-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Injusticia\">Injusticia</span></div><div class=\"cb\"><span class=\"eyebrow\">España, siglo XX-2018</span><h3>Bebés robados: el primer juicio y la absolución por prescripción</h3><p>El primer juicio por bebés robados en España terminó en 2018: el doctor Vela, declarado autor, fue absuelto por prescripción. Qué dijo el tribunal.</p></div></a><a class=\"card pc\" data-cat=\"Misterio\" href=\"/casos/michael-rockefeller-muerte-nueva-guinea-holanda-encubrimiento/\"><div class=\"ph\"><img src=\"/img/michael-rockefeller-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Misterio\">Misterio</span></div><div class=\"cb\"><span class=\"eyebrow\">Nueva Guinea Holandesa, 1958-1964</span><h3>Michael Rockefeller: lo que Holanda ocultó sobre su muerte en Nueva Guinea</h3><p>Michael Rockefeller desapareció en Nueva Guinea en 1961. Oficialmente se ahogó; según Carl Hoffman lo mataron en Otsjanep y Holanda lo supo. Hechos y dudas.</p></div></a></div>"
+}

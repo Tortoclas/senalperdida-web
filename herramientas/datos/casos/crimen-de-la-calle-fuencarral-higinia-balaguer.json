@@ -1,0 +1,80 @@
+{
+ "slug": "crimen-de-la-calle-fuencarral-higinia-balaguer",
+ "titulo": "El crimen de la calle Fuencarral: la criada que murió a garrote",
+ "desc": "El crimen de la calle Fuencarral (Madrid, 1888): la viuda asesinada, la criada Higinia Balaguer ejecutada a garrote y el hijo absuelto. Hechos y dudas.",
+ "lead": "Madrid, 1888. Una viuda aparece apuñalada y quemada en su casa. La criada acabará en el garrote ante unas veinte mil personas. El hijo de la víctima saldrá absuelto.",
+ "lugar": "Madrid, 1888-1890",
+ "cat": "Crimen",
+ "corto": "El crimen de la calle Fuencarral",
+ "ogimg": "/img/crimen-calle-fuencarral-imagen-para-compartir.jpg",
+ "publicado": "2026-10-13",
+ "modificado": "2026-10-13",
+ "vtop": {
+  "saltoAntes": false,
+  "texto": "Míralo en vídeo",
+  "botones": [
+   {
+    "href": "https://www.tiktok.com/@senalperdida_oficial/video/7696231154923392278",
+    "boton": "Ver en TikTok"
+   }
+  ]
+ },
+ "saltoGal": false,
+ "galClase": "",
+ "figs": [
+  {
+   "src": "/img/crimen-calle-fuencarral-grabado-de-una-calle-estrecha-del-madrid-del-siglo-xix.jpg",
+   "srcset": "/img/crimen-calle-fuencarral-grabado-de-una-calle-estrecha-del-madrid-del-siglo-xix-640.jpg 640w, /img/crimen-calle-fuencarral-grabado-de-una-calle-estrecha-del-madrid-del-siglo-xix.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Grabado de una calle estrecha del Madrid del siglo XIX",
+   "w": 768,
+   "h": 1344
+  },
+  {
+   "src": "/img/crimen-calle-fuencarral-grabado-de-una-joven-criada-sentada.jpg",
+   "srcset": "/img/crimen-calle-fuencarral-grabado-de-una-joven-criada-sentada-640.jpg 640w, /img/crimen-calle-fuencarral-grabado-de-una-joven-criada-sentada.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Grabado de una joven criada sentada",
+   "w": 768,
+   "h": 1344
+  },
+  {
+   "src": "/img/crimen-calle-fuencarral-grabado-del-grito-de-una-mujer.jpg",
+   "srcset": "/img/crimen-calle-fuencarral-grabado-del-grito-de-una-mujer-640.jpg 640w, /img/crimen-calle-fuencarral-grabado-del-grito-de-una-mujer.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Grabado del grito de una mujer",
+   "w": 768,
+   "h": 1344
+  }
+ ],
+ "cap": "Recreación en estilo de grabado: la calle Fuencarral, la criada Higinia Balaguer y su ejecución a garrote en 1890.",
+ "sabemos": [
+  "El crimen ocurrió el 1 de julio de 1888 en el número 109 de la calle Fuencarral, en Madrid. Los vecinos avisaron a la policía la mañana del 2 por el olor a petróleo.",
+  "La víctima era Luciana Borcino, viuda de Vázquez Varela, conocida por sus obras de caridad. Tenía tres puñaladas, una en el corazón. El cuerpo estaba cubierto con trapos empapados en petróleo y parcialmente quemado.",
+  "Había un perro envenenado con una sustancia anestésica en una habitación contigua y la criada, Higinia Balaguer, apareció inconsciente en la cocina. Llevaba unos seis meses en la casa.",
+  "Higinia dio varias versiones. Primero acusó a un tal «Miguel», luego al hijo de la víctima, José Vázquez Varela, «el pollo Varela». Más tarde confesó haber matado ella y, en otra versión, señaló a su amiga Dolores Ávila.",
+  "La noche anterior al crimen, Varela estaba en la Cárcel Modelo por el robo de una capa. La acusación relacionó con él al director de la cárcel, José Millán Astray, que supuestamente le dejaba entrar y salir.",
+  "El juicio empezó el 26 de marzo de 1889 y terminó el 25 de mayo. La defensa de Higinia la llevó el expresidente de la República Nicolás Salmerón. Benito Pérez Galdós asistió y escribió crónicas para el diario argentino La Prensa.",
+  "Sentencia: Higinia, a muerte; Dolores Ávila, a 18 años como cómplice. Varela, Millán Astray y María Ávila Palacios, absueltos.",
+  "Higinia fue ejecutada a garrote vil el 19 de julio de 1890 en Madrid. Unas veinte mil personas siguieron la ejecución desde el exterior de la cárcel. Antes de morir gritó «Dolores, catorce mil duros», una frase cuyo significado nunca se aclaró.",
+  "Años después, Varela se vio implicado en la muerte de una mujer en la calle Montera, por la que fue condenado y deportado catorce años al penal de Ceuta."
+ ],
+ "discute": [
+  "El móvil. Las primeras pesquisas no hallaron signos de robo, pero el tribunal lo consideró probado en el juicio.",
+  "Si Higinia actuó sola. El tribunal consideró que pudo contar con ayuda y el caso nunca aclaró quién más participó.",
+  "La fecha exacta de la ejecución y la edad de Higinia varían entre fuentes (la mayoría indica el 19 de julio de 1890). Aquí solo usamos el año."
+ ],
+ "video": null,
+ "fuentes": [
+  {
+   "url": "https://es.wikipedia.org/wiki/Crimen_de_la_calle_Fuencarral",
+   "txt": "Crimen de la calle Fuencarral (Wikipedia)"
+  },
+  {
+   "url": "https://www.chamberi30dias.es/reportajes/el-crimen-de-la-calle-de-fuencarral-cumple-130-anos",
+   "txt": "El crimen de la calle de Fuencarral cumple 130 años (Chamberí 30 días)"
+  }
+ ],
+ "saltoMas": true,
+ "masRaw": "<div class=\"grid\" style=\"margin-bottom:0\"><a class=\"card pc\" data-cat=\"Crimen\" href=\"/casos/lauren-giddings-stephen-mcdaniel-llave-maestra-macon-georgia/\"><div class=\"ph\"><img src=\"/img/lauren-giddings-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Crimen\">Crimen</span></div><div class=\"cb\"><span class=\"eyebrow\">Georgia (EE. UU.), 2011-2014</span><h3>Lauren Giddings y Stephen McDaniel: el vecino de la llave maestra</h3><p>El asesinato de Lauren Giddings (Macon, Georgia, 2011): su vecino y compañero de Derecho, Stephen McDaniel, la llave maestra y la confesión de 2014. Hechos y dudas.</p></div></a><a class=\"card pc\" data-cat=\"Misterio\" href=\"/casos/michael-rockefeller-muerte-nueva-guinea-holanda-encubrimiento/\"><div class=\"ph\"><img src=\"/img/michael-rockefeller-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Misterio\">Misterio</span></div><div class=\"cb\"><span class=\"eyebrow\">Nueva Guinea Holandesa, 1958-1964</span><h3>Michael Rockefeller: lo que Holanda ocultó sobre su muerte en Nueva Guinea</h3><p>Michael Rockefeller desapareció en Nueva Guinea en 1961. Oficialmente se ahogó; según Carl Hoffman lo mataron en Otsjanep y Holanda lo supo. Hechos y dudas.</p></div></a><a class=\"card pc\" data-cat=\"Historia\" href=\"/casos/maria-antonieta-juicio-hijo-luis-carlos-ultima-carta/\"><div class=\"ph\"><img src=\"/img/maria-antonieta-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Historia\">Historia</span></div><div class=\"cb\"><span class=\"eyebrow\">París, 1793-1816</span><h3>María Antonieta: la acusación de su hijo de ocho años y la carta que nunca llegó</h3><p>María Antonieta, octubre de 1793: la declaración que firmó su hijo de ocho años, el juicio, la guillotina y la última carta que no llegó a su destino. Hechos y dudas.</p></div></a><a class=\"card pc\" data-cat=\"Leyendas\" href=\"/casos/brujas-de-zugarramurdi-auto-de-fe-logrono-1610/\"><div class=\"ph\"><img src=\"/img/brujas-de-zugarramurdi-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Leyendas\">Leyendas</span></div><div class=\"cb\"><span class=\"eyebrow\">Navarra y Logroño, 1608-1614</span><h3>Brujas de Zugarramurdi: la historia real del auto de fe de Logroño</h3><p>Las brujas de Zugarramurdi: unas 300 personas señaladas, seis quemadas vivas en el auto de fe de Logroño (1610) y el inquisidor Salazar, que dudó. Hechos y dudas.</p></div></a></div>"
+}

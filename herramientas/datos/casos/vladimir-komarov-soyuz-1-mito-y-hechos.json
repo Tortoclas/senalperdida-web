@@ -1,0 +1,72 @@
+{
+ "slug": "vladimir-komarov-soyuz-1-mito-y-hechos",
+ "titulo": "Vladímir Komarov y la Soyuz 1: lo que sí sabemos",
+ "desc": "La muerte de Vladímir Komarov en la Soyuz 1 (abril de 1967): fallos, paracaídas y qué mitos desmienten los historiadores.",
+ "lead": "El primer cosmonauta que murió durante un vuelo espacial. Alrededor de su muerte hay mitos que circularon durante décadas. Esto es lo que se puede sostener.",
+ "lugar": "URSS, 1967",
+ "cat": "Espacio",
+ "corto": "Vladímir Komarov",
+ "ogimg": "/img/vladimir-komarov-imagen-para-compartir.jpg",
+ "publicado": "2026-10-13",
+ "modificado": "2026-10-13",
+ "vtop": {
+  "saltoAntes": false,
+  "texto": "Míralo en vídeo",
+  "botones": [
+   {
+    "href": "https://www.tiktok.com/@senalperdida_oficial/video/7694035491871526166",
+    "boton": "Ver en TikTok"
+   }
+  ]
+ },
+ "saltoGal": false,
+ "galClase": "",
+ "figs": [
+  {
+   "src": "/img/vladimir-komarov-ilustracion-de-una-capsula-espacial-roja-sobre-la-hierba.jpg",
+   "srcset": "/img/vladimir-komarov-ilustracion-de-una-capsula-espacial-roja-sobre-la-hierba-640.jpg 640w, /img/vladimir-komarov-ilustracion-de-una-capsula-espacial-roja-sobre-la-hierba.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de una cápsula espacial roja sobre la hierba",
+   "w": 768,
+   "h": 1344
+  },
+  {
+   "src": "/img/vladimir-komarov-ilustracion-de-un-paracaidas-con-una-capsula.jpg",
+   "srcset": "/img/vladimir-komarov-ilustracion-de-un-paracaidas-con-una-capsula-640.jpg 640w, /img/vladimir-komarov-ilustracion-de-un-paracaidas-con-una-capsula.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de un paracaídas con una cápsula",
+   "w": 768,
+   "h": 1344
+  },
+  {
+   "src": "/img/vladimir-komarov-ilustracion-de-una-capsula-calcinada-al-atardecer.jpg",
+   "srcset": "/img/vladimir-komarov-ilustracion-de-una-capsula-calcinada-al-atardecer-640.jpg 640w, /img/vladimir-komarov-ilustracion-de-una-capsula-calcinada-al-atardecer.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de una cápsula calcinada al atardecer",
+   "w": 768,
+   "h": 1344
+  }
+ ],
+ "cap": "Recreación: la Soyuz 1 reentró el 24 de abril de 1967 y su paracaídas principal no se abrió.",
+ "sabemos": [
+  "La Soyuz 1 despegó el 23 de abril de 1967 desde Baikonur con Vladímir Komarov. Era el primer vuelo tripulado de la nave Soyuz.",
+  "Poco después del lanzamiento, el panel solar izquierdo no se desplegó y la nave quedó corta de energía. Después hubo problemas de orientación y, hacia la órbita 13, el sistema automático de estabilización dejó de funcionar.",
+  "El director del vuelo abortó la misión. Tras 18 órbitas, la nave encendió los retrocohetes y reentró el 24 de abril de 1967.",
+  "El paracaídas estabilizador se abrió, pero el principal no. El de reserva se enredó con el estabilizador y el módulo cayó casi sin freno en el óblast de Oremburgo, a 3 km al oeste de Karabutak.",
+  "Los médicos atribuyeron su muerte a traumatismos múltiples. Fue la primera víctima mortal en vuelo de la historia espacial. Recibió póstumamente su segundo título de Héroe de la Unión Soviética y un funeral de Estado."
+ ],
+ "discute": [
+  "La causa exacta del fallo del paracaídas principal sigue en discusión.",
+  "La historia de que Komarov maldijo a los ingenieros y habló con su esposa, supuestamente interceptada por la NSA, circuló unos ocho años después. Historiadores como Asif Siddiqi la consideran falsa. El último intercambio documentado, con una estación cerca de Simferópol, fue sobre la separación del módulo.",
+  "La versión de un antiguo agente del KGB, según la cual Gagarin intentó apartar a Komarov del vuelo y este sabía que iba a morir, se considera inverosímil y exagerada por la mayoría de historiadores. Tampoco hay verificación de la cifra de «203 fallos de diseño»."
+ ],
+ "video": null,
+ "fuentes": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Soyuz_1",
+   "txt": "Soyuz 1 (Wikipedia, en inglés)"
+  }
+ ],
+ "saltoMas": true,
+ "masRaw": "<div class=\"grid\" style=\"margin-bottom:0\"><a class=\"card pc\" data-cat=\"Espacio\" href=\"/casos/laika-la-perra-que-nunca-iba-a-volver/\"><div class=\"ph\"><img src=\"/img/laika-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Espacio\">Espacio</span></div><div class=\"cb\"><span class=\"eyebrow\">URSS, 1957</span><h3>Laika: la perra que nunca iba a volver del espacio</h3><p>Laika, la perra del Sputnik 2 (3 de noviembre de 1957): cómo fue el lanzamiento, qué se dijo de su muerte y qué reveló Rusia en 2002.</p></div></a><a class=\"card pc\" data-cat=\"Misterio\" href=\"/casos/michael-rockefeller-muerte-nueva-guinea-holanda-encubrimiento/\"><div class=\"ph\"><img src=\"/img/michael-rockefeller-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Misterio\">Misterio</span></div><div class=\"cb\"><span class=\"eyebrow\">Nueva Guinea Holandesa, 1958-1964</span><h3>Michael Rockefeller: lo que Holanda ocultó sobre su muerte en Nueva Guinea</h3><p>Michael Rockefeller desapareció en Nueva Guinea en 1961. Oficialmente se ahogó; según Carl Hoffman lo mataron en Otsjanep y Holanda lo supo. Hechos y dudas.</p></div></a><a class=\"card pc\" data-cat=\"Crimen\" href=\"/casos/lauren-giddings-stephen-mcdaniel-llave-maestra-macon-georgia/\"><div class=\"ph\"><img src=\"/img/lauren-giddings-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Crimen\">Crimen</span></div><div class=\"cb\"><span class=\"eyebrow\">Georgia (EE. UU.), 2011-2014</span><h3>Lauren Giddings y Stephen McDaniel: el vecino de la llave maestra</h3><p>El asesinato de Lauren Giddings (Macon, Georgia, 2011): su vecino y compañero de Derecho, Stephen McDaniel, la llave maestra y la confesión de 2014. Hechos y dudas.</p></div></a><a class=\"card pc\" data-cat=\"Historia\" href=\"/casos/maria-antonieta-juicio-hijo-luis-carlos-ultima-carta/\"><div class=\"ph\"><img src=\"/img/maria-antonieta-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Historia\">Historia</span></div><div class=\"cb\"><span class=\"eyebrow\">París, 1793-1816</span><h3>María Antonieta: la acusación de su hijo de ocho años y la carta que nunca llegó</h3><p>María Antonieta, octubre de 1793: la declaración que firmó su hijo de ocho años, el juicio, la guillotina y la última carta que no llegó a su destino. Hechos y dudas.</p></div></a></div>"
+}

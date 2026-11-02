@@ -1,0 +1,68 @@
+{
+ "slug": "chicas-del-radio-radium-girls-fabrica-pintura-luminosa",
+ "titulo": "Las chicas del radio: las obreras que pintaban con veneno",
+ "desc": "Las Radium Girls pintaban relojes luminosos con radio y las empresas negaron que las enfermara. Casos, juicios y el cambio en la ley laboral.",
+ "lead": "Les dijeron que la pintura era inofensiva. Les pidieron que afilaran el pincel con los labios. Años después, a muchas se les caían los dientes y se les rompía la mandíbula.",
+ "lugar": "Estados Unidos, 1917-1939",
+ "cat": "Injusticia",
+ "corto": "Las chicas del radio",
+ "ogimg": "/img/chicas-del-radio-imagen-para-compartir.jpg",
+ "publicado": "2026-10-13",
+ "modificado": "2026-10-13",
+ "vtop": {
+  "saltoAntes": false,
+  "texto": "Míralo en vídeo",
+  "botones": [
+   {
+    "href": "https://www.tiktok.com/@senalperdida_oficial/video/7692143936755748118",
+    "boton": "Ver en TikTok"
+   },
+   {
+    "href": "https://www.youtube.com/watch?v=bYp3rolsvCE",
+    "boton": "Ver en YouTube"
+   }
+  ]
+ },
+ "saltoGal": false,
+ "galClase": " one",
+ "figs": [
+  {
+   "src": "/img/chicas-del-radio-obrera-pintando-la-esfera-de-un-reloj-fotografia-en-blanco-y-negro.jpg",
+   "srcset": "/img/chicas-del-radio-obrera-pintando-la-esfera-de-un-reloj-fotografia-en-blanco-y-negro-640.jpg 640w, /img/chicas-del-radio-obrera-pintando-la-esfera-de-un-reloj-fotografia-en-blanco-y-negro.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Obrera pintando la esfera de un reloj, fotografía en blanco y negro",
+   "w": 1000,
+   "h": 543
+  }
+ ],
+ "cap": "Fotografía de archivo: pintar esferas de reloj era un trabajo de precisión, pagado por pieza.",
+ "sabemos": [
+  "La U.S. Radium Corporation abrió una planta en Orange (Nueva Jersey) hacia 1917. Llegó a emplear hasta 300 trabajadores, casi todas mujeres.",
+  "Se les decía que la pintura de radio era segura. Los supervisores animaban a dar forma al pincel con los labios, y así tragaban radio. Cobraban por pieza, unas 250 esferas por turno.",
+  "Los síntomas incluían dolor de dientes, caída de piezas, anemia, fracturas y necrosis de mandíbula («mandíbula de radio»).",
+  "En 1924 se hablaba de unas 50 mujeres enfermas y una docena de muertas. En 1927, de más de 50 fallecidas.",
+  "La empresa negó el vínculo con el radio, culpó a infecciones e incluso usó la sífilis para desacreditarlas.",
+  "En 1928, cinco mujeres demandaron en Nueva Jersey (Grace Fryer, Edna Hussman, Katherine Schaub, Quinta McDonald y Albina Larice). El caso se resolvió en otoño con un acuerdo: 10.000 dólares a cada una, una renta anual de 600 dólares y gastos médicos y legales.",
+  "En Illinois, la empresa Radium Dial tuvo otro caso. En 1938 la comisión laboral falló a favor de las trabajadoras, y el Tribunal Supremo de Estados Unidos rechazó el recurso de la empresa el 23 de octubre de 1939. Algunas no recibieron nada y Catherine Donohue había muerto ya.",
+  "Los casos consolidaron el derecho de los trabajadores a demandar por enfermedades laborales y mejoraron los estándares de seguridad. El Congreso aprobó en 1949 una ley de compensación por enfermedades profesionales."
+ ],
+ "discute": [
+  "El nombre de la trabajadora de Illinois se escribe «Donohue» o «Donahue» según la fuente.",
+  "Las fuentes difieren en la fecha de prohibición de la pintura de radio (años 60 o uso hasta los 70). La última fábrica cerró en 1978."
+ ],
+ "video": {
+  "formato": "largo",
+  "etiqueta": "Vídeo en YouTube (español)",
+  "id": "bYp3rolsvCE",
+  "titulo": "Vídeo en YouTube (español)",
+  "subido": "2026-10-13T12:00:00+02:00"
+ },
+ "fuentes": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Radium_Girls",
+   "txt": "Radium Girls (Wikipedia, en inglés)"
+  }
+ ],
+ "saltoMas": true,
+ "masRaw": "<div class=\"grid\" style=\"margin-bottom:0\"><a class=\"card pc\" data-cat=\"Injusticia\" href=\"/casos/willie-francis-el-chico-que-sobrevivio-a-la-silla-electrica/\"><div class=\"ph\"><img src=\"/img/willie-francis-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Injusticia\">Injusticia</span></div><div class=\"cb\"><span class=\"eyebrow\">Luisiana, 1946-1947</span><h3>Willie Francis: el chico que sobrevivió a la silla eléctrica</h3><p>Willie Francis sobrevivió a la silla eléctrica en 1946 y Luisiana volvió a ejecutarlo en 1947. Cronología, el voto 5 a 4 del Tribunal Supremo y lo que sigue en duda.</p></div></a><a class=\"card pc\" data-cat=\"Injusticia\" href=\"/casos/crimen-de-cuenca-el-muerto-que-estaba-vivo/\"><div class=\"ph\"><img src=\"/img/crimen-de-cuenca-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Injusticia\">Injusticia</span></div><div class=\"cb\"><span class=\"eyebrow\">Cuenca, 1910-1935</span><h3>El crimen de Cuenca: condenados por matar a un hombre que estaba vivo</h3><p>El crimen de Cuenca: dos hombres torturados y condenados por asesinar a un pastor que reapareció vivo en 1926. Fechas, condena e indemnización.</p></div></a><a class=\"card pc\" data-cat=\"Injusticia\" href=\"/casos/bebes-robados-doctor-vela-primer-juicio/\"><div class=\"ph\"><img src=\"/img/bebes-robados-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Injusticia\">Injusticia</span></div><div class=\"cb\"><span class=\"eyebrow\">España, siglo XX-2018</span><h3>Bebés robados: el primer juicio y la absolución por prescripción</h3><p>El primer juicio por bebés robados en España terminó en 2018: el doctor Vela, declarado autor, fue absuelto por prescripción. Qué dijo el tribunal.</p></div></a><a class=\"card pc\" data-cat=\"Misterio\" href=\"/casos/michael-rockefeller-muerte-nueva-guinea-holanda-encubrimiento/\"><div class=\"ph\"><img src=\"/img/michael-rockefeller-portada-del-caso.jpg\" alt=\"\" width=\"640\" height=\"800\" loading=\"lazy\"><span class=\"chip\" data-cat=\"Misterio\">Misterio</span></div><div class=\"cb\"><span class=\"eyebrow\">Nueva Guinea Holandesa, 1958-1964</span><h3>Michael Rockefeller: lo que Holanda ocultó sobre su muerte en Nueva Guinea</h3><p>Michael Rockefeller desapareció en Nueva Guinea en 1961. Oficialmente se ahogó; según Carl Hoffman lo mataron en Otsjanep y Holanda lo supo. Hechos y dudas.</p></div></a></div>"
+}
