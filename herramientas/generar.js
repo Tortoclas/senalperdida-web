@@ -23,14 +23,16 @@ function masCasos(d, todos) {
   const otros = todos.filter(x => x.slug !== d.slug);
   return '<div class="grid" style="margin-bottom:0">' + otros.filter(x => x.cat === d.cat).concat(otros.filter(x => x.cat !== d.cat)).slice(0, 4).map(x => tarjeta(x)).join('') + '</div>';
 }
+// Imágenes entre secciones: A.imagenes = [{ despues: 'cronologia' | 'versiones' | 'contexto:N' | 'sabemos' | 'ensenanza:N', src, alt, pie, w, h }]
+const figAmp = (A, clave) => (A.imagenes || []).filter(i => i.despues === clave).map(i => `<figure class="ft"><img src="${i.src}.jpg" srcset="${i.src}-640.jpg 640w, ${i.src}.jpg 1000w" sizes="(max-width:560px) 90vw, 340px" alt="${ea(i.alt)}" width="${i.w}" height="${i.h}" loading="lazy"><figcaption>${ea(i.pie)}</figcaption></figure>`).join('');
 function ampPrevio(A, c) {
   let h = '';
-  if (A.cronologia) h += '<h2>Cronología</h2><ol class="tl cr">' + A.cronologia.map(x => `<li><b>${ea(x.fecha)}</b>${czTxt(x.certeza)}${c(x.texto)}</li>`).join('') + '</ol>';
-  if (A.versiones) h += '<h2>Qué se dijo y qué se sabe</h2><table class="ver"><thead><tr><th>Versión</th><th>Quién la sostuvo</th><th>Estado</th></tr></thead><tbody>' + A.versiones.map(x => `<tr><td>${c(x.version)}</td><td>${c(x.quien)}</td><td>${czTxt(x.estado)}${/,/.test(x.estado) ? ea(x.estado.split(',').slice(1).join(',').trim()) : ''}</td></tr>`).join('') + '</tbody></table><p class="metodo">Cómo usamos estas etiquetas: <a href="/metodologia/">método y niveles de certeza</a>.</p>';
-  if (A.contexto) h += '<h2>Contexto</h2>' + A.contexto.map(x => `<p>${c(x)}</p>`).join('');
+  if (A.cronologia) h += '<h2>Cronología</h2><ol class="tl cr">' + A.cronologia.map(x => `<li><b>${ea(x.fecha)}</b>${czTxt(x.certeza)}${c(x.texto)}</li>`).join('') + '</ol>' + figAmp(A, 'cronologia');
+  if (A.versiones) h += '<h2>Qué se dijo y qué se sabe</h2><table class="ver"><thead><tr><th>Versión</th><th>Quién la sostuvo</th><th>Estado</th></tr></thead><tbody>' + A.versiones.map(x => `<tr><td>${c(x.version)}</td><td>${c(x.quien)}</td><td>${czTxt(x.estado)}${/,/.test(x.estado) ? ea(x.estado.split(',').slice(1).join(',').trim()) : ''}</td></tr>`).join('') + '</tbody></table><p class="metodo">Cómo usamos estas etiquetas: <a href="/metodologia/">método y niveles de certeza</a>.</p>' + figAmp(A, 'versiones');
+  if (A.contexto) h += '<h2>Contexto</h2>' + A.contexto.map((x, i) => `<p>${c(x)}</p>` + figAmp(A, 'contexto:' + i)).join('');
   return h;
 }
-function ampLeccion(A, c) { return A.ensenanza ? '<h2>Qué dejó este caso</h2>' + A.ensenanza.map(x => `<p>${c(x)}</p>`).join('') : ''; }
+function ampLeccion(A, c) { return A.ensenanza ? '<h2>Qué dejó este caso</h2>' + A.ensenanza.map((x, i) => `<p>${c(x)}</p>` + figAmp(A, 'ensenanza:' + i)).join('') : ''; }
 function ampFuentes(d, A) {
   const url = `${SITIO}/casos/${d.slug}/`, anio = (d.modificado || '').slice(0, 4);
   let h = '<h2>Fuentes</h2><ol class="src nf">' + A.fuentes.map(x => `<li id="f${x.id}"><a href="${ea(x.url)}" rel="noopener nofollow" target="_blank">${ea(x.txt)}</a> — ${ea(x.autor)}<span class="tp">${ea(x.tipo)}</span></li>`).join('') + '</ol>';
@@ -69,7 +71,7 @@ function pagina(d, todos) {
 <p class="lead">${d.lead}</p>
 ${A ? `<aside class="resp"><h2>${ea(A.pregunta)}</h2><p>${c(A.respuesta)}</p></aside>\n` : ''}${vtop}<div class="ficha"><div><b>Lugar y época</b>${d.lugar}</div><div><b>Categoría</b>${d.cat}</div><div><b>Fuentes</b>${nf} enlazada${nf === 1 ? '' : 's'}</div></div>
 ${d.saltoGal ? '\n' : ''}<div class="gal${d.galClase}">${figs}</div><p class="cap">${d.cap}</p>
-${A ? ampPrevio(A, c) : ''}<h2>Lo que sabemos</h2><ol class="tl">${(A && A.sabemos || d.sabemos).map(x => `<li>${c(x)}</li>`).join('')}</ol>
+${A ? ampPrevio(A, c) : ''}<h2>Lo que sabemos</h2><ol class="tl">${(A && A.sabemos || d.sabemos).map(x => `<li>${c(x)}</li>`).join('')}</ol>${A ? figAmp(A, 'sabemos') : ''}
 <h2>Lo que se discute</h2><div class="box"><ul>${(A && A.discute || d.discute).map(x => `<li>${c(x)}</li>`).join('')}</ul></div>
 ${A ? ampLeccion(A, c) : ''}${vid}<div class="cta"><p><strong>¿Te ha dejado con ganas de más?</strong></p><p>Cada semana, una historia oscura en vídeo.</p>
 <div class="btns"><a class="btn" href="https://www.tiktok.com/@senalperdida_oficial" rel="noopener">TikTok</a><a class="btn" href="https://www.youtube.com/@Se%C3%B1alPerdidasecretos" rel="noopener">YouTube</a></div></div>

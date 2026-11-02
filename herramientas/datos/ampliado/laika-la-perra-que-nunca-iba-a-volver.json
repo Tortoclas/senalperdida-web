@@ -81,6 +81,7 @@
  "ensenanza": [
   "El caso de Laika dejó un dato científico: un ser vivo podía sobrevivir al lanzamiento y mantener sus constantes en órbita, al menos las primeras horas.{2}",
   "Dejó también una duda moral que ya se planteó en su momento. En Reino Unido, asociaciones de protección animal pidieron un minuto de silencio por cada día que Laika estuviera en el espacio y la RSPCA recibió protestas. Hubo manifestaciones ante la ONU en Nueva York.{2}",
+  "Uno de los responsables del programa, Oleg Gazenko, dijo en 1998 que lamentaba lo ocurrido y que no se había aprendido lo bastante como para justificar la muerte del animal.{2}",
   "Y deja una lección de método: una versión oficial que nadie puede comprobar dura mientras nadie con acceso a los datos la desmienta. Aquí tardó unos cuarenta y cinco años en caer.{3}{4}"
  ],
  "fuentes": [
@@ -124,5 +125,47 @@
   "Qué versión se difundió en cada momento. Aquí solo damos lo que dicen las fuentes consultadas: el plan de diez días y la revelación de 2002.{1}{3}",
   "La hora exacta de la muerte. Las fuentes hablan de entre cinco y siete horas tras el despegue, o de la cuarta órbita; ninguna da un minuto concreto.{2}{3}{4}",
   "La hora del lanzamiento. Wikipedia recoge dos horas distintas según la fuente, así que no la damos.{2}"
+ ],
+ "imagenes": [
+  {
+   "despues": "cronologia",
+   "src": "/img/laika-recreacion-de-un-tecnico-preparando-a-laika-en-un-laboratorio",
+   "alt": "Imagen en blanco y negro de un técnico con bata blanca sujetando a un perro sobre una mesa de laboratorio, rodeado de aparatos de medida",
+   "pie": "Recreación generada con IA: la preparación de Laika antes del vuelo. No es una fotografía de la época.",
+   "w": 1000,
+   "h": 1792
+  },
+  {
+   "despues": "contexto:1",
+   "src": "/img/laika-recreacion-del-interior-de-la-capsula-con-arnes-y-cables",
+   "alt": "Interior metálico de una cápsula espacial con un arnés de cuero colgando, cables y paneles con luces rojas",
+   "pie": "Recreación generada con IA del interior de la cápsula: el arnés y los cables de los sensores. No es una fotografía del Sputnik 2.",
+   "w": 1000,
+   "h": 1792
+  },
+  {
+   "despues": "sabemos",
+   "src": "/img/laika-recreacion-de-laika-dentro-de-la-capsula-del-sputnik-2",
+   "alt": "Primer plano de un perro con arnés y cables dentro de una cabina metálica con luces rojas y verdes",
+   "pie": "Recreación generada con IA de Laika dentro de la cabina. No existe una fotografía real de ese momento.",
+   "w": 1000,
+   "h": 1792
+  },
+  {
+   "despues": "ensenanza:2",
+   "src": "/img/laika-recreacion-de-un-cientifico-pensativo-en-una-sala-de-trabajo",
+   "alt": "Imagen en blanco y negro de un hombre mayor sentado ante una mesa en una sala con archivadores, con una mano en la frente",
+   "pie": "Recreación generada con IA, ilustrativa: un científico a solas con su trabajo. No es un retrato de Oleg Gazenko ni de ninguna persona real.",
+   "w": 1000,
+   "h": 1792
+  },
+  {
+   "despues": "ensenanza:3",
+   "src": "/img/laika-recreacion-de-una-portada-de-prensa-sovietica-sobre-laika",
+   "alt": "Periódico antiguo con titular en cirílico y la foto de un perro en una mesa de madera",
+   "pie": "Recreación generada con IA de una portada de prensa soviética. El titular es inventado y no reproduce ninguna edición real.",
+   "w": 1000,
+   "h": 1792
+  }
  ]
 }

@@ -9,3 +9,4 @@ table.ver{width:100%;border-collapse:collapse;font:15.5px/1.5 Arial,sans-serif;m
 ol.src.nf{padding-left:22px}ol.src.nf li{margin:.55em 0}.src .tp{display:block;font:13px/1.4 Arial,sans-serif;color:var(--mute)}
 .citar{background:var(--card);border:1px solid var(--line);padding:12px 16px;font:14.5px/1.55 Arial,sans-serif;color:var(--mute);margin:1em 0}
 .metodo{font:14px/1.5 Arial,sans-serif;color:var(--mute)}
+figure.ft{margin:1.6em auto;max-width:340px}figure.ft img{width:100%;height:auto;display:block;border-radius:4px;border:1px solid var(--line)}figure.ft figcaption{font:13px/1.5 Arial,sans-serif;color:var(--mute);margin-top:8px}
