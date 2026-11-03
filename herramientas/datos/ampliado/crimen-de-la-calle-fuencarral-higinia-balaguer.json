@@ -1,0 +1,150 @@
+{
+ "pregunta": "¿Quién mató a Luciana Borcino y por qué ejecutaron a su criada?",
+ "respuesta": "En julio de 1888 apareció muerta, apuñalada y con el cuerpo quemado, Luciana Borcino, una viuda de la calle Fuencarral de Madrid.{1}{2} Su criada, Higinia Balaguer, cambió varias veces de versión y fue condenada a muerte. Su hijo y otros señalados fueron absueltos.{1}{2} Higinia murió a garrote en 1890. Quién ayudó, si alguien lo hizo, nunca se aclaró.{2}",
+ "cronologia": [
+  {
+   "fecha": "1 y 2 de julio de 1888",
+   "texto": "Luciana Borcino aparece muerta en su casa del número 109 de la calle Fuencarral, con tres puñaladas, una en el corazón. El cuerpo está cubierto con trapos empapados en petróleo y parcialmente quemado. Se descubre en la mañana del 2 de julio.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Julio de 1888",
+   "texto": "La criada, Higinia Balaguer, aparece drogada en la casa. Un perro ha sido envenenado con un anestésico. Las pesquisas no hallan signos claros de robo.{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Durante la instrucción",
+   "texto": "Higinia cambia varias veces de declaración. Acusa primero al hijo de la víctima, José Vázquez Varela, que estaba en la cárcel, y después confiesa. Detienen al director de la Modelo, José Millán Astray, que queda en libertad.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Abril de 1889",
+   "texto": "Higinia declara que Dolores Ávila fue coautora.{1}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "26 de marzo a 25 de mayo de 1889",
+   "texto": "Juicio ante la Audiencia de Madrid. Nicolás Salmerón, expresidente de la República, defiende a Higinia.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Finales de mayo de 1889",
+   "texto": "Higinia, condenada a muerte. Dolores Ávila, a 18 años como cómplice. Vázquez Varela, Millán Astray y María Ávila Palacios, absueltos. La fecha de la sentencia se da como 25 o 29 de mayo según la fuente.{1}{2}",
+   "certeza": "discutido"
+  },
+  {
+   "fecha": "19 de julio de 1890",
+   "texto": "Higinia muere ejecutada a garrote vil, a los 30 años. Unas veinte mil personas acuden. Sus últimas palabras fueron «Dolores, catorce mil duros».{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Años después",
+   "texto": "Vázquez Varela es condenado por otra muerte y cumple 14 años en el penal de Monte Hacho, en Ceuta.{2}",
+   "certeza": "atribuido"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "Higinia mató a su señora con un cuchillo tras una discusión",
+   "quien": "Confesión de Higinia, que luego cambió{2}",
+   "estado": "discutido, versión que varió"
+  },
+  {
+   "version": "Higinia actuó con Dolores Ávila",
+   "quien": "Declaración de Higinia y sentencia{1}{2}",
+   "estado": "aceptado por el tribunal, con dudas sobre la identidad de la cómplice"
+  },
+  {
+   "version": "El hijo, Vázquez Varela, fue el autor material y salió de la cárcel con ayuda",
+   "quien": "Sospechas de la época{1}{2}",
+   "estado": "no probado, los testigos se retractaron"
+  },
+  {
+   "version": "Millán Astray encubrió a Varela",
+   "quien": "Acusación{1}",
+   "estado": "no probado"
+  },
+  {
+   "version": "Higinia se inculpó para proteger a Varela, por un posible móvil amoroso",
+   "quien": "Hipótesis citada en un trabajo académico{1}",
+   "estado": "hipótesis"
+  },
+  {
+   "version": "La condena fue una venganza de la burguesía contra una criada",
+   "quien": "Interpretación citada en un trabajo académico y en Wikipedia{1}{2}",
+   "estado": "interpretación"
+  }
+ ],
+ "contexto": [
+  "Un trabajo académico estudia el caso como hito en la historia del periodismo español, a partir del tratamiento que le dio el diario El Imparcial.{1}",
+  "Galdós escribió crónicas del caso. Se publicaron en 1923 y se reeditaron con un prólogo de Rafael Reig en 2002.{2}",
+  "Sobre la identidad de la cómplice, las fuentes difieren: unas dicen Dolores Ávila y otras citan a Dolores Gutiérrez Robles, «Lola la Billetera».{2}"
+ ],
+ "sabemos": [
+  "Luciana Borcino, viuda de Vázquez Varela, apareció muerta el 2 de julio de 1888 en el número 109 de la calle Fuencarral, con tres puñaladas y el cuerpo quemado.{1}{2}",
+  "Higinia Balaguer, su criada, cambió varias veces de declaración. El hijo, Varela, estaba entonces en la cárcel.{1}{2}",
+  "El juicio duró del 26 de marzo al 25 de mayo de 1889. Salmerón defendió a Higinia.{1}{2}",
+  "Higinia fue condenada a muerte y Dolores Ávila a 18 años. Varela, Millán Astray y María Ávila Palacios fueron absueltos.{1}{2}",
+  "Higinia fue ejecutada a garrote el 19 de julio de 1890, ante unas veinte mil personas.{2}"
+ ],
+ "ensenanza": [
+  "El caso Fuencarral enseña cómo una confesión que cambia puede decidir una condena. Higinia dio varias versiones y el tribunal eligió la que la inculpaba.{1}{2}",
+  "También muestra el peso de la prensa. Hoy se estudia el caso como hito del periodismo en España, por cómo lo trataron los diarios.{1}",
+  "Y deja una advertencia: los nombres y las fechas del caso cambian de una fuente a otra, como la cómplice, la sentencia o el móvil. Hay que comprobar cada dato antes de darlo por cierto.{1}{2}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://zaguan.unizar.es/record/76444/files/TAZ-TFG-2018-4254.pdf",
+   "txt": "El crimen de la calle Fuencarral como hito en la historia del periodismo en España",
+   "autor": "Cristina Morte Landa, TFG, Universidad de Zaragoza (2018)",
+   "tipo": "Trabajo académico"
+  },
+  {
+   "id": 2,
+   "url": "https://www.wikiwand.com/en/articles/Crime_of_Fuencarral_street",
+   "txt": "Crime of Fuencarral street",
+   "autor": "Wikipedia (en inglés)",
+   "tipo": "Enciclopedia"
+  }
+ ],
+ "saberMas": [
+  "Benito Pérez Galdós, crónicas del crimen, citadas en Wikipedia.",
+  "Rafael Reig, prólogo a la edición de 2002, citado en Wikipedia."
+ ],
+ "saberMasNota": "Estas obras aparecen citadas o comentadas en las fuentes consultadas. No las hemos leído directamente.",
+ "discute": [
+  "El móvil. Las primeras pesquisas no hallaron signos claros de robo. El trabajo académico habla de una condena por asesinato y robo y de un botín de hasta 70.000 pesetas, según Higinia.{1}{2}",
+  "Si Higinia actuó sola. El tribunal consideró que pudo contar con ayuda y el caso nunca aclaró quién más participó.{1}{2}",
+  "La fecha de la sentencia: 25 de mayo según Wikipedia y 29 de mayo según el trabajo de Zaragoza.{1}{2}",
+  "La identidad de la cómplice y el significado de «Dolores, catorce mil duros», que nunca se aclaró.{2}",
+  "La edad de Higinia: 28 años en 1888 según un texto y 30 en su ejecución según otro. Aquí damos las cifras como las dan las fuentes.{1}{2}"
+ ],
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
+ "imagenes": [
+  {
+   "despues": "cronologia",
+   "src": "/img/crimen-calle-fuencarral-recreacion-de-una-viuda-en-un-sillon",
+   "alt": "Grabado de una mujer mayor vestida de negro sentada en un sillón",
+   "pie": "La víctima era una viuda adinerada, conocida por sus obras de caridad.",
+   "w": 1000,
+   "h": 1750
+  },
+  {
+   "despues": "versiones",
+   "src": "/img/crimen-calle-fuencarral-recreacion-de-una-joven-criada-sentada-ante-un-arco-de-piedra",
+   "alt": "Grabado de una joven con trenza y delantal sentada ante un arco de piedra",
+   "pie": "La criada, Higinia Balaguer, cambió varias veces de declaración.",
+   "w": 1000,
+   "h": 1750
+  },
+  {
+   "despues": "ensenanza:1",
+   "src": "/img/crimen-calle-fuencarral-recreacion-de-una-multitud-ante-un-muro",
+   "alt": "Grabado en blanco y negro de una multitud ante un muro largo con torres al fondo",
+   "pie": "Unas veinte mil personas acudieron a la ejecución de Higinia.",
+   "w": 1000,
+   "h": 1750
+  }
+ ]
+}

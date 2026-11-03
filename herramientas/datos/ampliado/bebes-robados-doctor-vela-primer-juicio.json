@@ -1,0 +1,150 @@
+{
+ "pregunta": "¿Por qué absolvieron al doctor Vela si el tribunal dio por probado que entregó a una niña que no era suya?",
+ "respuesta": "El 8 de octubre de 2018 la Audiencia Provincial de Madrid absolvió a Eduardo Vela, médico de la clínica San Ramón, en el primer juicio por bebés robados en España. Dio por probado que certificó un parto que no ocurrió y que entregó a Inés Madrigal a un matrimonio sin consentimiento de sus padres biológicos. Pero consideró que los delitos habían prescrito.{1} En 2020 el Tribunal Supremo no se pronunció sobre la prescripción, porque Vela había muerto.{3}{5}",
+ "cronologia": [
+  {
+   "fecha": "4 de junio de 1969",
+   "texto": "Vela certifica de su puño y letra que una mujer dio a luz en su presencia ese día. Según la sentencia, no ocurrió. La niña se entrega sin consentimiento al matrimonio que la inscribe como hija biológica.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "4 de junio de 1987",
+   "texto": "Inés Madrigal cumple 18 años. Para el tribunal, ahí termina la detención ilegal y empieza a contar el plazo de prescripción de diez años.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "2011",
+   "texto": "Madrigal presenta una primera denuncia, que se archiva.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Abril de 2012",
+   "texto": "Con ayuda de SOS Bebés Robados se inicia el proceso que llegará a juicio.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "8 de octubre de 2018",
+   "texto": "La Sección Séptima de la Audiencia de Madrid absuelve a Vela, de 86 años, por prescripción. La Fiscalía pedía 11 años de prisión.{1}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "21 de octubre de 2019",
+   "texto": "Muere Vela en Madrid, a los 86 años. Es la fecha probable: la noticia se publicó el 22 de octubre y habla del lunes.{3}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "3 de junio de 2020",
+   "texto": "El Supremo debía estudiar los recursos de la Fiscalía, de Madrigal y de los hijos de Vela, que pedían declarar inocente a su padre.{4}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Junio de 2020",
+   "texto": "El Supremo considera no probada la detención ilegal y confirma la falsedad y la ilegalidad de la adopción de 1969. No se pronuncia sobre la prescripción, porque el acusado había fallecido.{5}",
+   "certeza": "documentado"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "Vela entregó a la niña sin consentimiento, certificó un parto falso y los delitos habían prescrito",
+   "quien": "Audiencia Provincial de Madrid, 2018{1}",
+   "estado": "sentencia de primera instancia"
+  },
+  {
+   "version": "La detención ilegal no está probada, pero sí la falsedad y la ilegalidad de la adopción",
+   "quien": "Tribunal Supremo, 2020{5}",
+   "estado": "sentencia posterior"
+  },
+  {
+   "version": "Los hechos se parecen más a un delito de tráfico de personas y son delitos permanentes, que no prescriben",
+   "quien": "Francisco González de Tena, en una opinión{2}",
+   "estado": "opinión, no sentencia"
+  },
+  {
+   "version": "Vela era inocente",
+   "quien": "Los hijos de Vela, en su recurso{4}",
+   "estado": "no aceptado"
+  }
+ ],
+ "contexto": [
+  "La clínica San Ramón fue, según El Salto, uno de los epicentros de una trama de robo de bebés que operó entre finales de los años cincuenta y los noventa.{1}",
+  "La mujer que crio a Madrigal, ya fallecida, creyó siempre que la adopción era legal. Un autor sostiene que se autoinculpó para abrir la vía judicial.{1}{2}",
+  "El tribunal rechazó investigar por falso testimonio a la esposa de Vela, porque no quedó probado que supiera la identidad de la niña.{1}"
+ ],
+ "sabemos": [
+  "El 8 de octubre de 2018, la Audiencia Provincial de Madrid dictó la primera sentencia por bebés robados en España. Absolvió al doctor Eduardo Vela.{1}",
+  "El tribunal consideró probado que Vela certificó un parto que no ocurrió el 4 de junio de 1969 y que la niña se entregó sin consentimiento.{1}",
+  "Absolvió por prescripción. El plazo de diez años empezó el 4 de junio de 1987, cuando Madrigal cumplió 18 años, y la denuncia se presentó en abril de 2012.{1}",
+  "Vela murió en octubre de 2019, a los 86 años.{3}",
+  "En junio de 2020 el Supremo no se pronunció sobre la prescripción por la muerte del acusado.{5}"
+ ],
+ "ensenanza": [
+  "El caso Vela enseña que probar un hecho no basta para condenarlo. Aquí el tribunal dio por probada la entrega, pero el plazo legal ya había pasado.{1}",
+  "También muestra cuánto tardan estos procesos. Madrigal denunció en 2011, la sentencia llegó en 2018 y el Supremo resolvió en 2020, cuando el acusado ya había muerto.{1}{3}{5}",
+  "Y deja una advertencia sobre las cifras: esta sentencia solo se pronuncia sobre un caso. No permite sacar conclusiones sobre cuántos hubo.{1}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://www.elsaltodiario.com/ninos-robados/la-justicia-considera-al-doctor-vela-autor-del-primer-robo-de-bebes-que-se-juzga-pero-lo-absuelve-por-prescripcion-del-delito",
+   "txt": "El doctor Vela, culpable del primer robo de bebés que se juzga pero absuelto por prescripción del delito",
+   "autor": "El Salto, 8 de octubre de 2018",
+   "tipo": "Prensa"
+  },
+  {
+   "id": 2,
+   "url": "https://www.elsaltodiario.com/ninos-robados/hechos-probados-fallo-incompleto-ines-madrigal-eduardo-vela-bebes-robados",
+   "txt": "Hechos probados y fallo incompleto en el caso de Inés Madrigal y Eduardo Vela",
+   "autor": "Francisco González de Tena, sociólogo e investigador, El Salto (2018)",
+   "tipo": "Artículo de opinión"
+  },
+  {
+   "id": 3,
+   "url": "https://www.redaccionmedica.com/politica/sanidad-hoy/20191022/muere-el-doctor-vela-unico-medico-juzgado-en-caso-de-los-bebes-robados/135858_0.html",
+   "txt": "Muere el doctor Vela, único médico juzgado en el caso de los bebés robados",
+   "autor": "Redacción Médica, 22 de octubre de 2019",
+   "tipo": "Prensa especializada"
+  },
+  {
+   "id": 4,
+   "url": "https://theobjective.com/espana/2020-06-03/el-supremo-revisa-el-primer-caso-de-bebes-robados-clave-para-las-victimas/",
+   "txt": "El Supremo revisa el primer caso de bebés robados, clave para las víctimas",
+   "autor": "The Objective, 3 de junio de 2020",
+   "tipo": "Prensa"
+  },
+  {
+   "id": 5,
+   "url": "https://orain.eus/es/actualidad/sociedad/2020/06/11/el-supremo-deja-abierta-puerta-investigar-robo-bebes-espana/",
+   "txt": "El Supremo deja abierta la puerta a investigar el robo de bebés",
+   "autor": "Orain (EITB), 11 de junio de 2020",
+   "tipo": "Prensa"
+  }
+ ],
+ "saberMas": [],
+ "discute": [
+  "Cuántos casos hubo. Esta página no da una cifra porque las fuentes consultadas no la ofrecen con rigor.",
+  "El alcance de la trama más allá de este juicio: la sentencia solo se pronuncia sobre este caso.",
+  "Cuántos años dirigió Vela la clínica. El Salto dice más de treinta; una opinión publicada en el mismo medio dice veinte, de 1961 a 1981.{1}{2}",
+  "Cuándo se entregó a la niña. La sentencia cita el parto certificado el 4 de junio de 1969; la opinión de González de Tena habla del 6 de junio, cuando Vela habría citado al matrimonio y la habría llamado un «regalo». No hemos contrastado esa cita.{1}{2}",
+  "La edad de Vela en la sentencia: 86 años según El Salto y Redacción Médica, 85 según The Objective.{1}{3}{4}",
+  "Cómo encaja esta sentencia con la tesis del robo. Según The Objective, Madrigal supo después que su madre biológica la había entregado. La detención ilegal ya no figura como probada en la sentencia del Supremo.{4}{5}"
+ ],
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
+ "imagenes": [
+  {
+   "despues": "cronologia",
+   "src": "/img/bebes-robados-recreacion-de-dos-adultos-y-una-nina-de-la-mano",
+   "alt": "Dos adultos de pie y una niña pequeña en medio, cogida de sus manos, en una sala azulada",
+   "pie": "Inés Madrigal fue entregada a un matrimonio que, según el tribunal, ignoraba que no era su hija.",
+   "w": 1000,
+   "h": 1750
+  },
+  {
+   "despues": "ensenanza:1",
+   "src": "/img/bebes-robados-recreacion-de-una-familia-ante-una-ventana-con-luna",
+   "alt": "Siluetas de una familia ante una ventana por la que entra la luz de la luna",
+   "pie": "Tras la sentencia, Madrigal y otras víctimas pidieron que se investigaran los casos archivados por prescripción.",
+   "w": 1000,
+   "h": 1750
+  }
+ ]
+}

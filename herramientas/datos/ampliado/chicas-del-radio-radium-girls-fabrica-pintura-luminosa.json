@@ -1,0 +1,179 @@
+{
+ "pregunta": "¿Qué les pasó a las chicas del radio y qué ganaron con su demanda?",
+ "respuesta": "Las pintoras de esferas de relojes de Nueva Jersey tragaban radio al afilar los pinceles con los labios. Muchas enfermaron de la mandíbula y los huesos.{1}{2}{3} En 1928 cinco de ellas llegaron a un acuerdo con la U.S. Radium Corporation: 10.000 dólares cada una, 600 al año y los gastos médicos.{1}{3} La empresa nunca admitió culpa y la mayoría de las pintoras no cobró nada.{1}",
+ "cronologia": [
+  {
+   "fecha": "1917",
+   "texto": "Abre en Orange (Nueva Jersey) la planta que fabrica Undark, una pintura luminosa de radio. Las pintoras, mayoritariamente jóvenes, afilan los pinceles con los labios.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Primera Guerra Mundial",
+   "texto": "Llega a haber hasta 300 mujeres pintando esferas. A las químicas y científicos de la empresa se les protegía de la exposición; a las pintoras, no.{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1921",
+   "texto": "El inventor de la pintura se va y la empresa se reorganiza como U.S. Radium Corporation. Empiezan a aparecer antiguas pintoras enfermas, con necrosis de la mandíbula y anemia.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1923",
+   "texto": "Muere la primera pintora de esferas. Los dentistas ya habían detectado la «mandíbula de radio».{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1924",
+   "texto": "La empresa contrata a un fisiólogo de Harvard. Según un informe histórico, oculta sus conclusiones y publica un informe «positivo» falso a su nombre.{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "Abril de 1926",
+   "texto": "Las familias de tres pintoras fallecidas pactan indemnizaciones de 9.000, 3.000 y 1.000 dólares y firman no volver a demandar.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1927–enero de 1928",
+   "texto": "Grace Fryer demanda a U.S. Radium, y se le unen otras cuatro pintoras. En la vista de enero de 1928, dos están en cama y ninguna puede levantar el brazo para jurar.{2}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "8 de junio de 1928",
+   "texto": "Acuerdo con Grace Fryer, Katherine Schaub, Edna Hussman, Albina Larice y Quinta McDonald: 10.000 dólares cada una, 600 anuales de por vida y gastos médicos.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1936",
+   "texto": "En el caso de Vincent LaPorte, un tribunal federal concluye que la empresa no ocultó fraudulentamente los peligros. Los casos pendientes quedan sujetos a la prescripción de dos años.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Primavera de 1938",
+   "texto": "En Illinois, la comisión laboral falla a favor de las pintoras de Radium Dial. La empresa ya se había trasladado a Nueva York.{4}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "23 de octubre de 1939",
+   "texto": "El Tribunal Supremo de EE. UU. rechaza el recurso de Radium Dial. La sentencia de Illinois se mantiene.{4}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1949",
+   "texto": "El Congreso aprueba una ley de compensación para trabajadores con enfermedades profesionales.{3}{4}",
+   "certeza": "documentado"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "La pintura era segura",
+   "quien": "Supervisores y empresa, a las trabajadoras{2}{3}",
+   "estado": "desmentido"
+  },
+  {
+   "version": "Las muertes se debían a sífilis u otras causas",
+   "quien": "Empresa y algunos médicos, para desacreditar a las mujeres{2}{4}",
+   "estado": "usado para desacreditarlas, sin respaldo en las fuentes"
+  },
+  {
+   "version": "La empresa no ocultó fraudulentamente los peligros",
+   "quien": "Tribunal federal de Nueva Jersey, 1936{1}",
+   "estado": "sentencia, que aplicó la prescripción"
+  },
+  {
+   "version": "Más de 50 muertas hacia 1927",
+   "quien": "Wikipedia y el Museo Nacional Nuclear{3}{4}",
+   "estado": "discutido, otra fuente cita 23 muertes en 1929"
+  },
+  {
+   "version": "23 muertes por envenenamiento por radio en 1929",
+   "quien": "Departamento de Trabajo, según un informe histórico{2}",
+   "estado": "cifra oficial de entonces"
+  }
+ ],
+ "contexto": [
+  "No solo existía la planta de Nueva Jersey. Se calcula que unas 4.000 mujeres pintaron esferas con radio en Estados Unidos y Canadá.{3}{4}",
+  "Radium Dial, en Ottawa (Illinois), se fundó en 1922 para fabricar esferas para Westclox. Las trabajadoras volvieron a los pinceles cuando las plumas de vidrio que les dieron redujeron su paga por pieza.{4}",
+  "Los registros originales de la empresa eran radiactivos. La Agencia de Protección Ambiental los escaneó durante una limpieza y se conservan digitalizados en los Archivos Nacionales.{1}"
+ ],
+ "sabemos": [
+  "La planta de Orange (Nueva Jersey) fabricaba pintura luminosa de radio desde 1917 y llegó a emplear hasta 300 mujeres.{1}{2}",
+  "Las pintoras afilaban los pinceles con los labios y tragaban radio. Los síntomas incluían dolor de dientes, necrosis de mandíbula, anemia y fracturas.{1}{2}{3}",
+  "El 8 de junio de 1928, cinco pintoras alcanzaron un acuerdo con U.S. Radium: 10.000 dólares, 600 anuales y gastos médicos.{1}",
+  "En Illinois, el Supremo rechazó el 23 de octubre de 1939 el recurso de Radium Dial.{4}",
+  "Estos casos ayudaron a consolidar el derecho de los trabajadores a demandar por enfermedades laborales.{3}{4}"
+ ],
+ "ensenanza": [
+  "El caso de las chicas del radio enseña que una empresa puede saber del riesgo y aun así decir a sus empleadas que no existe. Las pintoras eran jóvenes y cobraban por pieza.{2}{3}",
+  "También muestra el peso del tiempo en los tribunales. En Nueva Jersey la prescripción bloqueó casos posteriores, y el acuerdo de 1928 llegó cuando varias demandantes ya estaban muy enfermas.{1}{2}",
+  "Y deja una pregunta incómoda: cuántas afectadas hubo. Las fuentes dan cifras distintas de muertes y de trabajadoras, y ninguna cuenta con seguridad todos los casos.{2}{3}{4}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://text-message.blogs.archives.gov/2018/01/04/the-radium-girls-at-the-national-archives",
+   "txt": "The Radium Girls at the National Archives",
+   "autor": "Archivos Nacionales de EE. UU. (blog «Text Message»), 2018",
+   "tipo": "Archivo oficial"
+  },
+  {
+   "id": 2,
+   "url": "https://www.nj.gov/dep/hpo/1identify/nrsr_19_Mar_Radium_girls.pdf",
+   "txt": "Radium Girls (propuesta de inclusión en el registro histórico)",
+   "autor": "Oficina de Preservación Histórica de Nueva Jersey",
+   "tipo": "Documento oficial"
+  },
+  {
+   "id": 3,
+   "url": "https://ahf.nuclearmuseum.org/ahf/history/radium-girls/",
+   "txt": "The Radium Girls",
+   "autor": "Atomic Heritage Foundation, Museo Nacional Nuclear",
+   "tipo": "Museo"
+  },
+  {
+   "id": 4,
+   "url": "https://en.wikipedia.org/wiki/Radium_Girls",
+   "txt": "Radium Girls",
+   "autor": "Wikipedia (en inglés)",
+   "tipo": "Enciclopedia"
+  }
+ ],
+ "saberMas": [
+  "Claudia Clark, «Radium Girls: Women and Industrial Health Reform, 1910-1935» (1997), recomendado por los Archivos Nacionales.",
+  "Kate Moore, libro sobre las pintoras, citado en las fuentes."
+ ],
+ "saberMasNota": "Estas obras aparecen citadas o comentadas en las fuentes consultadas. No las hemos leído directamente.",
+ "discute": [
+  "El nombre de la trabajadora de Illinois se escribe «Donohue» o «Donahue» según la fuente.{4}",
+  "Cuándo se cerró el acuerdo de 1928: junio según los Archivos Nacionales y el Museo Nacional Nuclear, otoño según Wikipedia.{1}{3}{4}",
+  "Qué fue de las cinco demandantes. Una fuente dice que ninguna sobrevivió más de dos años al acuerdo y otra, que todas habían muerto en los años treinta.{3}{4}",
+  "Cuántas murieron. Se citan más de 50 muertes hacia 1927 y 23 muertes registradas por el Departamento de Trabajo en 1929.{2}{3}{4}",
+  "Hasta cuándo se usó la pintura de radio. Los relojes con radio se fabricaron hasta 1968 según una fuente, y la última fábrica cerró en 1978 según otra.{3}{4}"
+ ],
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
+ "imagenes": [
+  {
+   "despues": "cronologia",
+   "src": "/img/chicas-del-radio-recreacion-de-obreras-pintando-esferas-luminosas",
+   "alt": "Jóvenes obreras pintando esferas de reloj que brillan en rojo en una fábrica con luz azul",
+   "pie": "Las pintoras afilaban el pincel con los labios para pintar esferas con pintura de radio.",
+   "w": 1000,
+   "h": 1750
+  },
+  {
+   "despues": "versiones",
+   "src": "/img/chicas-del-radio-recreacion-de-tecnicos-con-capucha-manipulando-material",
+   "alt": "Tres técnicos con capucha y gafas manipulando recipientes que brillan en rojo",
+   "pie": "A los químicos de la empresa se les protegía de la exposición. A las pintoras, no.",
+   "w": 1000,
+   "h": 1750
+  },
+  {
+   "despues": "ensenanza:1",
+   "src": "/img/chicas-del-radio-recreacion-de-una-obrera-junto-a-un-reloj-gigante",
+   "alt": "Una obrera de perfil junto a un reloj gigante con la esfera luminosa en una nave industrial",
+   "pie": "Pintaban esferas de relojes y de instrumentos. Algunas cobraban por pieza.",
+   "w": 1000,
+   "h": 1750
+  }
+ ]
+}
