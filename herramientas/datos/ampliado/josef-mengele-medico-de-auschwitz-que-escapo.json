@@ -1,0 +1,138 @@
+{
+ "pregunta": "¿Cómo escapó Josef Mengele y cómo se supo que había muerto?",
+ "respuesta": "Mengele huyó de Auschwitz en enero de 1945, se ocultó cuatro años en Baviera y en 1949 viajó a Argentina con papeles falsos.{1}{2}{3} Vivió después con varias identidades en Argentina, Paraguay y Brasil y murió en 1979 en una playa brasileña, enterrado con un nombre falso.{1}{2}{3} Su cuerpo se exhumó en 1985 y una prueba de ADN confirmó su identidad en 1992.{1}{2}{3} Nunca fue juzgado.",
+ "cronologia": [
+  {
+   "fecha": "16 de marzo de 1911",
+   "texto": "Nace en Günzburg, Alemania.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1943–1945",
+   "texto": "Es médico en Auschwitz. Heinrich Himmler lo nombra médico jefe de Birkenau. Selecciona a los recién llegados entre trabajo forzado y exterminio y hace experimentos con presos, sobre todo con gemelos. Muchos sujetos murieron.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Mediados de enero de 1945",
+   "texto": "Huye de Auschwitz poco antes de la llegada del Ejército soviético. Las fuentes dan días distintos, el 17 o el 18 de enero.{2}{3}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "Abril de 1945",
+   "texto": "Según el informe de la policía israelí, soldados estadounidenses lo capturan con uniforme de la Wehrmacht y no lo identifican como miembro de las SS. Lo sueltan semanas después.{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "1945–1949",
+   "texto": "Vive cuatro años como mozo de cuadra cerca de Rosenheim, en Baviera.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "20 de junio de 1949",
+   "texto": "Viaja de Italia a Argentina en el barco «North King», con papeles falsos de la Cruz Roja a nombre de «Helmut Gregor». Otra fuente solo dice que escapó «por Génova» ese año.{1}{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "1956",
+   "texto": "Presenta su partida de nacimiento en la embajada alemana en Buenos Aires y consigue un documento argentino con su nombre real.{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "Hacia 1958–1959",
+   "texto": "Se casa en Uruguay con su cuñada Martha, viuda de su hermano Karl. En 1959 obtiene la ciudadanía paraguaya como «José Mengele».{1}{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "1960",
+   "texto": "La captura de Adolf Eichmann lo hace sentirse inseguro, según una crónica periodística.{3}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "1961",
+   "texto": "Se refugia en Brasil. Trabaja en la granja de los Stammer, una pareja húngara, con la identidad suiza de «Peter Hochbichler». En 1963 Gitta Stammer sospecha al ver su foto en un periódico.{1}{2}{3}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "7 de febrero de 1979",
+   "texto": "Muere en la playa de Bertioga, cerca de São Paulo, a los 67 años. Se atribuye a un derrame o a un ahogamiento mientras nadaba. Lo entierran como «Wolfgang Gerhard».{1}{2}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1985",
+   "texto": "Se exhuma el cuerpo. Un equipo forense de Brasil, Alemania Occidental y Estados Unidos concluye que es Mengele; los registros dentales lo confirman.{1}{2}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1992",
+   "texto": "Una prueba genética confirma su muerte.{2}{3}",
+   "certeza": "documentado"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "Fue extraditado a Polonia",
+   "quien": "Informe de enero de 1947{2}",
+   "estado": "desmentido"
+  },
+  {
+   "version": "Vivió y murió en Sudamérica; el cuerpo de «Wolfgang Gerhard» era el suyo",
+   "quien": "Peritos forenses de Brasil, Alemania Occidental y EE. UU., 1985{1}{2}",
+   "estado": "aceptado"
+  },
+  {
+   "version": "Murió de un derrame o ahogado mientras nadaba",
+   "quien": "Britannica habla de derrame; una crónica periodística, de ahogamiento según la autopsia{1}{3}",
+   "estado": "discutido, la causa exacta"
+  }
+ ],
+ "contexto": [
+  "Mengele fue uno de los médicos de Birkenau. El campo funcionaba como lugar de exterminio, y los recién llegados se dividían en los que irían a trabajar y los que serían asesinados.{1}",
+  "Su caso muestra cómo pudo escapar un criminal nazi. Con papeles falsos, apoyo de conocidos y la ayuda de su familia, cambió de identidad varias veces y de país en país.{2}{3}",
+  "Gran parte de la historia de sus últimos años descansa en testimonios de quienes lo acogieron o lo enterraron, no en documentos oficiales. Por eso hay detalles, como el día exacto de la huida o la causa de su muerte, que las fuentes cuentan de forma distinta.{2}{3}"
+ ],
+ "sabemos": [
+  "Josef Mengele nació el 16 de marzo de 1911 en Günzburg (Alemania).{1}",
+  "Entre 1943 y 1945 fue médico jefe en Birkenau. Participó en la selección de los recién llegados y supervisó experimentos con presos, sobre todo con gemelos. Muchos terminaron con la muerte de los sujetos.{1}{2}",
+  "Tras la guerra evitó el internamiento y vivió cuatro años como mozo de cuadra cerca de Rosenheim (Baviera).{1}",
+  "Escapó a Sudamérica en 1949 y vivió con varias identidades en Argentina, Paraguay y Brasil.{1}{2}{3}",
+  "Murió el 7 de febrero de 1979 en Bertioga, cerca de São Paulo. Se le enterró como «Wolfgang Gerhard».{1}{2}{3}",
+  "En 1985 un equipo forense de Brasil, Alemania Occidental y Estados Unidos concluyó que era Mengele. Los registros dentales lo confirmaron, y una prueba genética lo ratificó en 1992.{1}{2}{3}"
+ ],
+ "ensenanza": [
+  "El caso de Mengele deja una pregunta incómoda: cómo pudo vivir más de treinta años en libertad alguien que seleccionó a miles de personas para la muerte. Las fuentes muestran identidades falsas, conocidos que lo ayudaron y una familia que lo respaldó.{2}{3}",
+  "Su caso también enseña cómo se identifica un cuerpo cuando el nombre es falso. Primero se compararon registros dentales y análisis forenses en 1985, y siete años después llegó la prueba genética de 1992.{1}{2}{3}",
+  "Lo que no se sabe también cuenta: la causa exacta de su muerte, su ruta de huida o el día en que dejó Auschwitz tienen versiones que no coinciden entre fuentes. Conviene distinguir lo documentado de lo que se cuenta por testimonios.{2}{3}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://www.britannica.com/print/article/374956",
+   "txt": "Josef Mengele",
+   "autor": "Encyclopaedia Britannica",
+   "tipo": "Enciclopedia"
+  },
+  {
+   "id": 2,
+   "url": "https://www.jewishvirtuallibrary.org/jsource/Holocaust/MengeleIPUReport.html",
+   "txt": "Internal Israel Police Report Provides Details of Mengele's Life",
+   "autor": "Jewish Virtual Library, a partir de Haaretz y del informe de la policía israelí de diciembre de 1986",
+   "tipo": "Informe policial citado en un sitio de referencia"
+  },
+  {
+   "id": 3,
+   "url": "https://www.eldiario.ec/mundo/el-final-del-angel-de-la-muerte-la-historia-de-como-josef-mengele-murio-en-una-playa-de-brasil-12092025/",
+   "txt": "El final del Ángel de la Muerte: la historia de cómo Josef Mengele murió en una playa de Brasil",
+   "autor": "El Diario (Ecuador), 12 de septiembre de 2025",
+   "tipo": "Prensa; algunos datos no llevan fuente clara"
+  }
+ ],
+ "saberMas": [
+  "Informe de la Unidad de Investigación de Crímenes Nazis de la policía de Israel sobre Mengele (diciembre de 1986), que resume el sitio de referencia citado."
+ ],
+ "saberMasNota": "Estas obras aparecen mencionadas o resumidas en las fuentes consultadas. No las hemos leído directamente.",
+ "discute": [
+  "Su ruta exacta de huida y sus movimientos por Sudamérica. Las fuentes dicen «según se cree» o «aparentemente».{1}{2}",
+  "La causa exacta de su muerte: derrame o ahogamiento mientras nadaba.{1}{3}",
+  "El día exacto en que huyó de Auschwitz: las fuentes citan el 17 o el 18 de enero de 1945.{2}{3}"
+ ]
+}

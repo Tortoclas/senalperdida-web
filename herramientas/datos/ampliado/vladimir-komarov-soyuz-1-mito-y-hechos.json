@@ -1,0 +1,123 @@
+{
+ "pregunta": "¿Cómo murió Vladímir Komarov y qué es mito en su historia?",
+ "respuesta": "Komarov murió el 24 de abril de 1967 al estrellarse la cápsula de la Soyuz 1 en Oremburgo, porque el paracaídas principal no se abrió y el de reserva se enredó.{1} La Soyuz tuvo varios fallos en órbita y se decidió abortar la misión.{1} Historias posteriores dicen que sabía que iba a morir, que maldijo a los ingenieros o que Gagarin intentó impedir el vuelo. Un historiador que revisó los archivos las considera falsas o sin pruebas.{1}{2}{3}",
+ "cronologia": [
+  {
+   "fecha": "23 de abril de 1967",
+   "texto": "La Soyuz 1 despega de Baikonur a las 00:32 GMT con Komarov, en su segundo vuelo espacial. Era el primer vuelo tripulado de la nave Soyuz.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Tras el despegue",
+   "texto": "Un panel solar no se despliega y la nave queda corta de energía. Los detectores de orientación fallan y complican las maniobras.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Órbita 13",
+   "texto": "El sistema automático de estabilización queda inutilizado y el manual solo funciona en parte. El director del vuelo decide abortar la misión.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "24 de abril de 1967",
+   "texto": "Tras 18 órbitas, la nave enciende los retrocohetes y reentra. Se abre el paracaídas estabilizador, pero el principal no se despliega por un defecto cuya causa exacta se discute.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Descenso",
+   "texto": "Komarov abre el de reserva, que se enreda con el estabilizador. El módulo cae a unos 40 m/s en la región de Oremburgo, a 3 km al oeste de Karabutak.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Tras el impacto",
+   "texto": "Un incendio consume la cápsula. La autopsia atribuye su muerte a traumatismos múltiples.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Hacia 1975",
+   "texto": "Ocho años después empieza a circular la historia de que Komarov maldijo a los ingenieros y habló con su esposa, supuestamente interceptado por una estación de la NSA. El historiador Asif Siddiqi la considera falsa.{1}",
+   "certeza": "desmentido"
+  },
+  {
+   "fecha": "2011",
+   "texto": "El periodista Robert Krulwich recoge para NPR el relato del libro «Starman», que atribuye a un antiguo agente del KGB, Venyamin Russayev, que Komarov sabía que moriría y que Gagarin intentó apartarlo. Historiadores cuestionan la fiabilidad de esa fuente.{2}{3}",
+   "certeza": "discutido"
+  },
+  {
+   "fecha": "Octubre de 1968",
+   "texto": "El accidente retrasa los siguientes vuelos Soyuz hasta octubre de 1968.{1}",
+   "certeza": "documentado"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "Murió por el fallo del paracaídas al aterrizar",
+   "quien": "Investigación y autopsia{1}",
+   "estado": "aceptado, con la causa del fallo discutida"
+  },
+  {
+   "version": "Maldijo a los ingenieros y habló con su esposa en su último vuelo, interceptado por la NSA",
+   "quien": "Relato que circuló unos ocho años después{1}",
+   "estado": "desmentido"
+  },
+  {
+   "version": "Sabía que moriría y Gagarin intentó apartarlo del vuelo",
+   "quien": "Venyamin Russayev, citado en «Starman»{2}{3}",
+   "estado": "discutido, sin pruebas verificables"
+  },
+  {
+   "version": "Hubo 203 fallos de diseño conocidos antes del lanzamiento",
+   "quien": "Russayev{1}{2}",
+   "estado": "discutido"
+  }
+ ],
+ "contexto": [
+  "La Soyuz 1 era el primer vuelo tripulado de una nave nueva. Los problemas empezaron poco después del despegue.{1}",
+  "Siddiqi sostiene que el plan de acoplamiento entre naves venía de 1965 y respondía a razones de ingeniería, no a una orden política.{3}",
+  "Que no se conozcan todos los detalles hace que cada nuevo relato parezca verosímil. Por eso conviene fijarse en quién cuenta cada versión y qué pruebas ofrece.{2}{3}"
+ ],
+ "sabemos": [
+  "La Soyuz 1 despegó el 23 de abril de 1967 desde Baikonur con Vladímir Komarov.{1}",
+  "Un panel solar no se desplegó y hubo fallos en los sistemas de orientación y estabilización.{1}",
+  "El director del vuelo decidió abortar la misión y la nave reentró el 24 de abril, tras 18 órbitas.{1}",
+  "El paracaídas principal no se abrió y el de reserva se enredó con el estabilizador. El módulo cayó casi sin freno en Oremburgo.{1}",
+  "Komarov murió por traumatismos múltiples. Recibió póstumamente su segundo título de Héroe de la Unión Soviética y está enterrado en la Muralla del Kremlin.{1}"
+ ],
+ "ensenanza": [
+  "El caso de Komarov enseña cómo un accidente real puede llenarse de relatos que nadie puede comprobar. Los más dramáticos se difunden más rápido que los datos técnicos.{2}{3}",
+  "También enseña a mirar quién cuenta algo. Muchas versiones descansan en una sola persona cuyo testimonio no se puede verificar, y otras en una grabación que el historiador que revisó los archivos considera falsa.{1}{2}{3}",
+  "Y deja una lección de método: ante una historia emocionante, vale más la que tiene documentos que la que tiene un buen narrador.{2}{3}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://en.wikipedia.org/wiki/Soyuz_1",
+   "txt": "Soyuz 1",
+   "autor": "Wikipedia (en inglés), consultada en su copia de encyclopedia.pub",
+   "tipo": "Enciclopedia; cita a Portree, la BBC, NPR y russianspaceweb.com"
+  },
+  {
+   "id": 2,
+   "url": "https://npr.org/blogs/krulwich/2011/05/03/135919389/a-cosmonauts-fiery-death-retold",
+   "txt": "A Cosmonaut's Fiery Death, Retold",
+   "autor": "Robert Krulwich, NPR (2011)",
+   "tipo": "Prensa; resume y cuestiona el libro «Starman»"
+  },
+  {
+   "id": 3,
+   "url": "https://gizmodo.com/what-really-happened-to-cosmonaut-vladimir-komarov-who-5791437",
+   "txt": "What really happened to cosmonaut Vladimir Komarov, who...",
+   "autor": "Gizmodo",
+   "tipo": "Prensa; retoma el relato de «Starman» y las objeciones de Siddiqi"
+  }
+ ],
+ "saberMas": [
+  "Jamie Doran y Piers Bizony, «Starman», citado en NPR y Gizmodo.",
+  "russianspaceweb.com, «The Soyuz-1 accident investigation», citado en Wikipedia."
+ ],
+ "saberMasNota": "Estas obras aparecen citadas o comentadas en las fuentes consultadas. No las hemos leído directamente.",
+ "discute": [
+  "La causa exacta del fallo del paracaídas principal sigue en discusión.{1}",
+  "La historia de que Komarov maldijo a los ingenieros y habló con su esposa, supuestamente interceptada por la NSA, circuló unos ocho años después. Siddiqi la considera falsa y su transcripción de los últimos intercambios muestra tráfico de radio rutinario.{1}{2}",
+  "La versión de un antiguo agente del KGB, según la cual Gagarin intentó apartar a Komarov del vuelo y este sabía que iba a morir, se considera inverosímil o exagerada por historiadores. Tampoco hay verificación de la cifra de «203 fallos de diseño».{2}{3}"
+ ]
+}

@@ -1,0 +1,129 @@
+{
+ "pregunta": "¿Por qué Hiroo Onoda siguió en guerra hasta 1974?",
+ "respuesta": "Onoda tenía órdenes de no rendirse y creyó que los mensajes del fin de la guerra eran propaganda enemiga.{1}{2}{3} Se quedó en las montañas de Lubang, en Filipinas, hasta que su antiguo comandante, Yoshimi Taniguchi, lo relevó de sus órdenes el 9 de marzo de 1974.{1}{3} Se entregó con su espada y su fusil y recibió un indulto del presidente Marcos.{1}{2}{3} Las fuentes discrepan en cuántas personas murieron por la acción de su grupo.{1}{3}",
+ "cronologia": [
+  {
+   "fecha": "26 de diciembre de 1944",
+   "texto": "Onoda, oficial de inteligencia formado en guerrilla, llega a la isla filipina de Lubang con la misión de dificultar los ataques enemigos.{1}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Principios de 1945",
+   "texto": "Fuerzas estadounidenses y filipinas toman la isla. Onoda y otros tres soldados se refugian en las colinas.{1}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "28 de febrero de 1945",
+   "texto": "Según una crónica que cita al New York Times, el mayor Taniguchi le ordena seguir luchando: «Pueden ser tres años, pueden ser cinco; pase lo que pase volveremos a por vosotros».{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "Finales de 1945",
+   "texto": "Caen folletos aéreos con la noticia de que la guerra ha terminado. El grupo cree que son falsos.{1}{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "1950",
+   "texto": "Yūichi Akatsu se separa del grupo y se entrega a las tropas filipinas.{1}{2}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1954",
+   "texto": "Shōichi Shimada muere en un tiroteo con pescadores locales.{1}{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "1959",
+   "texto": "Onoda es declarado muerto.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1972",
+   "texto": "Kinshichi Kozuka muere tiroteado por la policía.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Febrero de 1974",
+   "texto": "El aventurero japonés Norio Suzuki encuentra a Onoda tras unos días de búsqueda.{2}{3}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "9 de marzo de 1974",
+   "texto": "Taniguchi viaja a Lubang y le comunica que está relevado de sus deberes. Onoda se entrega al día siguiente y entrega su espada y su fusil.{1}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1974",
+   "texto": "El presidente Ferdinand Marcos le concede un indulto.{1}{2}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "16 de enero de 2014",
+   "texto": "Muere a los 91 años por complicaciones de una neumonía.{1}{3}",
+   "certeza": "documentado"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "Creyó que los folletos y cartas eran propaganda y siguió las órdenes recibidas",
+   "quien": "Su relato y las crónicas{1}{2}{3}",
+   "estado": "atribuido"
+  },
+  {
+   "version": "Su grupo mató al menos a 30 filipinos e hirió a más de 100",
+   "quien": "Una crónica periodística sin fuente citada{1}",
+   "estado": "discutido"
+  }
+ ],
+ "contexto": [
+  "En 1945 Onoda recibió órdenes de resistir y no rendirse ni suicidarse. Se quedó convencido de que su deber continuaba y de que los mensajes que llegaban eran un truco del enemigo.{2}{3}",
+  "Sobrevivió con frutos, caza, arroz robado y ganado. Tuvo tiroteos con vecinos y con la policía durante casi treinta años.{1}{3}",
+  "Su caso no fue el único. En 1972 se encontró a Shōichi Yokoi en Guam, y meses después de Onoda, Teruo Nakamura se entregó en Morotai.{1}"
+ ],
+ "sabemos": [
+  "Hiroo Onoda fue un subteniente del Ejército Imperial Japonés, formado como oficial de inteligencia en guerrilla.{1}{3}",
+  "Lo enviaron a la isla de Lubang a finales de 1944. Allí se refugió en las montañas con otros tres soldados cuando la isla cayó.{1}{3}",
+  "El grupo descartó folletos y cartas como propaganda enemiga.{1}{2}{3}",
+  "Akatsu se entregó en 1950, Shimada murió en 1954 y Kozuka en 1972. Onoda sobrevivió solo hasta 1974.{1}{2}{3}",
+  "El 9 de marzo de 1974 Taniguchi lo relevó de sus deberes y Onoda se entregó al día siguiente.{1}{3}",
+  "Marcos le concedió un indulto. En Japón lo recibieron como a un héroe. Publicó «No Surrender: My Thirty-Year War» y murió en 2014.{1}{2}{3}"
+ ],
+ "ensenanza": [
+  "El caso de Onoda enseña cómo una orden clara puede durar más que la guerra que la motivó. Mientras nadie con autoridad para anularla se lo dijera, él siguió cumpliéndola.{2}{3}",
+  "También muestra el coste para quienes vivían cerca. Las fuentes hablan de tiroteos con vecinos y policía, y de personas que murieron, aunque no coinciden en cuántas.{1}{2}{3}",
+  "Por último, el caso tiene dos lecturas según quién lo cuente. En Japón lo recibieron como un héroe; en Filipinas, Marcos lo indultó por las muertes de vecinos y policías.{2}{3}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://www.tokyoweekender.com/2021/11/hiroo-onoda-japans-29-year-war-holdout/",
+   "txt": "Hiroo Onoda: Japan's 29-Year War Holdout",
+   "autor": "Tokyo Weekender, 2021",
+   "tipo": "Prensa; la cifra de víctimas no cita fuente"
+  },
+  {
+   "id": 2,
+   "url": "https://taskandpurpose.com/news/this-wwii-soldier-hid-in-a-philippine-jungle-for-30-years/",
+   "txt": "This WWII soldier hid in a Philippine jungle for 30 years",
+   "autor": "Task & Purpose, Sarah Sicard",
+   "tipo": "Prensa; recoge citas de The New York Times (2014)"
+  },
+  {
+   "id": 3,
+   "url": "https://en.wikipedia.org/wiki/Hiroo_Onoda",
+   "txt": "Hiroo Onoda",
+   "autor": "Wikipedia (en inglés)",
+   "tipo": "Enciclopedia; fuente de la versión anterior de esta página"
+  }
+ ],
+ "saberMas": [
+  "Hiroo Onoda, «No Surrender: My Thirty-Year War» (1974).",
+  "The New York Times, obituario de Hiroo Onoda (2014), citado por Task & Purpose."
+ ],
+ "saberMasNota": "Estas obras aparecen mencionadas en las fuentes consultadas. No las hemos leído directamente.",
+ "discute": [
+  "Cuántas personas murieron por la acción de su grupo en Lubang. Una crónica habla de al menos 30 muertos y más de 100 heridos sin citar fuente, y la información anterior de esta página recogía que medios filipinos hablaban de hasta treinta. Onoda no lo menciona en su autobiografía.{1}{3}",
+  "El nombre de quien lo relevó el 9 de marzo de 1974. Dos fuentes dicen Taniguchi; Task & Purpose habla de un tal Yamashita, sin más datos.{1}{2}{3}",
+  "La fecha exacta en que Suzuki lo encontró: las fuentes hablan de febrero de 1974 o solo de «principios de los setenta».{2}{3}"
+ ]
+}
