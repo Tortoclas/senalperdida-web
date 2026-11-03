@@ -1,0 +1,160 @@
+{
+ "pregunta": "¿Qué pasó con los tres fareros de las islas Flannan en 1900 y qué es leyenda?",
+ "respuesta": "Tres fareros desaparecieron del faro de Eilean Mòr, en las islas Flannan (Escocia), hacia el 15 de diciembre de 1900. El 26 de diciembre el relevo encontró el faro vacío y en orden, y faltaban dos juegos de ropa de agua.{1}{2} La investigación concluyó que una gran ola los arrastró.{1}{2} La mesa puesta y la silla volcada aparecen en un poema y en relatos posteriores, y los archivos consultados no las confirman.{2}",
+ "cronologia": [
+  {
+   "fecha": "13 de diciembre de 1900",
+   "texto": "Últimas anotaciones en el libro de registro del faro.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "15 de diciembre de 1900",
+   "texto": "Las observaciones hasta las 9 de la mañana quedan anotadas en una pizarra. Los fareros desaparecen probablemente esa tarde, un sábado. Hacia medianoche un vapor ve que el faro no está encendido.{1}{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "Tras esa noche",
+   "texto": "El aviso del vapor no llega a los Comisionados de Faros. Una fuente dice que el vapor Archtor lo informó al llegar a Leith. Los archivos escoceses dicen que no se transmitió.{1}{3}",
+   "certeza": "discutido"
+  },
+  {
+   "fecha": "20 de diciembre de 1900",
+   "texto": "Según una fuente, el barco de relevo Hesperus intenta llegar a la isla, pero el mal tiempo se lo impide.{3}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "26 de diciembre de 1900",
+   "texto": "El Hesperus llega a la isla. El farero Joseph Moore desembarca y encuentra el faro vacío. Las lámparas están preparadas, la lente y la maquinaria, limpias, y la cocina, ordenada. Faltan dos juegos de ropa de agua.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "26 de diciembre de 1900",
+   "texto": "Otra fuente cuenta que Moore halló además un reloj parado, una mesa puesta con comida sin tocar, una silla volcada y un canario vivo. Los archivos escoceses no recogen esos detalles, que aparecen en un poema.{2}{3}",
+   "certeza": "discutido"
+  },
+  {
+   "fecha": "29 de diciembre de 1900",
+   "texto": "El superintendente Robert Muirhead empieza su investigación. Encuentra una barandilla de hierro retorcida, una piedra de más de 20 quintales (cerca de una tonelada) desplazada y una boya salvavidas desaparecida.{1}{2}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "8 de enero de 1901",
+   "texto": "Muirhead presenta su informe. Concluye que los hombres bajaron a los muelles a asegurar material y los arrastró una «gran ola». Los registros de defunción indican «probablemente ahogamiento».{1}{2}",
+   "certeza": "documentado"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "Una gran ola los arrastró en el muelle mientras aseguraban material",
+   "quien": "Informe del superintendente Muirhead{1}{2}",
+   "estado": "aceptado, es una inferencia y no hay pruebas directas"
+  },
+  {
+   "version": "Marshall y Ducat fueron arrastrados y McArthur, en mangas de camisa, salió tras ellos",
+   "quien": "Muirhead, según un artículo de History Hit{3}",
+   "estado": "atribuido"
+  },
+  {
+   "version": "Una pelea o un crimen y suicidio de McArthur",
+   "quien": "Especulación recogida por History Hit{3}",
+   "estado": "sin pruebas"
+  },
+  {
+   "version": "Serpientes marinas, un barco fantasma, espías extranjeros o una huida planeada",
+   "quien": "Especulaciones recogidas por History Hit{3}",
+   "estado": "sin pruebas"
+  },
+  {
+   "version": "El libro de registro hablaba de una tormenta y de hombres rezando",
+   "quien": "Relatos posteriores{3}",
+   "estado": "desmentido, esas anotaciones nunca se hicieron"
+  },
+  {
+   "version": "Había una mesa puesta y una silla volcada",
+   "quien": "El poema «Flannan Isle» de Wilfrid Gibson y relatos posteriores{2}{3}",
+   "estado": "no confirmado por los archivos"
+  }
+ ],
+ "contexto": [
+  "El faro llevaba algo más de un año en funcionamiento. La luz se veía desde Lewis, a unas 16 millas.{1}",
+  "Los fareros eran James Ducat (principal), Thomas Marshall (ayudante) y Donald McArthur, farero ocasional que cubría a un compañero enfermo. Joseph Moore estaba en tierra y fue quien desembarcó el 26 de diciembre.{1}",
+  "Un vigía en tierra notó que la luz faltaba durante largos periodos. El informe de Muirhead recomendó mejorar los avisos.{2}",
+  "Según History Hit, Marshall había sido multado antes por perder material en una tormenta, lo que pudo llevar a los hombres a asumir riesgos. Es una hipótesis.{3}"
+ ],
+ "sabemos": [
+  "James Ducat, Thomas Marshall y Donald McArthur desaparecieron del faro de Eilean Mòr hacia el 15 de diciembre de 1900.{1}{2}",
+  "El 26 de diciembre llegó el Hesperus y Joseph Moore encontró el faro vacío.{1}{2}{3}",
+  "El faro estaba en orden, con las lámparas preparadas, y faltaban dos juegos de ropa de agua.{1}{2}",
+  "Había daños de temporal en los muelles: barandilla retorcida, un bloque de piedra desplazado y una boya perdida.{1}{2}",
+  "La investigación concluyó que los arrastró una gran ola. Los registros dicen «probablemente ahogamiento». Nunca se encontraron sus cuerpos.{1}{2}"
+ ],
+ "ensenanza": [
+  "Las islas Flannan enseñan cómo una historia real se llena de detalles que nadie vio. La mesa puesta y la silla volcada se repiten mucho, pero los archivos no las confirman.{2}",
+  "También muestran lo difícil que es probar un hecho sin testigos. La explicación de la ola se apoya en el estado del faro y en los daños, no en nadie que lo viera.{1}{2}",
+  "Y dejan una lección práctica: un aviso que no se transmite puede retrasar un rescate. El vapor vio el faro apagado y los Comisionados no se enteraron.{1}{2}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://nrscotland.gov.uk/learning-and-events/for-the-safety-of-all-scotlands-lighthouses/the-flannan-islands-lighthouse-a-disappearance/",
+   "txt": "The Flannan Islands lighthouse: a disappearance",
+   "autor": "Archivos Nacionales de Escocia (NRS)",
+   "tipo": "Archivo oficial"
+  },
+  {
+   "id": 2,
+   "url": "https://blog.nrscotland.gov.uk/2023/12/12/flannan-isles-lighthouse-keepers-the-disappearance/",
+   "txt": "Flannan Isles Lighthouse Keepers: The disappearance",
+   "autor": "Jocelyn Grant, archivera de los Archivos Nacionales de Escocia, 12 de diciembre de 2023",
+   "tipo": "Blog de archivo"
+  },
+  {
+   "id": 3,
+   "url": "https://www.historyhit.com/the-flannan-isle-mystery-when-three-lighthouse-keepers-vanished-overnight/",
+   "txt": "Flannan Isle Mystery: When Three Lighthouse Keepers Vanished Forever",
+   "autor": "Lucy Davidson, History Hit, 1 de abril de 2022",
+   "tipo": "Divulgación histórica"
+  }
+ ],
+ "saberMas": [
+  "«Flannan Isle», poema de Wilfrid Wilson Gibson, citado por los Archivos Nacionales de Escocia.",
+  "Informe de Robert Muirhead (NRS, NLC3/1/1), citado por los Archivos Nacionales de Escocia."
+ ],
+ "saberMasNota": "Estas obras aparecen citadas o comentadas en las fuentes consultadas. No las hemos leído directamente.",
+ "discute": [
+  "El reloj parado, la mesa puesta, la silla volcada y el canario. History Hit los atribuye a Moore. Los Archivos de Escocia no los mencionan y señalan que la mesa y la silla proceden del poema.{2}{3}",
+  "Las anotaciones del libro de registro sobre una tormenta, hombres rezando y «Dios está sobre todo». Una investigación posterior concluyó que nunca se hicieron.{3}",
+  "Quién avisó del faro apagado y cuándo. Una fuente dice que el Archtor lo informó en Leith. Otra dice que el aviso no se transmitió.{1}{3}",
+  "Cuántos juegos de ropa de agua faltaban. Los Archivos de Escocia hablan de dos. History Hit dice que faltaba uno, lo que sugiere que un farero salió sin él.{1}{2}{3}",
+  "El nombre del tercer farero. Escribimos Donald McArthur como en los Archivos de Escocia. Otros textos lo llaman William.{1}",
+  "La hora exacta de la desaparición es una inferencia. Las pruebas sugieren la tarde del 15 de diciembre, pero nadie los vio.{1}{2}",
+  "La causa real. La explicación de la ola se apoya en los daños y en el informe de Muirhead. Las familias nunca supieron con certeza qué ocurrió.{2}"
+ ],
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
+ "imagenes": [
+  {
+   "despues": "cronologia",
+   "src": "/img/faro-de-flannan-recreacion-de-un-vapor-en-un-mar-agitado",
+   "alt": "Un vapor con humo negro avanza sobre un mar agitado hacia un faro lejano",
+   "pie": "El barco de relevo, el «Hesperus», llegó a la isla el 26 de diciembre de 1900.",
+   "w": 1000,
+   "h": 1792
+  },
+  {
+   "despues": "versiones",
+   "src": "/img/faro-de-flannan-recreacion-de-un-faro-sobre-un-acantilado-con-oleaje",
+   "alt": "Un faro sobre un acantilado rocoso bajo un cielo tormentoso",
+   "pie": "El faro de Eilean Mòr se alza sobre un acantilado batido por el oleaje.",
+   "w": 1000,
+   "h": 1500
+  },
+  {
+   "despues": "ensenanza:1",
+   "src": "/img/faro-de-flannan-recreacion-de-una-cocina-con-la-mesa-puesta",
+   "alt": "Una cocina rústica con una mesa puesta para tres y una lámpara de aceite encendida",
+   "pie": "La mesa puesta es una escena de la leyenda: los archivos no la confirman.",
+   "w": 1000,
+   "h": 1500
+  }
+ ]
+}

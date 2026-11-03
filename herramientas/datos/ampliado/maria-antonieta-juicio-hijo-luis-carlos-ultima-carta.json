@@ -1,0 +1,190 @@
+{
+ "pregunta": "¿Cómo fue el juicio de María Antonieta y qué pasó con su última carta?",
+ "respuesta": "María Antonieta fue juzgada por el Tribunal Revolucionario del 14 al 16 de octubre de 1793. Entre las acusaciones había una de incesto con su hijo de ocho años, basada en una declaración que el niño firmó bajo presión.{1}{4} La condenaron a muerte de madrugada y la guillotinaron el 16 de octubre.{1} La carta que escribió esa noche a su cuñada no llegó a su destinataria.{2}",
+ "cronologia": [
+  {
+   "fecha": "3 de julio de 1793",
+   "texto": "Luis Carlos, de ocho años, es separado de su madre en la torre del Temple y queda a cargo del zapatero Antoine Simon.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "6 de octubre de 1793",
+   "texto": "Una comisión interroga al niño en el Temple y le hace firmar una declaración que acusa a su madre de incesto. Según otra fuente, lo coaccionaron Simon y Jacques Hébert.{1}{4}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "14 de octubre de 1793",
+   "texto": "Empieza el juicio ante el Tribunal Revolucionario. Declaran unos cuarenta testigos. Se la acusa de conspirar con potencias extranjeras, vaciar el tesoro y alta traición.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "14–15 de octubre de 1793",
+   "texto": "Hébert, sustituto del fiscal general, presenta la acusación de incesto. El niño no declara en persona. La reina responde que la naturaleza se niega a contestar a una acusación así contra una madre.{1}{3}{5}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "16 de octubre de 1793, 4 de la mañana",
+   "texto": "El tribunal la declara culpable de los tres cargos y la condena a muerte.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "16 de octubre de 1793, hacia las 4:30",
+   "texto": "Escribe una carta de despedida a su cuñada, Madame Élisabeth. Habla de su dolor por dejar a sus hijos y pide perdón por los problemas que haya causado.{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "16 de octubre de 1793, mediodía",
+   "texto": "Sale en carreta hacia las once y la guillotinan en la plaza de la Revolución a las 12:15, según World History Encyclopedia.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "10 de mayo de 1794",
+   "texto": "Madame Élisabeth, destinataria de la carta, muere guillotinada sin haberla recibido.{2}{6}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "8 de junio de 1795",
+   "texto": "Luis Carlos muere en la prisión del Temple, con diez años.{4}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "25 de enero de 1816",
+   "texto": "Con los Borbones de vuelta en el trono, el diputado Courtois ofrece a la Corona la carta, que había encontrado entre los papeles de Robespierre.{6}{7}",
+   "certeza": "atribuido"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "La acusación de incesto era falsa y el niño la firmó bajo coacción",
+   "quien": "World History Encyclopedia y Wikipedia en francés{1}{4}",
+   "estado": "aceptado"
+  },
+  {
+   "version": "El veredicto estaba decidido antes del juicio, por un pacto del Comité de Salvación Pública con Hébert",
+   "quien": "World History Encyclopedia, que cita la biografía de Antonia Fraser{1}",
+   "estado": "discutido, sin documentos citados"
+  },
+  {
+   "version": "El público detuvo el juicio al oír su respuesta",
+   "quien": "Wikipedia en francés{4}",
+   "estado": "discutido, otras fuentes dicen solo que conmovió a la sala"
+  },
+  {
+   "version": "Robespierre leyó la carta",
+   "quien": "Relato popular{6}",
+   "estado": "sin pruebas, solo consta que acabó entre sus papeles"
+  },
+  {
+   "version": "Robespierre deploró la acusación por el daño que hacía a la Revolución",
+   "quien": "Hérodote{3}",
+   "estado": "atribuido"
+  }
+ ],
+ "contexto": [
+  "El juicio se celebró en pleno Terror. Hérodote lo presenta como consecuencia de ese clima, no de una necesidad política concreta.{3}",
+  "World History Encyclopedia describe las pruebas contra la reina como muy débiles. Un testigo admitió que no había visto las orgías de las que hablaba, y se atribuyó a Marie-Thérèse y a Élisabeth escritos que calificaban las acusaciones de mentiras.{1}",
+  "Las traducciones de la carta varían, y las palabras exactas de la reina en el juicio también. Aquí damos el sentido.{1}{2}"
+ ],
+ "sabemos": [
+  "El juicio de María Antonieta se celebró ante el Tribunal Revolucionario entre el 14 y el 16 de octubre de 1793.{1}",
+  "La acusación de incesto la presentó Jacques Hébert, y se apoyó en una declaración que firmó su hijo de ocho años.{1}{3}{4}",
+  "La declararon culpable de madrugada, el 16 de octubre, y la guillotinaron ese mismo día.{1}",
+  "Esa noche escribió una carta a su cuñada, Madame Élisabeth, que nunca la recibió.{2}",
+  "Su hijo Luis Carlos murió en el Temple el 8 de junio de 1795.{4}"
+ ],
+ "ensenanza": [
+  "El juicio de María Antonieta enseña cómo una acusación puede construirse sobre una declaración forzada. El niño firmó un texto que le pusieron delante, y la reina no pudo rebatirlo con pruebas.{1}{4}",
+  "También enseña a distinguir lo documentado de lo conmovedor. Que el público se emocionó es un dato; que paró el juicio no está confirmado en todas las fuentes.{3}{4}",
+  "Y deja una lección sobre los documentos personales: la carta existe, pero su recorrido hasta 1816 se apoya en pocas fuentes.{2}{6}{7}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://www.worldhistory.org/article/2099/trial-and-execution-of-marie-antoinette/",
+   "txt": "Trial and Execution of Marie Antoinette",
+   "autor": "Harrison W. Mark, World History Encyclopedia, 7 de noviembre de 2022",
+   "tipo": "Enciclopedia; cita la biografía de Antonia Fraser"
+  },
+  {
+   "id": 2,
+   "url": "https://www.historyofroyalwomen.com/france/marie-antoinettes-last-letter2/",
+   "txt": "Marie Antoinette's last letter",
+   "autor": "Moniek Bloks, History of Royal Women (2014)",
+   "tipo": "Divulgación histórica"
+  },
+  {
+   "id": 3,
+   "url": "https://www.herodote.net/histoire/histoire10160.htm",
+   "txt": "La condamnation de Marie-Antoinette",
+   "autor": "Hérodote",
+   "tipo": "Divulgación histórica"
+  },
+  {
+   "id": 4,
+   "url": "https://fr.wikipedia.org/wiki/Proc%C3%A8s_de_Marie-Antoinette",
+   "txt": "Procès de Marie-Antoinette",
+   "autor": "Wikipedia en francés",
+   "tipo": "Enciclopedia"
+  },
+  {
+   "id": 5,
+   "url": "https://www.justice.gouv.fr/actualites/actualite/proces-marie-antoinette",
+   "txt": "Le procès de Marie-Antoinette",
+   "autor": "Ministerio de Justicia de Francia",
+   "tipo": "Fuente oficial"
+  },
+  {
+   "id": 6,
+   "url": "https://es.wikipedia.org/wiki/Mar%C3%ADa_Antonieta_de_Austria",
+   "txt": "María Antonieta de Austria",
+   "autor": "Wikipedia en español",
+   "tipo": "Enciclopedia"
+  },
+  {
+   "id": 7,
+   "url": "https://en.wikipedia.org/wiki/Edme-Bonaventure_Courtois",
+   "txt": "Edme-Bonaventure Courtois",
+   "autor": "Wikipedia en inglés",
+   "tipo": "Enciclopedia"
+  }
+ ],
+ "saberMas": [
+  "Antonia Fraser, biografía de María Antonieta, citada en World History Encyclopedia."
+ ],
+ "saberMasNota": "Estas obras aparecen citadas o comentadas en las fuentes consultadas. No las hemos leído directamente.",
+ "discute": [
+  "Si el público llegó a detener el juicio. Wikipedia en francés dice que su exclamación provocó un movimiento de admiración que suspendió los debates. Hérodote y el Ministerio de Justicia solo dicen que conmovió a la sala.{3}{4}{5}",
+  "Las palabras exactas de su respuesta y de la carta. Las versiones varían según la traducción. Aquí damos el sentido, no una cita literal.{1}{2}",
+  "Que la carta estuviera desaparecida hasta 1816. Lo dice Wikipedia en español, y la inglesa confirma que Courtois la tenía entre los papeles de Robespierre. No hemos hallado una segunda fuente independiente sobre su recorrido.{6}{7}",
+  "Que Robespierre la leyera. No hay pruebas: solo consta que acabó entre sus papeles.{6}",
+  "La hora exacta de la carta y de la ejecución. Se citan «hacia las 4:30» para la carta, y las once y las 12:15 para la carreta y la guillotina.{1}{2}",
+  "Si el veredicto estaba decidido antes. World History Encyclopedia lo presenta como un hecho a partir de una biografía, sin citar documentos primarios.{1}"
+ ],
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
+ "imagenes": [
+  {
+   "despues": "cronologia",
+   "src": "/img/maria-antonieta-recreacion-de-una-sala-de-tribunal-con-una-mujer-de-pie",
+   "alt": "Una mujer vestida de blanco de pie ante un tribunal con público y jueces en una sala oscura",
+   "pie": "El juicio se celebró ante el Tribunal Revolucionario, con público en la sala.",
+   "w": 1000,
+   "h": 1778
+  },
+  {
+   "despues": "versiones",
+   "src": "/img/maria-antonieta-recreacion-de-una-mujer-con-cofia-blanca-ante-el-estrado",
+   "alt": "Una mujer de perfil con cofia blanca ante un estrado y filas de espectadores",
+   "pie": "La reina respondió que la naturaleza se negaba a contestar a una acusación así.",
+   "w": 1000,
+   "h": 1778
+  },
+  {
+   "despues": "ensenanza:1",
+   "src": "/img/maria-antonieta-recreacion-de-una-guillotina-ante-una-multitud",
+   "alt": "Una guillotina sobre un cadalso ante una multitud bajo un cielo nublado",
+   "pie": "Fue guillotinada el 16 de octubre de 1793.",
+   "w": 1000,
+   "h": 1778
+  }
+ ]
+}
