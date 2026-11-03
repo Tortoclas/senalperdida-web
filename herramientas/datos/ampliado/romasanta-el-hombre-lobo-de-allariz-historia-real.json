@@ -1,0 +1,151 @@
+{
+ "pregunta": "¿Fue Romasanta un hombre lobo o un asesino que fingió la locura?",
+ "respuesta": "Manuel Blanco Romasanta confesó trece asesinatos y alegó una maldición que lo convertía en lobo. El tribunal de Allariz lo declaró en plenitud de facultades y lo condenó a muerte a garrote. Isabel II conmutó la pena por cadena perpetua.{1}{2} Murió preso en 1863, según la prensa de la época en Ceuta.{3} La licantropía no es un hecho: es lo que él alegó.{2}{3}",
+ "cronologia": [
+  {
+   "fecha": "18 de noviembre de 1809",
+   "texto": "Nace en la aldea de Regueiro, en Esgos (Ourense).{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1833",
+   "texto": "Se hace buhonero. Recorre Galicia y Portugal vendiendo y guiando viajeros.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1844",
+   "texto": "Lo condenan en ausencia a diez años por la muerte de un alguacil de León, Vicente Fernández. No se presenta ante el tribunal.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Años siguientes",
+   "texto": "Convence a mujeres y familias de guiarlas por las montañas hacia Castilla o Portugal. Las víctimas no vuelven a aparecer.{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "Septiembre de 1852",
+   "texto": "Lo detienen en Nombela (Toledo) con pertenencias de víctimas y un calendario lunar.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Octubre de 1852",
+   "texto": "Médicos de Allariz firman un informe: no está loco y finge su enfermedad.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "6 de abril de 1853",
+   "texto": "Sentencia del tribunal de Allariz. Lo absuelve de cuatro muertes, atribuidas a lobos reales, y lo condena por nueve. Pena de garrote. Otra fuente no da la fecha exacta de la sentencia.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Tras la sentencia",
+   "texto": "Un hombre que firma como Philips escribe a Isabel II y al Gobierno. Dice que Romasanta es licántropo y pide estudiarlo antes de ejecutarlo.{1}{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "13 de mayo de 1854",
+   "texto": "Una Real Orden conmuta la pena de muerte por cadena perpetua.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "14 de diciembre de 1863",
+   "texto": "Muere en Ceuta, de cáncer de estómago, según la prensa de la época que localizaron los hermanos Félix y Cástor Castro.{3}",
+   "certeza": "atribuido"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "Era un licántropo, víctima de una maldición",
+   "quien": "Romasanta, en su declaración{2}{3}",
+   "estado": "rechazado por el tribunal"
+  },
+  {
+   "version": "Era un asesino que fingía su enfermedad",
+   "quien": "Médicos de Allariz y tribunal{1}",
+   "estado": "aceptado por el tribunal"
+  },
+  {
+   "version": "Murió en la cárcel de Celanova o en la de Allariz",
+   "quien": "Creencia antigua{1}{3}",
+   "estado": "superada por la prensa de la época"
+  },
+  {
+   "version": "Murió en Ceuta el 14 de diciembre de 1863",
+   "quien": "Prensa de la época y hermanos Castro{3}",
+   "estado": "la mejor documentada, sin partida de defunción"
+  },
+  {
+   "version": "Escapó y formó familia en Galicia, o un guardia le disparó",
+   "quien": "Versiones populares{3}",
+   "estado": "sin pruebas"
+  }
+ ],
+ "contexto": [
+  "El sumario ocupa más de dos mil páginas y se conserva en los juzgados de Allariz.{2}",
+  "En 1853 la licantropía no existía como diagnóstico médico formal. Por eso la defensa de Romasanta no tenía un encaje clínico claro.{2}",
+  "El antropólogo Fernando Serrulla busca sus restos en Ceuta. Los investigadores confían sobre todo en que estén en la fosa común de la parroquia de Los Remedios, pero no hay partida de defunción que lo confirme.{2}{3}"
+ ],
+ "sabemos": [
+  "Manuel Blanco Romasanta nació en 1809 en Regueiro (Esgos, Ourense).{1}{2}",
+  "Lo detuvieron en septiembre de 1852 en Nombela (Toledo) y confesó trece asesinatos.{1}{2}",
+  "El tribunal de Allariz lo declaró en plenitud de facultades mentales y lo condenó a muerte a garrote.{1}{2}",
+  "Isabel II conmutó la pena por cadena perpetua.{1}{2}",
+  "Murió preso en 1863. El lugar se discute, pero la prensa de la época apunta a Ceuta.{3}"
+ ],
+ "ensenanza": [
+  "El caso de Romasanta muestra cómo un asesino pudo apoyarse en una leyenda para explicar sus crímenes. El tribunal no la aceptó.{1}{2}",
+  "También enseña lo difícil que es seguir la pista de alguien hace casi dos siglos. Hasta su muerte tiene versiones que no coinciden, y hubo que buscar periódicos de 1863 para acercarse a ella.{3}",
+  "Y deja una lección sobre las etiquetas: «primer asesino en serie de España» es una frase de cada redactor, no un dato documentado.{2}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://en.wikipedia.org/wiki/Manuel_Blanco_Romasanta",
+   "txt": "Manuel Blanco Romasanta",
+   "autor": "Wikipedia (en inglés)",
+   "tipo": "Enciclopedia"
+  },
+  {
+   "id": 2,
+   "url": "https://www.que.es/2026/06/13/allariz-romasanta-hombre-lobo-asesino-serie/",
+   "txt": "Allariz y Romasanta, el hombre lobo asesino",
+   "autor": "Qué.es (13 de junio de 2026)",
+   "tipo": "Prensa"
+  },
+  {
+   "id": 3,
+   "url": "https://elfarodeceuta.es/idonde-descansa-el-hombre-lobo-de-allariz/",
+   "txt": "¿Dónde descansa el hombre lobo de Allariz?",
+   "autor": "El Faro de Ceuta",
+   "tipo": "Prensa; cita al investigador Félix Castro y a la prensa de 1863"
+  }
+ ],
+ "saberMas": [],
+ "discute": [
+  "Las víctimas: confesó trece, el tribunal lo condenó por nueve y algunas fuentes hablan de más de veinte sospechadas. No hay una cifra cerrada.{1}{2}",
+  "Dónde y cuándo murió. Durante años se dio por hecho que fue en Celanova. La prensa de 1863 (los diarios «Iberia» y «La Esperanza», entre otros) lo sitúa en Ceuta. No se sabe si fue en el Hacho o en el Cuartel de las Heras. La causa también varía: cáncer de estómago según esa prensa, o un disparo de un guardia, que es solo rumor.{1}{3}",
+  "Quién era Philips. Se ha especulado con que fuera el hipnotista francés Joseph-Pierre Durand de Gros, pero no hay prueba documental.",
+  "La grasa humana convertida en jabón: algunos investigadores dicen que probablemente lo fabricaba, pero es una hipótesis, no una prueba.{2}",
+  "Frases como «primer asesino en serie de España» o «único caso de licantropía alegada» son afirmaciones del redactor, sin fuente citada.{2}",
+  "La película «Romasanta: la caza de la bestia» (2004) es una ficción basada en el caso. Esta página recoge lo que consta de la historia real."
+ ],
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
+ "imagenes": [
+  {
+   "despues": "cronologia",
+   "src": "/img/romasanta-recreacion-de-antorchas-ante-un-bosque-bajo-la-luna",
+   "alt": "Gente con antorchas ante un bosque bajo una luna llena",
+   "pie": "La leyenda del hombre lobo corría por las aldeas gallegas.",
+   "w": 1000,
+   "h": 1750
+  },
+  {
+   "despues": "versiones",
+   "src": "/img/romasanta-recreacion-de-un-lobo-con-ojos-brillantes-bajo-la-luna",
+   "alt": "Un lobo negro con los ojos brillantes bajo una luna amarilla",
+   "pie": "El lobo fue la defensa de Romasanta, y el tribunal no la aceptó.",
+   "w": 1000,
+   "h": 1750
+  }
+ ]
+}

@@ -1,0 +1,145 @@
+{
+ "pregunta": "¿Qué pasó de verdad con las brujas de Zugarramurdi y el auto de fe de Logroño?",
+ "respuesta": "En noviembre de 1610 la Inquisición celebró en Logroño un auto de fe contra acusados de brujería del norte de Navarra. Hubo condenados a la hoguera, en persona y en efigie, y otros reconciliados. Las cifras cambian según la fuente.{2}{3} Todo empezó con las denuncias de una joven que volvió de Francia.{3} El inquisidor Salazar y Frías defendió que faltaban pruebas, y en 1614 la Inquisición dejó de perseguir la brujería.{3}",
+ "cronologia": [
+  {
+   "fecha": "Finales de 1608",
+   "texto": "María de Ximildegui, una joven de Zugarramurdi, vuelve de Francia y acusa a vecinos de asistir a aquelarres. Más de cincuenta personas confiesan, según un estudio.{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "12 de enero y 9 de febrero de 1609",
+   "texto": "Llega a Logroño el escrito del comisario y se ordena detener a cuatro mujeres. Graciana de Yriart y sus dos hijas se presentan para declarar su inocencia y quedan encarceladas.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Marzo de 1609",
+   "texto": "La Suprema Inquisición ordena comprobar lo declarado. Según un estudio, envía un cuestionario de catorce preguntas.{1}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Agosto a diciembre de 1609",
+   "texto": "El inquisidor Valle recorre la zona. Registra unos 280 testimonios contra supuestos brujos, muchos de niños, y detiene a 34 personas.{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "7 y 8 de noviembre de 1610",
+   "texto": "Auto de fe en Logroño. Hubo relajados a la justicia civil, quemados vivos y en efigie, y reconciliados. Las cifras exactas varían según la fuente.{1}{2}{3}",
+   "certeza": "discutido"
+  },
+  {
+   "fecha": "1611",
+   "texto": "Se imprime en Logroño la relación de Juan de Mongastón sobre el auto. Un estudio sostiene que no se puede tomar como documento fiel. Pedro de Valencia critica estos relatos en su «Discurso acerca de los cuentos de las brujas».{2}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1611",
+   "texto": "Salazar y Frías hace una visita de ocho meses. Recoge más de mil quinientas confesiones, en su mayoría de niños, y despacha 1.802 causas en la segunda parte.{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Agosto de 1614",
+   "texto": "El Consejo de la Inquisición ordena el «edicto de silencio». La Inquisición deja de perseguir la brujería y cede la competencia a la justicia civil.{3}",
+   "certeza": "documentado"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "11 relajados (6 quemados vivos y 5 en efigie) y 18 reconciliados",
+   "quien": "Relación impresa de Mongastón, 1611{2}",
+   "estado": "discutido, una de varias cifras"
+  },
+  {
+   "version": "6 quemados (5 de Zugarramurdi y 1 de Urdax), 5 presos muertos cuyos huesos se quemaron y unas 20 reconciliadas",
+   "quien": "Dueso, citado en un estudio sobre el panfleto{2}",
+   "estado": "discutido"
+  },
+  {
+   "version": "53 condenados (48 en persona y 5 en efigie), 31 por brujería, y 13 relajados y quemados",
+   "quien": "Navajas Twose y Sáinz Varela, a partir de una relación inquisitorial{3}",
+   "estado": "discutido"
+  },
+  {
+   "version": "Las acusaciones reflejaban una conspiración real de brujos",
+   "quien": "Los inquisidores Valle y Becerra, teólogos{3}",
+   "estado": "rechazado por Salazar por falta de pruebas"
+  },
+  {
+   "version": "Las confesiones salían de relatos populares y de la presión de los inquisidores",
+   "quien": "Caro Baroja y Henningsen, citados en un estudio{3}",
+   "estado": "interpretación de historiadores"
+  }
+ ],
+ "contexto": [
+  "En el Labort francés, junto a la frontera, había una persecución paralela. Según un estudio, Pierre de Lancre condenó allí a más de ochenta personas hasta que las quejas de los marineros la frenaron en noviembre de 1609.{3}",
+  "Salazar era licenciado en derecho canónico. Valle y Becerra eran teólogos. Salazar defendió que las acusaciones debían probarse conforme a derecho y denunció la manipulación de testimonios.{3}",
+  "Los textos que conservamos pasaron por varios intermediarios. Se tradujeron del vasco, y un estudio señala errores de traducción que pudieron alterar las confesiones.{2}"
+ ],
+ "sabemos": [
+  "A finales de 1608, María de Ximildegui volvió de Francia a Zugarramurdi y acusó a vecinos de participar en aquelarres.{1}{3}",
+  "En 1609 la Inquisición de Logroño encarceló a acusados. El inquisidor Valle recogió cientos de testimonios en la zona, muchos de niños.{1}{3}",
+  "El 7 y 8 de noviembre de 1610 se celebró el auto de fe en Logroño, con condenados a la hoguera y reconciliados.{1}{2}{3}",
+  "Salazar y Frías sostuvo que hacían falta pruebas y que se había manipulado a los testigos.{3}",
+  "En agosto de 1614 el Consejo ordenó el «edicto de silencio» y la Inquisición dejó de perseguir la brujería.{3}"
+ ],
+ "ensenanza": [
+  "Zugarramurdi enseña cómo una acusación puede multiplicarse. Una denuncia llevó a otra, y los interrogatorios añadían lo que se esperaba oír.{3}",
+  "También muestra que dentro del propio tribunal hubo quien dudó. Salazar pidió pruebas y su postura acabó imponiéndose en el Consejo.{3}",
+  "Y deja una advertencia sobre las fuentes: el relato más difundido del auto es un panfleto de 1611 que un estudio no considera un documento fiel. Conviene preguntar quién lo escribió y para qué.{2}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://es.wikipedia.org/wiki/Brujas_de_Zugarramurdi",
+   "txt": "Brujas de Zugarramurdi",
+   "autor": "Wikipedia",
+   "tipo": "Enciclopedia"
+  },
+  {
+   "id": 2,
+   "url": "https://core.ac.uk/download/83589878.pdf",
+   "txt": "El panfleto de don Juan de Mongastón sobre las brujas de Zugarramurdi: ¿documento histórico o literatura?",
+   "autor": "Eva Lara Alberola, RILCE 33.1 (2017)",
+   "tipo": "Artículo académico"
+  },
+  {
+   "id": 3,
+   "url": "https://revista-hsj-historia.unavarra.es/article/download/3181/3706/8293",
+   "txt": "Una relación inquisitorial sobre la brujería navarra",
+   "autor": "Eloísa Navajas Twose y José Antonio Sáinz Varela, Huarte de San Juan. Geografía e Historia 17 (2010)",
+   "tipo": "Artículo académico"
+  }
+ ],
+ "saberMas": [
+  "Julio Caro Baroja, estudio sobre las brujas, citado en las fuentes.",
+  "Gustav Henningsen, estudio sobre Salazar y las brujas vascas, citado en las fuentes.",
+  "Pedro de Valencia, «Discurso acerca de los cuentos de las brujas» (1611), citado en las fuentes."
+ ],
+ "saberMasNota": "Estas obras aparecen citadas o comentadas en las fuentes consultadas. No las hemos leído directamente.",
+ "discute": [
+  "Lo que contaron las acusadas: vuelos nocturnos a una cueva, el diablo sentado en un trono, transformaciones en animales. Todo sale de las acusaciones y confesiones de los procesos. No hay prueba de que ocurriera.",
+  "Por qué confesaron. Caro Baroja y Henningsen atribuyen la uniformidad de las confesiones a relatos populares y, en parte, a la influencia de los inquisidores en los interrogatorios.{3}",
+  "Las cifras del auto de fe cambian entre el panfleto, Dueso y el estudio de Navajas y Sáinz.{2}{3} La relación impresa habla de «treinta y mil almas» de público, una cifra que Henningsen considera exagerada.{3}",
+  "Quién alertó a la Inquisición. Henningsen cree que fue el abad de Urdax, pero es una hipótesis.{3}",
+  "Un episodio muy repetido: Salazar probando el ungüento de las brujas con un animal y consigo mismo. Las fuentes consultadas para esta página no lo recogen, así que no lo damos por cierto."
+ ],
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
+ "imagenes": [
+  {
+   "despues": "cronologia",
+   "src": "/img/brujas-de-zugarramurdi-recreacion-de-una-multitud-encapuchada-ante-una-torre",
+   "alt": "Multitud de personas encapuchadas ante una torre en una plaza al atardecer",
+   "pie": "Un auto de fe era un acto público con mucha asistencia.",
+   "w": 1000,
+   "h": 1750
+  },
+  {
+   "despues": "versiones",
+   "src": "/img/brujas-de-zugarramurdi-recreacion-de-un-pergamino-con-velas-en-una-mesa",
+   "alt": "Un pergamino y una pluma junto a dos velas sobre una mesa de madera",
+   "pie": "Casi todo lo que sabemos viene de papeles escritos por la Inquisición.",
+   "w": 1000,
+   "h": 1750
+  }
+ ]
+}
