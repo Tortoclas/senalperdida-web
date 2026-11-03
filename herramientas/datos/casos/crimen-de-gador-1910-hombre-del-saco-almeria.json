@@ -1,0 +1,101 @@
+{
+ "slug": "crimen-de-gador-1910-hombre-del-saco-almeria",
+ "titulo": "El crimen de Gádor: el hombre del saco que existió en 1910",
+ "desc": "El crimen de Gádor (Almería, 1910): el niño de siete años, el remedio contra la tuberculosis, Julio «el Tonto» y su relación con el hombre del saco. Hechos y dudas.",
+ "lead": "En junio de 1910, en Gádor (Almería), un niño de siete años desapareció dentro de un saco. Querían su sangre y su grasa para curar la tuberculosis de un vecino. Uno de los implicados fue él mismo a denunciarlo.",
+ "lugar": "Gádor (Almería), 1910-1911",
+ "cat": "Crimen",
+ "corto": "El crimen de Gádor",
+ "ogimg": "/img/crimen-de-gador-imagen-para-compartir.jpg",
+ "publicado": "2026-11-03",
+ "modificado": "2026-11-03",
+ "vtop": {
+  "saltoAntes": false,
+  "texto": "Míralo en vídeo",
+  "botones": [
+   {
+    "href": "https://www.youtube.com/shorts/EmTnuKstxhE",
+    "boton": "Ver en YouTube"
+   }
+  ]
+ },
+ "saltoGal": false,
+ "galClase": "",
+ "figs": [
+  {
+   "src": "/img/crimen-de-gador-ilustracion-de-un-saco-de-arpillera-y-unas-monedas.jpg",
+   "srcset": "/img/crimen-de-gador-ilustracion-de-un-saco-de-arpillera-y-unas-monedas-640.jpg 640w, /img/crimen-de-gador-ilustracion-de-un-saco-de-arpillera-y-unas-monedas.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de un saco de arpillera y unas monedas sobre una mesa",
+   "w": 768,
+   "h": 1344
+  },
+  {
+   "src": "/img/crimen-de-gador-ilustracion-de-un-cauce-seco-del-rio-en-almeria.jpg",
+   "srcset": "/img/crimen-de-gador-ilustracion-de-un-cauce-seco-del-rio-en-almeria-640.jpg 640w, /img/crimen-de-gador-ilustracion-de-un-cauce-seco-del-rio-en-almeria.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de un cauce seco de un río en Almería",
+   "w": 768,
+   "h": 1344
+  },
+  {
+   "src": "/img/crimen-de-gador-ilustracion-de-un-barranco-de-piedras.jpg",
+   "srcset": "/img/crimen-de-gador-ilustracion-de-un-barranco-de-piedras-640.jpg 640w, /img/crimen-de-gador-ilustracion-de-un-barranco-de-piedras.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de un barranco de piedras",
+   "w": 768,
+   "h": 1344
+  }
+ ],
+ "cap": "Recreaciones generadas con IA. No muestran a ninguna de las personas del caso.",
+ "video": {
+  "formato": "short",
+  "etiqueta": "Short en YouTube (español)",
+  "id": "EmTnuKstxhE",
+  "titulo": "El hombre del saco real: sangre de un niño en Gádor, 1910",
+  "subido": "2026-10-25T12:00:00+02:00"
+ },
+ "saltoMas": false,
+ "orden": -1,
+ "portada": "/img/crimen-de-gador-portada-del-caso.jpg",
+ "ordenMapa": 19,
+ "mapa": {
+  "lat": 36.95,
+  "lon": -2.48
+ },
+ "sabemos": [
+  "Bernardo González Parra, de siete años, murió en Gádor a finales de junio de 1910.",
+  "El móvil fue obtener sangre y grasa para curar al Moruno, que tenía tuberculosis.",
+  "Julio Hernández, hijo de la curandera Agustina Rodríguez, ayudó a secuestrar al niño y después acudió a las autoridades.",
+  "Leona murió en prisión antes del juicio.",
+  "Hubo condenas a muerte para el Moruno, Agustina y Julio. A Julio le conmutaron la pena.",
+  "José Hernández, hermano de Julio, fue condenado a 17 años de cárcel, y su mujer, Elena, absuelta."
+ ],
+ "discute": [
+  "El día. Wikipedia da el 28 de junio en la ficha y la noche del 27 en el texto. Vozpópuli y Periergeia dan el 28.",
+  "El pago. Vozpópuli habla de diez duros (50 pesetas) para Julio. Wikipedia dice que Leona cobró 3.000 reales y que el reparto desigual llevó a Julio a denunciar.",
+  "Quién era quién. Que.es dice que Leona era un terrateniente enfermo y que el Moruno hizo de secuestrador. Wikipedia, Vozpópuli y Periergeia dicen que Leona era barbero y curandero, y que el enfermo era el Moruno. Seguimos a las tres últimas.",
+  "Las condenas. Wikipedia dice que Julio fue indultado por demencia. Vozpópuli, que le conmutaron la pena por cadena perpetua. Que.es dice que el Moruno y Julio fueron condenados a garrote y que Leona y la curandera recibieron penas de prisión.",
+  "Las ejecuciones. Wikipedia no confirma cuáles se cumplieron. Vozpópuli dice que ejecutaron a Agustina y al Moruno, sin dar fecha.",
+  "Dónde se encontró el cuerpo. Wikipedia lo sitúa en Las Pocicas y Periergeia en el barranco de El Pilar, a unos cinco kilómetros del pueblo.",
+  "Si el caso originó la leyenda. Tres artículos lo afirman sin citar fuentes primarias. No hemos podido comprobar si la figura del hombre del saco era anterior."
+ ],
+ "fuentes": [
+  {
+   "url": "https://en.wikipedia.org/wiki/Crime_of_G%C3%A1dor",
+   "txt": "Crime of Gádor (Wikipedia (en inglés))"
+  },
+  {
+   "url": "https://www.vozpopuli.com/espana/crimen-gador-hombre-del-saco.html",
+   "txt": "Crimen de Gádor y el hombre del saco (Vozpópuli)"
+  },
+  {
+   "url": "https://periergeia.org/en/spanish-bogeyman-was-real",
+   "txt": "The Spanish bogeyman was real (Periergeia)"
+  },
+  {
+   "url": "https://www.que.es/2025/10/03/crimen-real-hombre-del-saco/",
+   "txt": "El crimen real que heló la sangre de nuestros abuelos y que dio origen a la leyenda del «Hombre del Saco» (Qué.es, 3 de octubre de 2025)"
+  }
+ ]
+}

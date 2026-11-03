@@ -1,0 +1,163 @@
+{
+ "pregunta": "¿Qué pasó en el crimen de Gádor de 1910 y qué tiene que ver con el hombre del saco?",
+ "respuesta": "El 28 de junio de 1910, en Gádor (Almería), secuestraron y mataron a Bernardo González Parra, un niño de siete años. Querían su sangre y su grasa como remedio para la tuberculosis de un vecino, Francisco Ortega, «el Moruno».{1}{2}{3} Uno de los implicados, Julio Hernández, «el Tonto», lo metió en un saco, y después denunció el crimen.{1}{2} Varios artículos sostienen que este caso dio origen a la leyenda del hombre del saco, pero no aportan fuentes primarias.{2}{3}{4}",
+ "cronologia": [
+  {
+   "fecha": "27–28 de junio de 1910",
+   "texto": "Secuestran a Bernardo, de siete años, en Gádor. Wikipedia sitúa la noche del 27 en el texto y el 28 en la ficha. Un primer intento había fracasado por los gritos de otra niña, de Benahadux.{1}{2}",
+   "certeza": "discutido"
+  },
+  {
+   "fecha": "Junio de 1910",
+   "texto": "Le sacan la sangre y la grasa. El Moruno bebe la sangre mezclada con azúcar. El cuerpo aparece oculto bajo piedras en un barranco; las fuentes no coinciden en cuál.{1}{3}",
+   "certeza": "discutido"
+  },
+  {
+   "fecha": "1 de agosto de 1910",
+   "texto": "Julio Hernández intenta ahorcarse, según Wikipedia.{1}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "Febrero de 1911",
+   "texto": "Francisco Leona muere en prisión antes de ser juzgado.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Otoño de 1911",
+   "texto": "Se celebra el juicio con jurado.{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1 de diciembre de 1911",
+   "texto": "La Audiencia dicta sentencia. Después, el Tribunal Supremo ratifica la pena de muerte para el Moruno, Agustina Rodríguez y Julio.{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Tras la sentencia",
+   "texto": "Según Vozpópuli, ejecutan a Agustina y al Moruno, y Alfonso XIII concede a Julio un indulto parcial, que lo deja con cadena perpetua. Wikipedia habla de un indulto por demencia.{1}{2}",
+   "certeza": "discutido"
+  },
+  {
+   "fecha": "11 de agosto de 2023",
+   "texto": "Se estrena en España la película «El hombre del saco», de Ángel Gómez Hernández.{2}",
+   "certeza": "documentado"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "Julio actuó engañado y por encargo de los mayores. Un informe psiquiátrico lo describió con una deficiencia mental y por eso lo indultaron.",
+   "quien": "Wikipedia en inglés{1}",
+   "estado": "versión recogida por Wikipedia; no hemos visto los informes"
+  },
+  {
+   "version": "Julio sabía lo que hacía: aceptó un pago de 10 duros (50 pesetas) por llevarse al niño y denunció el crimen porque no cobró.",
+   "quien": "Vozpópuli, para el pago; Wikipedia, para el reparto desigual del dinero{1}{2}",
+   "estado": "los importes y los motivos varían entre fuentes"
+  },
+  {
+   "version": "El crimen nació de un remedio popular contra la tuberculosis que mezclaba sangre y grasa de un niño.",
+   "quien": "Wikipedia, Vozpópuli y Periergeia{1}{2}{3}",
+   "estado": "las tres fuentes coinciden en el móvil"
+  },
+  {
+   "version": "El crimen dio origen a la leyenda del hombre del saco.",
+   "quien": "Vozpópuli, Periergeia y que.es{2}{3}{4}",
+   "estado": "afirmación sin fuentes primarias"
+  }
+ ],
+ "contexto": [
+  "Gádor es un pueblo de la Alpujarra de Almería con unos 800 habitantes, según Periergeia.{3}",
+  "A Julio lo llamaban «el Tonto». Wikipedia dice que lo indultaron tras un informe psiquiátrico.{1}{2}"
+ ],
+ "sabemos": [
+  "Bernardo González Parra, de siete años, murió en Gádor a finales de junio de 1910.{1}{2}{3}",
+  "El móvil fue obtener sangre y grasa para curar al Moruno, que tenía tuberculosis.{1}{2}{3}",
+  "Julio Hernández, hijo de la curandera Agustina Rodríguez, ayudó a secuestrar al niño y después acudió a las autoridades.{1}{2}",
+  "Leona murió en prisión antes del juicio.{1}{2}",
+  "Hubo condenas a muerte para el Moruno, Agustina y Julio. A Julio le conmutaron la pena.{1}{2}",
+  "José Hernández, hermano de Julio, fue condenado a 17 años de cárcel, y su mujer, Elena, absuelta.{1}"
+ ],
+ "ensenanza": [
+  "Un crimen real puede alimentar una leyenda, pero la leyenda suele ser más vieja y más vaga que el caso. Aquí las fuentes dicen que el caso la originó, y ninguna lo prueba.{2}{3}{4}",
+  "Los nombres, los importes y los lugares cambian de una crónica a otra. Conviene fijarse en lo que coincide en varias fuentes, y no en el detalle más llamativo.{1}{2}{3}",
+  "El caso de Julio plantea una pregunta que sigue abierta: cuánta responsabilidad tiene quien actúa por encargo y con una discapacidad.{1}{2}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://en.wikipedia.org/wiki/Crime_of_G%C3%A1dor",
+   "txt": "Crime of Gádor",
+   "autor": "Wikipedia (en inglés)",
+   "tipo": "Enciclopedia"
+  },
+  {
+   "id": 2,
+   "url": "https://www.vozpopuli.com/espana/crimen-gador-hombre-del-saco.html",
+   "txt": "Crimen de Gádor y el hombre del saco",
+   "autor": "Vozpópuli",
+   "tipo": "Prensa"
+  },
+  {
+   "id": 3,
+   "url": "https://periergeia.org/en/spanish-bogeyman-was-real",
+   "txt": "The Spanish bogeyman was real",
+   "autor": "Periergeia",
+   "tipo": "Divulgación"
+  },
+  {
+   "id": 4,
+   "url": "https://www.que.es/2025/10/03/crimen-real-hombre-del-saco/",
+   "txt": "El crimen real que heló la sangre de nuestros abuelos y que dio origen a la leyenda del «Hombre del Saco»",
+   "autor": "Qué.es, 3 de octubre de 2025",
+   "tipo": "Prensa"
+  }
+ ],
+ "saberMas": [
+  "«El hombre del saco», película de Ángel Gómez Hernández (2023), citada por Vozpópuli."
+ ],
+ "saberMasNota": "Estas obras aparecen citadas o comentadas en las fuentes consultadas. No las hemos leído directamente.",
+ "discute": [
+  "El día. Wikipedia da el 28 de junio en la ficha y la noche del 27 en el texto. Vozpópuli y Periergeia dan el 28.{1}{2}{3}",
+  "El pago. Vozpópuli habla de diez duros (50 pesetas) para Julio. Wikipedia dice que Leona cobró 3.000 reales y que el reparto desigual llevó a Julio a denunciar.{1}{2}",
+  "Quién era quién. Que.es dice que Leona era un terrateniente enfermo y que el Moruno hizo de secuestrador. Wikipedia, Vozpópuli y Periergeia dicen que Leona era barbero y curandero, y que el enfermo era el Moruno. Seguimos a las tres últimas.{1}{2}{3}{4}",
+  "Las condenas. Wikipedia dice que Julio fue indultado por demencia. Vozpópuli, que le conmutaron la pena por cadena perpetua. Que.es dice que el Moruno y Julio fueron condenados a garrote y que Leona y la curandera recibieron penas de prisión.{1}{2}{4}",
+  "Las ejecuciones. Wikipedia no confirma cuáles se cumplieron. Vozpópuli dice que ejecutaron a Agustina y al Moruno, sin dar fecha.{1}{2}",
+  "Dónde se encontró el cuerpo. Wikipedia lo sitúa en Las Pocicas y Periergeia en el barranco de El Pilar, a unos cinco kilómetros del pueblo.{1}{3}",
+  "Si el caso originó la leyenda. Tres artículos lo afirman sin citar fuentes primarias. No hemos podido comprobar si la figura del hombre del saco era anterior.{2}{3}{4}"
+ ],
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
+ "imagenes": [
+  {
+   "despues": "cronologia",
+   "src": "/img/crimen-de-gador-ilustracion-de-vecinos-alrededor-de-un-bulto-cubierto-con-una-tela",
+   "alt": "Vecinos de pie alrededor de un bulto cubierto con una tela blanca sobre el suelo de tierra, en blanco y negro",
+   "pie": "Según Qué.es, la historia se extendió por toda España.",
+   "w": 1000,
+   "h": 1750
+  },
+  {
+   "despues": "versiones",
+   "src": "/img/crimen-de-gador-ilustracion-de-unas-manos-contando-con-los-dedos",
+   "alt": "Dos manos curtidas cuentan con los dedos sobre una mesa, en blanco y negro",
+   "pie": "A Julio lo llamaban «el Tonto de Gádor».",
+   "w": 1000,
+   "h": 1750
+  },
+  {
+   "despues": "sabemos",
+   "src": "/img/crimen-de-gador-ilustracion-de-un-documento-con-sello-de-lacre",
+   "alt": "Un documento antiguo con sello de lacre sobre una mesa, y una mano que lo sujeta",
+   "pie": "La pena de muerte de Julio se conmutó por indulto.",
+   "w": 1000,
+   "h": 1750
+  },
+  {
+   "despues": "ensenanza:0",
+   "src": "/img/crimen-de-gador-ilustracion-de-un-patio-de-carcel-con-un-garrote-vil",
+   "alt": "Un patio de prisión de piedra visto de espaldas, con un garrote en el centro, en blanco y negro",
+   "pie": "Según Vozpópuli, Agustina y el Moruno fueron ejecutados.",
+   "w": 1000,
+   "h": 1750
+  }
+ ]
+}

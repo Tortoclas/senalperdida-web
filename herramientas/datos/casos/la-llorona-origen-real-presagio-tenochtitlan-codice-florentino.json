@@ -1,0 +1,95 @@
+{
+ "slug": "la-llorona-origen-real-presagio-tenochtitlan-codice-florentino",
+ "titulo": "La Llorona: el origen real antes de la leyenda",
+ "desc": "La Llorona antes de la leyenda: el sexto presagio del Códice Florentino, la mujer que lloraba en Tenochtitlan, las hipótesis sobre su origen y cómo cambió la historia.",
+ "lead": "En el relato más antiguo, La Llorona no mata a nadie. Es una mujer que grita de noche por las calles de Tenochtitlan, diez años antes de los españoles. Quiere salvar a sus hijos y no sabe adónde llevarlos.",
+ "lugar": "Tenochtitlan (México), c. 1509 y siglos posteriores",
+ "cat": "Leyendas",
+ "corto": "La Llorona",
+ "ogimg": "/img/la-llorona-imagen-para-compartir.jpg",
+ "publicado": "2026-11-03",
+ "modificado": "2026-11-03",
+ "vtop": {
+  "saltoAntes": false,
+  "texto": "Míralo en vídeo",
+  "botones": [
+   {
+    "href": "https://www.youtube.com/shorts/8eYhDcAOJFk",
+    "boton": "Ver en YouTube"
+   }
+  ]
+ },
+ "saltoGal": false,
+ "galClase": "",
+ "figs": [
+  {
+   "src": "/img/la-llorona-ilustracion-de-una-mujer-de-espaldas-ante-tenochtitlan-de-noche.jpg",
+   "srcset": "/img/la-llorona-ilustracion-de-una-mujer-de-espaldas-ante-tenochtitlan-de-noche-640.jpg 640w, /img/la-llorona-ilustracion-de-una-mujer-de-espaldas-ante-tenochtitlan-de-noche.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de una mujer de espaldas ante Tenochtitlan de noche",
+   "w": 768,
+   "h": 1344
+  },
+  {
+   "src": "/img/la-llorona-ilustracion-del-templo-en-llamas-de-tenochtitlan.jpg",
+   "srcset": "/img/la-llorona-ilustracion-del-templo-en-llamas-de-tenochtitlan-640.jpg 640w, /img/la-llorona-ilustracion-del-templo-en-llamas-de-tenochtitlan.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración del templo en llamas de Tenochtitlan",
+   "w": 768,
+   "h": 1344
+  },
+  {
+   "src": "/img/la-llorona-ilustracion-de-una-sandalia-flotando-en-el-agua.jpg",
+   "srcset": "/img/la-llorona-ilustracion-de-una-sandalia-flotando-en-el-agua-640.jpg 640w, /img/la-llorona-ilustracion-de-una-sandalia-flotando-en-el-agua.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de una sandalia flotando en el agua",
+   "w": 768,
+   "h": 1344
+  }
+ ],
+ "cap": "Recreaciones generadas con IA. No muestran a ninguna persona real ni reproducen el códice original.",
+ "video": {
+  "formato": "short",
+  "etiqueta": "Short en YouTube (español)",
+  "id": "8eYhDcAOJFk",
+  "titulo": "La Llorona original no mataba: el grito que anunció la conquista",
+  "subido": "2026-11-02T12:00:00+01:00"
+ },
+ "saltoMas": false,
+ "orden": -4,
+ "portada": "/img/la-llorona-portada-del-caso.jpg",
+ "ordenMapa": 16,
+ "mapa": {
+  "lat": 19.43,
+  "lon": -99.13
+ },
+ "sabemos": [
+  "El sexto presagio del libro XII del Códice Florentino es una mujer que llora de noche por sus hijos.",
+  "La mujer dice que tienen que irse lejos y pregunta adónde los llevará. No hay violencia contra los niños en el texto.",
+  "Según Winick, el relato es anterior a la figura de La Llorona tal como hoy se conoce.",
+  "La historiadora Veka Duncan interpreta a la mujer como Cihuacóatl. Es una interpretación, no un dato del texto.",
+  "Las versiones en las que la madre mata a sus hijos son posteriores. Una de las más difundidas, la de Luisa, no los ahoga: los mata con un puñal."
+ ],
+ "discute": [
+  "Si es Cihuacóatl. Duncan lo defiende y Sahagún relaciona el llanto con esa diosa. El texto del presagio, en cambio, no la nombra.",
+  "La fecha exacta del presagio. Winick da 1509 y el texto de los informantes dice «diez años antes de venir los españoles».",
+  "El número del presagio. Algunas páginas de divulgación lo cuentan como quinto. En el texto que hemos consultado es el sexto.",
+  "Cuándo y cómo cambió la leyenda. Las fuentes no fechan el paso de la mujer que avisa a la madre que mata a sus hijos.",
+  "Si el origen es indígena o español. Paredes la veía básicamente europea, Perez sostiene que su base es indígena y Janvier (1910) la llamó «totalmente mexicana». Winick cree que conviven ambos elementos.",
+  "Qué versión se usa hoy. La más conocida dice que ahoga a los niños. Entre las versiones escritas que cita Winick, la de Luisa los mata con un puñal."
+ ],
+ "fuentes": [
+  {
+   "url": "https://blogs.loc.gov/folklife/2021/10/la-llorona-roots-branches-and-the-missing-link-from-spain/",
+   "txt": "La Llorona: roots, branches, and the missing link from Spain (Stephen Winick, Library of Congress, octubre de 2021)"
+  },
+  {
+   "url": "https://www.chilango.com/noticias/leyenda-de-la-llorona-origen-cdmx/",
+   "txt": "La verdadera leyenda de La Llorona, su origen prehispánico y su relación con la CDMX (Chilango, 1 de noviembre de 2023)"
+  },
+  {
+   "url": "https://www.biblioteca-antologica.org/es/wp-content/uploads/2018/03/AN%C3%93NIMO-Visi%C3%B3n-de-los-vencidos.pdf",
+   "txt": "Visión de los vencidos (presagios de la conquista, informantes de Sahagún) (Miguel León-Portilla (recopilación))"
+  }
+ ]
+}

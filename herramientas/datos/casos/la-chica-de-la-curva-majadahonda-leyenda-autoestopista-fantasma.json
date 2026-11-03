@@ -1,0 +1,104 @@
+{
+ "slug": "la-chica-de-la-curva-majadahonda-leyenda-autoestopista-fantasma",
+ "titulo": "La chica de la curva de Majadahonda: la leyenda que nadie ha podido comprobar",
+ "desc": "La chica de la curva de Majadahonda: el reportaje de «Más Allá» de 1976, la autoestopista que desaparece y la leyenda mundial detrás. Hechos y dudas.",
+ "lead": "Una autoestopista pide que la lleven a Madrid, avisa de una curva peligrosa y desaparece del coche. En 1976, el programa «Más Allá» fue a buscarla a Majadahonda. Nadie la había visto, pero casi todos conocían a alguien que sí.",
+ "lugar": "Majadahonda y Pozuelo (Madrid), años 70",
+ "cat": "Leyendas",
+ "corto": "La chica de la curva",
+ "ogimg": "/img/chica-de-la-curva-imagen-para-compartir.jpg",
+ "publicado": "2026-11-03",
+ "modificado": "2026-11-03",
+ "vtop": {
+  "saltoAntes": false,
+  "texto": "Míralo en vídeo",
+  "botones": [
+   {
+    "href": "https://www.youtube.com/shorts/9pjnUl6MdAw",
+    "boton": "Ver en YouTube"
+   }
+  ]
+ },
+ "saltoGal": false,
+ "galClase": "",
+ "figs": [
+  {
+   "src": "/img/chica-de-la-curva-ilustracion-de-una-curva-con-niebla-y-pinos.jpg",
+   "srcset": "/img/chica-de-la-curva-ilustracion-de-una-curva-con-niebla-y-pinos-640.jpg 640w, /img/chica-de-la-curva-ilustracion-de-una-curva-con-niebla-y-pinos.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de una curva con niebla y pinos",
+   "w": 768,
+   "h": 1344
+  },
+  {
+   "src": "/img/chica-de-la-curva-ilustracion-de-una-joven-de-espaldas-junto-a-la-carretera.jpg",
+   "srcset": "/img/chica-de-la-curva-ilustracion-de-una-joven-de-espaldas-junto-a-la-carretera-640.jpg 640w, /img/chica-de-la-curva-ilustracion-de-una-joven-de-espaldas-junto-a-la-carretera.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de una joven de espaldas junto a la carretera",
+   "w": 768,
+   "h": 1344
+  },
+  {
+   "src": "/img/chica-de-la-curva-ilustracion-de-una-senal-de-curva-peligrosa-en-la-niebla.jpg",
+   "srcset": "/img/chica-de-la-curva-ilustracion-de-una-senal-de-curva-peligrosa-en-la-niebla-640.jpg 640w, /img/chica-de-la-curva-ilustracion-de-una-senal-de-curva-peligrosa-en-la-niebla.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de una señal de curva peligrosa en la niebla",
+   "w": 768,
+   "h": 1344
+  }
+ ],
+ "cap": "Recreaciones generadas con IA. No muestran a ninguna persona real.",
+ "video": {
+  "formato": "short",
+  "etiqueta": "Short en YouTube (español)",
+  "id": "9pjnUl6MdAw",
+  "titulo": "La chica de la curva: el caso de 1976 que nadie pudo comprobar",
+  "subido": "2026-10-29T12:00:00+02:00"
+ },
+ "saltoMas": false,
+ "orden": -2,
+ "portada": "/img/chica-de-la-curva-portada-del-caso.jpg",
+ "ordenMapa": 18,
+ "mapa": {
+  "lat": 40.47,
+  "lon": -3.87
+ },
+ "sabemos": [
+  "El reportaje de «Más Allá» sobre Majadahonda es de 1976.",
+  "El relato que recogió dice que un conductor y su acompañante pararon a las 8 de la mañana cerca de un supermercado de Majadahonda para recoger a una autoestopista. Les pidió ir a Madrid, avisó de una curva y desapareció.",
+  "El reportero dice que entrevistó a decenas de personas en Pozuelo y Majadahonda. Ninguna había vivido el suceso, pero muchas conocían a alguien que sí.",
+  "Las fuentes consultadas no aportan la foto policial, el nombre de la joven ni un accidente concreto que lo confirme.",
+  "El relato encaja con un tipo de leyenda que se documenta en muchos países desde hace más de un siglo."
+ ],
+ "discute": [
+  "Desde cuándo existe. La historia local no tiene fecha. Lo que sí está documentado es el tipo de relato: Brunvand lo rastrea hasta la década de 1870, y un manuscrito sueco de 1602 cuenta algo parecido, aunque no con un autoestopista.",
+  "Quién la recogió. Se repite que fue una pareja. La fuente del reportaje habla de un conductor y su acompañante, y otra versión de un anciano solo.",
+  "Si hay un caso real detrás. No hemos encontrado ninguno, pero tampoco hemos revisado hemerotecas locales. No haberlo encontrado no prueba que no exista.",
+  "Accidentes en la zona. El blog local dice que en 1977 murió una pareja de novios en esa curva y que hubo otra muerte en enero de 1977 en la carretera de Majadahonda a Boadilla. No cita la fuente.",
+  "Dónde estaba la curva. Una foto de 1991 muestra una curva que, según el autor del blog, no existía en 1975. Un comentario la sitúa en la M-515, no en la M-503.",
+  "Otras versiones con nombre, como Resurrection Mary en Chicago o la Rubia de Kennedy en Chile, se citan en vídeos y artículos. No las hemos contrastado con una fuente.",
+  "El aspecto de la joven. Unas versiones la describen rubia con vestido blanco y otras morena de negro."
+ ],
+ "fuentes": [
+  {
+   "url": "https://majadahondamagazin.es/jimenez-del-oso-rtve-situa-el-origen-de-la-leyenda-de-la-chica-de-la-curva-de-majadahonda-en-los-anos-70/",
+   "txt": "Jiménez del Oso (RTVE) sitúa el origen de la leyenda de «la chica de la curva» de Majadahonda en los años 70 (Majadahonda Magazin)"
+  },
+  {
+   "url": "https://pqmajadahonda.wordpress.com/2015/06/19/eloisa-y-su-leyenda/",
+   "txt": "Eloísa y su leyenda (Por qué Majadahonda (blog), 19 de junio de 2015)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Vanishing_hitchhiker",
+   "txt": "Vanishing hitchhiker (Wikipedia (en inglés))"
+  },
+  {
+   "url": "https://www.extra.ec/noticia/buena-vida/historias-ultratumba-chica-curva-45623.html",
+   "txt": "Historias de ultratumba: la chica de la curva (Extra (Ecuador))"
+  },
+  {
+   "url": "https://theobjective.com/lifestyle/viajes/2025-10-22/pueblo-entre-colinas-donde-nacio-leyenda-nina-curva/",
+   "txt": "El pueblo entre colinas donde nació la leyenda de la niña de la curva (Sara Duque, The Objective, 22 de octubre de 2025)"
+  }
+ ]
+}
