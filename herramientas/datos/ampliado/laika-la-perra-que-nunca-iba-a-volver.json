@@ -126,12 +126,13 @@
   "La hora exacta de la muerte. Las fuentes hablan de entre cinco y siete horas tras el despegue, o de la cuarta órbita; ninguna da un minuto concreto.{2}{3}{4}",
   "La hora del lanzamiento. Wikipedia recoge dos horas distintas según la fuente, así que no la damos.{2}"
  ],
- "imagenes": [
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
+  "imagenes": [
   {
    "despues": "cronologia",
    "src": "/img/laika-recreacion-de-un-tecnico-preparando-a-laika-en-un-laboratorio",
    "alt": "Imagen en blanco y negro de un técnico con bata blanca sujetando a un perro sobre una mesa de laboratorio, rodeado de aparatos de medida",
-   "pie": "Recreación generada con IA: la preparación de Laika antes del vuelo. No es una fotografía de la época.",
+   "pie": "La preparación de Laika antes del vuelo.",
    "w": 1000,
    "h": 1792
   },
@@ -139,7 +140,7 @@
    "despues": "contexto:1",
    "src": "/img/laika-recreacion-del-interior-de-la-capsula-con-arnes-y-cables",
    "alt": "Interior metálico de una cápsula espacial con un arnés de cuero colgando, cables y paneles con luces rojas",
-   "pie": "Recreación generada con IA del interior de la cápsula: el arnés y los cables de los sensores. No es una fotografía del Sputnik 2.",
+   "pie": "El interior de la cápsula: el arnés y los cables de los sensores.",
    "w": 1000,
    "h": 1792
   },
@@ -147,7 +148,7 @@
    "despues": "sabemos",
    "src": "/img/laika-recreacion-de-laika-dentro-de-la-capsula-del-sputnik-2",
    "alt": "Primer plano de un perro con arnés y cables dentro de una cabina metálica con luces rojas y verdes",
-   "pie": "Recreación generada con IA de Laika dentro de la cabina. No existe una fotografía real de ese momento.",
+   "pie": "Laika dentro de la cabina.",
    "w": 1000,
    "h": 1792
   },
@@ -155,7 +156,7 @@
    "despues": "ensenanza:2",
    "src": "/img/laika-recreacion-de-un-cientifico-pensativo-en-una-sala-de-trabajo",
    "alt": "Imagen en blanco y negro de un hombre mayor sentado ante una mesa en una sala con archivadores, con una mano en la frente",
-   "pie": "Recreación generada con IA, ilustrativa: un científico a solas con su trabajo. No es un retrato de Oleg Gazenko ni de ninguna persona real.",
+   "pie": "Un científico a solas con su trabajo. No es un retrato de Oleg Gazenko.",
    "w": 1000,
    "h": 1792
   },
@@ -163,7 +164,7 @@
    "despues": "ensenanza:3",
    "src": "/img/laika-recreacion-de-una-portada-de-prensa-sovietica-sobre-laika",
    "alt": "Periódico antiguo con titular en cirílico y la foto de un perro en una mesa de madera",
-   "pie": "Recreación generada con IA de una portada de prensa soviética. El titular es inventado y no reproduce ninguna edición real.",
+   "pie": "Portada de prensa soviética imaginada. El titular es inventado.",
    "w": 1000,
    "h": 1792
   }

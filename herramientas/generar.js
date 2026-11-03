@@ -75,7 +75,7 @@ ${A ? ampPrevio(A, c) : ''}<h2>Lo que sabemos</h2><ol class="tl">${(A && A.sabem
 <h2>Lo que se discute</h2><div class="box"><ul>${(A && A.discute || d.discute).map(x => `<li>${c(x)}</li>`).join('')}</ul></div>
 ${A ? ampLeccion(A, c) : ''}${vid}<div class="cta"><p><strong>¿Te ha dejado con ganas de más?</strong></p><p>Cada semana, una historia oscura en vídeo.</p>
 <div class="btns"><a class="btn" href="https://www.tiktok.com/@senalperdida_oficial" rel="noopener">TikTok</a><a class="btn" href="https://www.youtube.com/@Se%C3%B1alPerdidasecretos" rel="noopener">YouTube</a></div></div>
-${A ? ampFuentes(d, A) : `<h2>Fuentes</h2><ul class="src">${d.fuentes.map(x => `<li><a href="${ea(x.url)}" rel="noopener nofollow" target="_blank">${ea(x.txt)}</a></li>`).join('')}</ul>`}
+${A ? ampFuentes(d, A) + (A.notaImagenes ? `<p class="metodo">${ea(A.notaImagenes)}</p>` : '') : `<h2>Fuentes</h2><ul class="src">${d.fuentes.map(x => `<li><a href="${ea(x.url)}" rel="noopener nofollow" target="_blank">${ea(x.txt)}</a></li>`).join('')}</ul>`}
 ${share}<h2>Más casos</h2>${todos ? masCasos(d, todos) : d.masRaw}`;
   return head + cuerpo + PIE;
 }
