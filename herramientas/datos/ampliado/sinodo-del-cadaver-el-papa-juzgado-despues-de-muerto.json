@@ -1,0 +1,164 @@
+{
+ "pregunta": "¿Qué pasó de verdad en el sínodo del cadáver y qué es leyenda?",
+ "respuesta": "En enero de 897 el papa Esteban VI hizo exhumar el cadáver de su antecesor Formosus, lo sentó en un trono con ornamentos papales y lo juzgó. Un diácono habló en su nombre.{1}{2}{3} Lo declararon culpable, le cortaron tres dedos y arrojaron el cuerpo al Tíber.{1}{2}{3} Meses después Esteban VI murió estrangulado en prisión.{2}{3} El terremoto durante el juicio es un añadido de comentaristas posteriores.{2}",
+ "cronologia": [
+  {
+   "fecha": "22 de febrero de 896",
+   "texto": "Formosus corona emperador a Arnulfo de Carintia.{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "4 de abril de 896",
+   "texto": "Muere Formosus en Roma.{1}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Mediados de 896",
+   "texto": "Tras el breve pontificado de Bonifacio VI, de unos quince días, llega al papado Esteban VI, crítico de Formosus.{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Enero de 897",
+   "texto": "Sínodo del cadáver. Se exhuma el cuerpo, con unos nueve meses de enterrado, y se sienta en un trono con ornamentos papales. Un diácono habla por él. La fecha de enero es la tradicional y se ha cuestionado en estudios recientes.{1}{2}{3}",
+   "certeza": "discutido"
+  },
+  {
+   "fecha": "Durante el sínodo",
+   "texto": "Las acusaciones incluyen violar el derecho canónico, perjurio, ejercer ilegalmente como obispo, apoyar a Arnulfo y ambicionar el papado.{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Veredicto",
+   "texto": "Formosus es declarado culpable y sus actos, anulados. Le quitan las vestiduras y le cortan tres dedos de la mano derecha. Arrojan el cuerpo al Tíber.{1}{2}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Después del juicio",
+   "texto": "Se recupera el cuerpo del río. Una fuente dice que lo sacó un pescador, otra que unos monjes lo enterraron en secreto.{2}{3}",
+   "certeza": "discutido"
+  },
+  {
+   "fecha": "Finales de 897",
+   "texto": "Lambert vuelve a Roma. Esteban VI es depuesto, encarcelado y estrangulado. Su pontificado dura poco más de un año.{2}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "897–898",
+   "texto": "Teodoro II, que reina unos veinte días, reintegra las ordenaciones de Formosus y lo vuelve a enterrar en San Pedro. Un sínodo de 898 anula el sínodo del cadáver.{1}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Después",
+   "texto": "Juan IX condena el sínodo de Esteban VI y quema sus actas. Las fuentes consultadas no dan la fecha.{1}",
+   "certeza": "atribuido"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "Fue una venganza de Lambert de Spoleto y de su madre Ageltruda",
+   "quien": "Versión tradicional{3}",
+   "estado": "discutido, ninguna fuente fiable vincula a Lambert con el juicio"
+  },
+  {
+   "version": "Esteban VI quiso mostrar lealtad a los rivales de Arnulfo y borrar la fama de santidad de Formosus",
+   "quien": "William S. Monroe, citado por Medievalists.net{3}",
+   "estado": "hipótesis"
+  },
+  {
+   "version": "Esteban VI trató a Formosus como si siguiera vivo para negarle la presencia que dan las reliquias de un santo",
+   "quien": "Amelia Soth, en JSTOR Daily{2}",
+   "estado": "interpretación"
+  },
+  {
+   "version": "Hubo un terremoto durante el juicio",
+   "quien": "Comentaristas posteriores{2}",
+   "estado": "añadido tardío"
+  },
+  {
+   "version": "Se metieron imágenes de santos en el ataúd de Formosus",
+   "quien": "Liudprando de Cremona, que dice haberlo oído a clérigos romanos{2}",
+   "estado": "relato de oídas"
+  }
+ ],
+ "contexto": [
+  "Tras la muerte de Carlos el Gordo en 888, el Imperio carolingio se fragmentó. Formosus se apoyó en Arnulfo frente a la influencia de Guido de Spoleto en Roma.{3}",
+  "En la Edad Media las reliquias de un santo hacían presente a ese santo. Por eso, según JSTOR Daily, tratar el cuerpo de Formosus importaba tanto como juzgarlo.{2}",
+  "Arnulfo sufrió un ictus y se retiró al norte de los Alpes, dejando a Esteban VI expuesto a la facción de Spoleto.{3}"
+ ],
+ "sabemos": [
+  "Formosus murió el 4 de abril de 896.{1}{3}",
+  "Esteban VI hizo juzgar su cadáver, tradicionalmente en enero de 897, con un diácono como defensor.{1}{2}{3}",
+  "El tribunal lo declaró culpable, lo despojó de sus vestiduras, le cortó tres dedos y arrojó el cuerpo al Tíber.{1}{2}{3}",
+  "Esteban VI fue depuesto, encarcelado y estrangulado en 897.{1}{2}{3}",
+  "El cuerpo se recuperó y Formosus fue rehabilitado, con el sínodo anulado.{1}{2}{3}"
+ ],
+ "ensenanza": [
+  "El sínodo del cadáver enseña cómo el poder puede usar un juicio para castigar a alguien que ya no puede defenderse. Un diácono habló por él, pero no tenía forma de ganar.{1}{2}{3}",
+  "También enseña que la justicia de los vencedores dura poco. Esteban VI cayó en meses, y el sínodo se anuló menos de dos años después.{2}{3}",
+  "Y deja una advertencia sobre las fuentes: el terremoto y los santos del ataúd vienen de relatos posteriores o de oídas. Conviene separar lo que cuentan los cronistas de lo que se sabe.{2}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://www.britannica.com/biography/Formosus",
+   "txt": "Formosus",
+   "autor": "Encyclopaedia Britannica",
+   "tipo": "Enciclopedia"
+  },
+  {
+   "id": 2,
+   "url": "https://daily.jstor.org/the-cadaver-synod-putting-a-dead-pope-on-trial/",
+   "txt": "The Cadaver Synod: Putting a Dead Pope on Trial",
+   "autor": "Amelia Soth, JSTOR Daily, 7 de febrero de 2019",
+   "tipo": "Divulgación académica"
+  },
+  {
+   "id": 3,
+   "url": "https://www.medievalists.net/2017/07/cadaver-synod-low-point-history-papacy",
+   "txt": "The Cadaver Synod: a low point in the history of the papacy",
+   "autor": "Medievalists.net",
+   "tipo": "Divulgación histórica"
+  }
+ ],
+ "saberMas": [
+  "Liudprando de Cremona, cronista de la época, citado por JSTOR Daily.",
+  "William S. Monroe, estudio sobre el sínodo del cadáver, citado por Medievalists.net."
+ ],
+ "saberMasNota": "Estas obras aparecen citadas o comentadas en las fuentes consultadas. No las hemos leído directamente.",
+ "discute": [
+  "La fecha del sínodo. Enero de 897 es la tradicional, pero estudios recientes la han cuestionado.{3}",
+  "El motivo. La versión tradicional apunta a Lambert y Ageltruda. Monroe la discute y no encuentra fuente fiable que los una al juicio.{3}",
+  "Si hubo un terremoto durante el juicio. Lo cuentan comentaristas posteriores. No lo damos por cierto.{2}",
+  "Quién recuperó el cuerpo del Tíber. JSTOR Daily habla de un pescador y Medievalists.net, de monjes que lo enterraron en secreto.{2}{3}",
+  "Qué papa anuló el sínodo. Britannica atribuye la rehabilitación a Teodoro II. Medievalists.net habla de un sínodo de 898 sin nombrar a Teodoro II.{1}{3}",
+  "El papel de Sergio III. Las fuentes consultadas para esta página no lo recogen, así que no lo damos.",
+  "Los dedos cortados. Los recogen varias fuentes, pero JSTOR Daily no cita de dónde sale ese detalle.{2}"
+ ],
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
+ "imagenes": [
+  {
+   "despues": "cronologia",
+   "src": "/img/papa-formoso-recreacion-del-sinodo-del-cadaver",
+   "alt": "Un cadáver con ornamentos papales sentado en un trono entre antorchas",
+   "pie": "Según los cronistas, el cuerpo de Formosus fue sentado en un trono con ornamentos papales.",
+   "w": 1000,
+   "h": 1792
+  },
+  {
+   "despues": "versiones",
+   "src": "/img/papa-formoso-recreacion-del-acusador",
+   "alt": "Un clérigo anciano con birrete negro mira de frente, serio",
+   "pie": "Un diácono habló en nombre del muerto. Las fuentes no dan su nombre.",
+   "w": 1000,
+   "h": 1792
+  },
+  {
+   "despues": "ensenanza:1",
+   "src": "/img/papa-formoso-recreacion-del-rio-tiber",
+   "alt": "Un puente de piedra de noche con antorchas y niebla sobre el agua",
+   "pie": "El cuerpo acabó en el Tíber, según las fuentes. Después lo recuperaron.",
+   "w": 1000,
+   "h": 1792
+  }
+ ]
+}
