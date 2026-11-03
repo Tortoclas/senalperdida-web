@@ -14,6 +14,10 @@
   "texto": "Míralo en vídeo",
   "botones": [
    {
+    "href": "https://www.tiktok.com/@senalperdida_oficial/video/7702915526460312854",
+    "boton": "Ver en TikTok"
+   },
+   {
     "href": "https://www.youtube.com/shorts/8eYhDcAOJFk",
     "boton": "Ver en YouTube"
    }
