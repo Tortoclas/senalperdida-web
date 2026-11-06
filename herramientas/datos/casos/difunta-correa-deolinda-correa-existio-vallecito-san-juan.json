@@ -1,0 +1,80 @@
+{
+ "slug": "difunta-correa-deolinda-correa-existio-vallecito-san-juan",
+ "titulo": "La Difunta Correa: lo que se sabe de Deolinda antes del santuario",
+ "desc": "La Difunta Correa antes del santuario: qué se sabe de Deolinda Correa, las versiones de su muerte en el desierto y la búsqueda de pruebas de que existió.",
+ "lead": "Según la tradición, Deolinda Correa murió de sed en el desierto de San Juan, en Argentina, y su bebé sobrevivió mamando de su cuerpo. Hoy sus devotos le dejan botellas de agua al borde de los caminos. Pero ningún documento ha probado todavía que existiera.",
+ "lugar": "Vallecito, Caucete (San Juan, Argentina), década de 1840 y hoy",
+ "cat": "Leyendas",
+ "corto": "La Difunta Correa",
+ "mapa": {
+  "lat": -31.74,
+  "lon": -67.98
+ },
+ "fuentes": [
+  {
+   "url": "https://www.tiempodesanjuan.com/san-juan/el-misterio-la-difunta-correa-la-iglesia-busca-documentos-que-prueben-su-paso-la-historia-y-ya-hay-pistas-n430742",
+   "txt": "El misterio de la Difunta Correa: la Iglesia busca documentos que prueben su paso por la historia y ya hay pistas (Tiempo de San Juan, 20 de mayo de 2026)"
+  },
+  {
+   "url": "https://www.infobae.com/sociedad/2026/05/21/un-estudio-historico-intentara-averiguar-si-realmente-existio-una-de-las-santas-populares-con-mas-fieles-del-pais/",
+   "txt": "Un estudio histórico intentará averiguar si realmente existió una de las santas populares con más fieles del país (Infobae, 21 de mayo de 2026)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Difunta_Correa",
+   "txt": "Difunta Correa (Wikipedia en inglés)"
+  }
+ ],
+ "ogimg": "/img/la-difunta-correa-imagen-para-compartir.jpg",
+ "publicado": "2026-11-06",
+ "modificado": "2026-11-06",
+ "orden": -5,
+ "ordenMapa": 20,
+ "portada": "/img/la-difunta-correa-portada-del-caso.jpg",
+ "figs": [
+  {
+   "src": "/img/la-difunta-correa-ilustracion-una-mujer-joven-de-espaldas-en-la-puerta-de-una-casa-de-adob.jpg",
+   "srcset": "/img/la-difunta-correa-ilustracion-una-mujer-joven-de-espaldas-en-la-puerta-de-una-casa-de-adob-640.jpg 640w, /img/la-difunta-correa-ilustracion-una-mujer-joven-de-espaldas-en-la-puerta-de-una-casa-de-adob.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de una mujer joven de espaldas en la puerta de una casa de adobe en un pueblo seco",
+   "w": 1000,
+   "h": 1792
+  },
+  {
+   "src": "/img/la-difunta-correa-ilustracion-una-calabaza-para-agua-vacia-sobre-la-tierra-agrietada-con-u.jpg",
+   "srcset": "/img/la-difunta-correa-ilustracion-una-calabaza-para-agua-vacia-sobre-la-tierra-agrietada-con-u-640.jpg 640w, /img/la-difunta-correa-ilustracion-una-calabaza-para-agua-vacia-sobre-la-tierra-agrietada-con-u.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de una calabaza para agua vacía sobre la tierra agrietada, con una figura lejana en el desierto",
+   "w": 1000,
+   "h": 1792
+  },
+  {
+   "src": "/img/la-difunta-correa-ilustracion-tres-arrieros-con-ponchos-y-mulas-cargadas-subiendo-por-un-s.jpg",
+   "srcset": "/img/la-difunta-correa-ilustracion-tres-arrieros-con-ponchos-y-mulas-cargadas-subiendo-por-un-s-640.jpg 640w, /img/la-difunta-correa-ilustracion-tres-arrieros-con-ponchos-y-mulas-cargadas-subiendo-por-un-s.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de tres arrieros con ponchos y mulas cargadas subiendo por un sendero pedregoso",
+   "w": 1000,
+   "h": 1792
+  }
+ ],
+ "cap": "Recreaciones generadas con IA. No muestran a ninguna persona real.",
+ "saltoGal": false,
+ "galClase": "",
+ "saltoMas": false,
+ "vtop": {
+  "saltoAntes": false,
+  "texto": "Míralo en vídeo",
+  "botones": [
+   {
+    "href": "https://www.youtube.com/shorts/HWtVGE9bYjo",
+    "boton": "Ver en YouTube"
+   }
+  ]
+ },
+ "video": {
+  "formato": "short",
+  "etiqueta": "Short en YouTube (español)",
+  "id": "HWtVGE9bYjo",
+  "titulo": "Difunta Correa: el bebé vivo y la mujer que nadie puede probar",
+  "subido": "2026-11-06T12:00:00+01:00"
+ }
+}
