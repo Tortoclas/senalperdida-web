@@ -51,7 +51,7 @@ function pagina(d, todos) {
 <html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>${ea(tit)}</title><meta name="description" content="${ea(d.desc)}">
 <link rel="canonical" href="${url}"><meta name="theme-color" content="#0b0a09"><meta name="msvalidate.01" content="BB1B9C266BFA8BF7F61E3652DF26095C">
-<link rel="icon" href="/favicon.png" type="image/png"><link rel="stylesheet" href="/estilo.css?v=bus24a3">${A ? '<link rel="stylesheet" href="/ampliado.css?v=1">' : ''}
+<link rel="icon" href="/favicon.png" type="image/png"><link rel="stylesheet" href="/estilo.css?v=bus24a3">${A ? '<link rel="stylesheet" href="/ampliado.css?v=2">' : ''}
 <meta property="og:site_name" content="Señal Perdida"><meta property="og:type" content="article"><meta property="og:locale" content="es_ES">
 <meta property="og:title" content="${ea(tit)}"><meta property="og:description" content="${ea(d.desc)}"><meta property="og:url" content="${url}">
 <meta property="og:image" content="${og}"><meta name="robots" content="index,follow,max-image-preview:large"><meta name="twitter:card" content="summary_large_image">

@@ -1,0 +1,12 @@
+/* Solo lo cargan las páginas de caso ampliadas */
+.resp{background:var(--card);border:1px solid var(--line);border-left:3px solid var(--gold);padding:14px 20px;margin:0 0 1.4em}.resp h2{margin:0 0 .4em;font-size:18px}.resp p{margin:0}
+sup.n{font:700 11px/1 Arial,sans-serif;margin-left:1px}sup.n a{text-decoration:none}
+.cz{display:inline-block;font:700 10.5px/1 Arial,sans-serif;letter-spacing:.12em;text-transform:uppercase;padding:3px 6px;border:1px solid var(--line);margin-right:8px;color:var(--mute);white-space:nowrap}
+.cz.documentado{border-color:#4f7d5a;color:#8fc29b}.cz.atribuido{border-color:#8a7a3a;color:#d4b95e}.cz.discutido{border-color:#9a5a3a;color:#e09a6e}.cz.aceptado{border-color:#4f7d5a;color:#8fc29b}.cz.desmentido{border-color:#7a3a45;color:#d98a96}
+ol.tl.cr li b{display:block;font:700 13px/1.4 Arial,sans-serif;letter-spacing:.06em;color:var(--gold);text-transform:uppercase;margin-bottom:2px}
+table.ver{width:100%;border-collapse:collapse;font:15.5px/1.5 Arial,sans-serif;margin:0 0 1em}table.ver th,table.ver td{text-align:left;vertical-align:top;border-bottom:1px solid var(--line);padding:10px 8px}table.ver th{color:var(--mute);font-size:12px;letter-spacing:.1em;text-transform:uppercase}
+@media(max-width:560px){table.ver thead{display:none}table.ver tr{display:block;border-bottom:1px solid var(--line);padding:8px 0}table.ver td{display:block;border:0;padding:3px 0}}
+ol.src.nf{padding-left:22px}ol.src.nf li{margin:.55em 0}.src .tp{display:block;font:13px/1.4 Arial,sans-serif;color:var(--mute)}
+.citar{background:var(--card);border:1px solid var(--line);padding:12px 16px;font:14.5px/1.55 Arial,sans-serif;color:var(--mute);margin:1em 0}
+.metodo{font:14px/1.5 Arial,sans-serif;color:var(--mute)}
+figure.ft{margin:1.6em auto;max-width:340px}figure.ft img{width:100%;height:auto;display:block;border-radius:4px;border:1px solid var(--line)}figure.ft figcaption{font:13px/1.5 Arial,sans-serif;color:var(--mute);margin-top:8px}
