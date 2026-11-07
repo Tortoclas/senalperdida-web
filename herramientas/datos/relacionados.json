@@ -1,0 +1,65 @@
+[
+ {
+  "motivo": "Crímenes de España",
+  "casos": [
+   "crimen-de-cuenca-el-muerto-que-estaba-vivo",
+   "crimen-de-gador-1910-hombre-del-saco-almeria",
+   "crimen-de-la-calle-fuencarral-higinia-balaguer",
+   "romasanta-el-hombre-lobo-de-allariz-historia-real"
+  ]
+ },
+ {
+  "motivo": "Injusticias y juicios",
+  "casos": [
+   "willie-francis-el-chico-que-sobrevivio-a-la-silla-electrica",
+   "crimen-de-cuenca-el-muerto-que-estaba-vivo",
+   "bebes-robados-doctor-vela-primer-juicio",
+   "chicas-del-radio-radium-girls-fabrica-pintura-luminosa"
+  ]
+ },
+ {
+  "motivo": "La carrera espacial soviética",
+  "casos": [
+   "laika-la-perra-que-nunca-iba-a-volver",
+   "vladimir-komarov-soyuz-1-mito-y-hechos"
+  ]
+ },
+ {
+  "motivo": "Desapariciones sin resolver",
+  "casos": [
+   "faro-de-las-islas-flannan-tres-fareros-desaparecidos",
+   "michael-rockefeller-muerte-nueva-guinea-holanda-encubrimiento"
+  ]
+ },
+ {
+  "motivo": "Una mujer en el centro de la leyenda",
+  "casos": [
+   "la-llorona-origen-real-presagio-tenochtitlan-codice-florentino",
+   "difunta-correa-deolinda-correa-existio-vallecito-san-juan",
+   "la-chica-de-la-curva-majadahonda-leyenda-autoestopista-fantasma"
+  ]
+ },
+ {
+  "motivo": "El siglo XX tras la guerra",
+  "casos": [
+   "josef-mengele-medico-de-auschwitz-que-escapo",
+   "hiroo-onoda-soldado-que-siguio-en-guerra-30-anos"
+  ]
+ },
+ {
+  "motivo": "Juicios famosos de la historia",
+  "casos": [
+   "maria-antonieta-juicio-hijo-luis-carlos-ultima-carta",
+   "sinodo-del-cadaver-el-papa-juzgado-despues-de-muerto",
+   "brujas-de-zugarramurdi-auto-de-fe-logrono-1610"
+  ]
+ },
+ {
+  "motivo": "Crímenes reales con dudas sobre el culpable",
+  "casos": [
+   "lauren-giddings-stephen-mcdaniel-llave-maestra-macon-georgia",
+   "el-loco-de-la-ruta-mar-del-plata-asesino-serial-o-mafia-policial",
+   "crimen-de-la-calle-fuencarral-higinia-balaguer"
+  ]
+ }
+]

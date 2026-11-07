@@ -40,6 +40,17 @@ function ampFuentes(d, A) {
   h += `<h2>Cómo citar este caso</h2><p class="citar">Señal Perdida. «${ea(d.titulo)}». ${anio}. ${url}</p>`;
   return h;
 }
+// Casos relacionados: grupos temáticos en herramientas/datos/relacionados.json (un caso que no esté en ningún grupo no muestra el bloque)
+function relacionados(d, todos) {
+  const f = path.join(__dirname, 'datos', 'relacionados.json'); if (!todos || !fs.existsSync(f)) return '';
+  const por = {}; todos.forEach(x => { por[x.slug] = x; });
+  const vistos = new Set([d.slug]), li = [];
+  for (const g of JSON.parse(fs.readFileSync(f, 'utf8'))) {
+    if (!g.casos.includes(d.slug)) continue;
+    for (const s of g.casos) { if (vistos.has(s) || !por[s]) continue; vistos.add(s); li.push(`<li><a href="/casos/${s}/">${ea(por[s].titulo)}</a> <span class="tp">${ea(g.motivo)}</span></li>`); }
+  }
+  return li.length ? `<h2>Si te interesa este caso</h2><ul class="src">${li.slice(0, 4).join('')}</ul>\n` : '';
+}
 function pagina(d, todos) {
   const A = d.amp || null, c = A ? cit : x => x;
   const url = `${SITIO}/casos/${d.slug}/`, tit = `${d.titulo} | Señal Perdida`, og = SITIO + d.ogimg;
@@ -77,14 +88,16 @@ ${A ? ampPrevio(A, c) : ''}<h2>Lo que sabemos</h2><ol class="tl">${(A && A.sabem
 ${A ? ampLeccion(A, c) : ''}${vid}<div class="cta"><p><strong>¿Te ha dejado con ganas de más?</strong></p><p>Cada semana, una historia oscura en vídeo.</p>
 <div class="btns"><a class="btn" href="https://www.tiktok.com/@senalperdida_oficial" rel="noopener">TikTok</a><a class="btn" href="https://www.youtube.com/@Se%C3%B1alPerdidasecretos" rel="noopener">YouTube</a></div></div>
 ${A ? ampFuentes(d, A) + (A.notaImagenes ? `<p class="metodo">${ea(A.notaImagenes)}</p>` : '') : `<h2>Fuentes</h2><ul class="src">${d.fuentes.map(x => `<li><a href="${ea(x.url)}" rel="noopener nofollow" target="_blank">${ea(x.txt)}</a></li>`).join('')}</ul>`}
-${share}<h2>Más casos</h2>${todos ? masCasos(d, todos) : d.masRaw}`;
+${share}${relacionados(d, todos)}<h2>Más casos</h2>${todos ? masCasos(d, todos) : d.masRaw}`;
   return head + cuerpo + PIE;
 }
 // Portada: solo se sustituye la rejilla de tarjetas; el resto de index.html se deja como está
 function portada(todos) {
   const f = path.join(RAIZ, 'index.html'), h = fs.readFileSync(f, 'utf8'), a = h.indexOf('<div class="grid">'), b = h.indexOf('</div><p id="nada"');
   if (a < 0 || b < 0) throw new Error('No encuentro la rejilla de la portada');
-  return h.slice(0, a) + '<div class="grid">' + todos.map((d, i) => tarjeta(d, { dest: i === 0 })).join('') + h.slice(b);
+  const tema = '<p class="metodo">Por tema: ' + categorias(todos).map(x => `<a href="/categoria/${x.slug}/">${ea(x.titulo)}</a>`).join(' · ') + '</p>';
+  const sal = h.slice(0, a).replace(/<p class="metodo">Por tema:.*?<\/p>/, tema) + '<div class="grid">' + todos.map((d, i) => tarjeta(d, { dest: i === 0 })).join('') + h.slice(b);
+  return sal;
 }
 // Mapa: los puntos que ya existen no se tocan; se añaden los casos nuevos (con d.mapa = {lat, lon} o {x, y}) y se regenera «Todos los casos»
 const proy = (lat, lon) => [+(2.68 * lon + 501.4).toFixed(1), +(-3.175 * lat + 416).toFixed(1)];   // ajustada con los casos actuales (error de unos pocos px)
