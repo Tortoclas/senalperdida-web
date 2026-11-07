@@ -68,6 +68,7 @@ function pagina(d, todos) {
   const share = `<section class="share" aria-label="Compartir este caso"><h2>Compartir</h2><div class="btns" style="justify-content:flex-start"><a class="btn" href="https://wa.me/?text=${t1}%20${u1}" target="_blank" rel="noopener nofollow">WhatsApp</a><a class="btn" href="https://t.me/share/url?url=${u1}&text=${t1}" target="_blank" rel="noopener nofollow">Telegram</a><a class="btn" href="https://twitter.com/intent/tweet?url=${u1}&text=${t1}" target="_blank" rel="noopener nofollow">X</a><a class="btn" href="https://www.facebook.com/sharer/sharer.php?u=${u1}" target="_blank" rel="noopener nofollow">Facebook</a><a class="btn" href="https://www.reddit.com/submit?url=${u1}&title=${t1}" target="_blank" rel="noopener nofollow">Reddit</a><a class="btn" href="mailto:?subject=${t1}&body=${u1}" target="_blank" rel="noopener nofollow">Correo</a><button type="button" class="btn" data-copy="${url}">Copiar enlace</button><button type="button" class="btn" data-nat hidden>Más…</button></div></section></article>${d.saltoMas ? '\n' : ''}`;
   const cuerpo = `<main id="main" class="wrap read"><div class="crumbs"><a href="/">Inicio</a> › ${d.corto}</div>
 <article><div class="meta"><span class="eyebrow">${d.lugar}</span><span class="chip" data-cat="${d.cat}">${d.cat}</span></div><h1>${ea(d.titulo)}</h1>
+<p class="metodo">Por <a href="/sobre/">Señal Perdida</a> · Actualizado el ${String(d.modificado).slice(0, 10).split('-').reverse().join('/')} · <a href="/metodologia/">Cómo verificamos los casos</a></p>
 <p class="lead">${d.lead}</p>
 ${A ? `<aside class="resp"><h2>${ea(A.pregunta)}</h2><p>${c(A.respuesta)}</p></aside>\n` : ''}${vtop}<div class="ficha"><div><b>Lugar y época</b>${d.lugar}</div><div><b>Categoría</b>${d.cat}</div><div><b>Fuentes</b>${nf} enlazada${nf === 1 ? '' : 's'}</div></div>
 ${d.saltoGal ? '\n' : ''}<div class="gal${d.galClase}">${figs}</div><p class="cap">${d.cap}</p>
@@ -107,11 +108,13 @@ function mapa(todos) {
 const ex = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
 function sitemap(todos) {
   const f = path.join(RAIZ, 'sitemap.xml'), h = fs.readFileSync(f, 'utf8');
-  const nuevos = todos.filter(d => !h.includes(`<loc>${SITIO}/casos/${d.slug}/</loc>`)); if (!nuevos.length) return h;
+  // Fechas reales: la lastmod de cada caso sale de d.modificado (solo cambia cuando se edita el caso)
+  const fechas = (t) => { for (const d of todos) { const re = new RegExp('(<loc>' + SITIO.replace(/[.]/g, '\\.') + '/casos/' + d.slug + '/</loc><lastmod>)[^<]*(</lastmod>)'); if (d.modificado) t = t.replace(re, '$1' + d.modificado + '$2'); } return t; };
+  const nuevos = todos.filter(d => !h.includes(`<loc>${SITIO}/casos/${d.slug}/</loc>`)); if (!nuevos.length) return fechas(h);
   const ent = d => `<url><loc>${SITIO}/casos/${d.slug}/</loc><lastmod>${d.modificado}</lastmod><priority>0.8</priority>` + d.figs.map(g => `<image:image><image:loc>${SITIO}${g.src}</image:loc><image:caption>${ex(g.alt)}</image:caption></image:image>`).join('') +
     (d.video ? `<video:video><video:thumbnail_loc>https://i.ytimg.com/vi/${d.video.id}/hqdefault.jpg</video:thumbnail_loc><video:title>${ex(d.titulo)}</video:title><video:description>${ex(d.desc)}</video:description><video:player_loc>https://www.youtube.com/embed/${d.video.id}</video:player_loc><video:publication_date>${d.video.subido}</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video>` : '') + '</url>\n';
   const i = h.indexOf('\n', h.indexOf('<loc>' + SITIO + '/</loc>')) + 1;
-  return h.slice(0, i) + nuevos.map(ent).join('') + h.slice(i);
+  return fechas(h.slice(0, i) + nuevos.map(ent).join('') + h.slice(i));
 }
 module.exports = { pagina, portada, mapa, sitemap, cargar };
 if (require.main === module && process.argv[2] === '--prototipo') {   // node generar.js --prototipo <slug> <salida.html>: no toca la web
