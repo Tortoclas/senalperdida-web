@@ -1,0 +1,70 @@
+{
+ "slug": "caso-vallecas-estefania-gutierrez-lazaro-atestado-policial-veronica",
+ "titulo": "El caso Vallecas: el atestado policial que inspiró «Verónica»",
+ "tituloSeo": "Caso Vallecas: el atestado y Verónica",
+ "desc": "El caso Vallecas (Madrid, 1992): el atestado de la policía, la muerte de Estefanía Gutiérrez Lázaro, lo que cuentan sus hermanos y qué inventó la película Verónica.",
+ "lead": "En noviembre de 1992, una familia de Puente de Vallecas (Madrid) llamó a la policía por unos fenómenos que no sabía explicar. El atestado que se redactó se convirtió en leyenda y en la película «Verónica». Los hermanos de la joven fallecida cuentan otra historia.",
+ "lugar": "Puente de Vallecas (Madrid), 1991-1992",
+ "cat": "Misterio",
+ "corto": "El caso Vallecas",
+ "ogimg": "/img/caso-vallecas-imagen-para-compartir.jpg",
+ "publicado": "2026-11-09",
+ "modificado": "2026-11-09",
+ "vtop": {
+  "saltoAntes": false,
+  "texto": "Míralo en vídeo",
+  "botones": [
+   {
+    "href": "https://www.tiktok.com/@senalperdida_oficial/video/7695854005808827670",
+    "boton": "Ver en TikTok"
+   }
+  ]
+ },
+ "saltoGal": false,
+ "galClase": "",
+ "figs": [
+  {
+   "src": "/img/caso-vallecas-recreacion-de-una-calle-de-madrid-de-noche.jpg",
+   "srcset": "/img/caso-vallecas-recreacion-de-una-calle-de-madrid-de-noche-640.jpg 640w, /img/caso-vallecas-recreacion-de-una-calle-de-madrid-de-noche.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Recreación de una calle estrecha de Madrid de noche, con farolas encendidas y balcones",
+   "w": 1000,
+   "h": 1750
+  },
+  {
+   "src": "/img/caso-vallecas-recreacion-de-una-tabla-de-ouija-con-una-vela.jpg",
+   "srcset": "/img/caso-vallecas-recreacion-de-una-tabla-de-ouija-con-una-vela-640.jpg 640w, /img/caso-vallecas-recreacion-de-una-tabla-de-ouija-con-una-vela.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Recreación de una tabla de ouija con una vela encendida y una pieza en forma de corazón",
+   "w": 1000,
+   "h": 1750
+  },
+  {
+   "src": "/img/caso-vallecas-recreacion-de-dos-policias-en-un-pasillo.jpg",
+   "srcset": "/img/caso-vallecas-recreacion-de-dos-policias-en-un-pasillo-640.jpg 640w, /img/caso-vallecas-recreacion-de-dos-policias-en-un-pasillo.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Recreación de dos policías uniformados en un pasillo con una luz de techo",
+   "w": 1000,
+   "h": 1750
+  }
+ ],
+ "cap": "Recreaciones generadas con IA. No muestran a ninguna de las personas del caso.",
+ "saltoMas": false,
+ "orden": -6,
+ "portada": "/img/caso-vallecas-portada-del-caso.jpg",
+ "ordenMapa": 21,
+ "mapa": {
+  "lat": 40.39,
+  "lon": -3.66
+ },
+ "fuentes": [
+  {
+   "url": "https://es.wikipedia.org/wiki/El_Expediente_Vallecas",
+   "txt": "El Expediente Vallecas, Wikipedia (en español)"
+  },
+  {
+   "url": "https://www.valledelkas.com/reportajes/caso-vallecas-historia-real-atestado-veronica/",
+   "txt": "Reportaje sobre el caso Vallecas, Redacción de Valle del Kas, 2026"
+  }
+ ]
+}

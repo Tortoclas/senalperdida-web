@@ -72,6 +72,7 @@ function validar(slug) {
   if (typeof d.desc === 'string' && (d.desc.length < 80 || d.desc.length > 200)) avisos.push('La descripción tiene ' + d.desc.length + ' caracteres (mejor entre 110 y 160)');
   for (const k of ['portada', 'ogimg']) if (d[k] && !fs.existsSync(path.join(RAIZ, String(d[k]).replace(/^\//, '')))) err.push('No existe la imagen de «' + k + '»: ' + d[k]);
   for (const k of ['pregunta', 'respuesta', 'cronologia', 'versiones', 'sabemos', 'ensenanza', 'fuentes', 'discute']) if (A[k] === undefined || (Array.isArray(A[k]) && !A[k].length)) err.push('Falta «' + k + '» en ampliado');
+  if (A.ensenanza !== undefined && !Array.isArray(A.ensenanza)) err.push('«ensenanza» debe ser una lista de párrafos (no un texto)');
   const ids = new Set((A.fuentes || []).map(f => String(f.id)));
   (A.fuentes || []).forEach(f => { if (!/^https?:\/\//.test(f.url || '')) err.push('La fuente ' + f.id + ' no tiene enlace'); if (!f.txt) err.push('La fuente ' + f.id + ' no tiene texto'); });
   (A.cronologia || []).forEach((x, i) => { const c = String(x.certeza || '').split(',')[0].split(' ')[0].replace(/[^a-z]/g, ''); if (!CERTEZAS.includes(c)) err.push('Cronología ' + (i + 1) + ': certeza «' + x.certeza + '» no válida'); });
