@@ -140,3 +140,4 @@ a:focus-visible,button:focus-visible{outline:2px solid var(--gold);outline-offse
 .nada{color:var(--mute);font:15px Arial,sans-serif;margin:18px 0}
 
 .lista{margin:2em 0;padding:18px 20px;border:1px solid var(--line);background:var(--card)}.lista h2{margin-top:0}.listaf{display:grid;gap:10px;font:15px/1.45 Arial,sans-serif}.listaf label{font-weight:700}.listaf input[type=email]{width:100%;box-sizing:border-box;padding:10px 12px;font:16px Arial,sans-serif;color:inherit;background:#0b0a09;border:1px solid var(--line)}.listaf .chk{display:flex;gap:10px;align-items:flex-start;font-weight:400;font-size:13.5px;color:var(--mute)}.listaf .chk input{margin-top:3px;flex:none}.listaf button.btn{justify-self:start;cursor:pointer;background:var(--gold);color:#0b0a09;border:0}.listaf .listaok{margin:0;color:var(--gold)}.listaf .listaok[hidden]{display:none}
+.listaf .trampa{position:absolute;left:-9999px;width:1px;height:1px;overflow:hidden}
