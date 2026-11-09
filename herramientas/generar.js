@@ -28,7 +28,7 @@ const figAmp = (A, clave) => (A.imagenes || []).filter(i => i.despues === clave)
 function ampPrevio(A, c) {
   let h = '';
   if (A.cronologia) h += '<h2>Cronología</h2><ol class="tl cr">' + A.cronologia.map(x => `<li><b>${ea(x.fecha)}</b>${czTxt(x.certeza)}${c(x.texto)}</li>`).join('') + '</ol>' + figAmp(A, 'cronologia');
-  if (A.versiones) h += '<div class="verw"><h2>Qué se dijo y qué se sabe</h2><table class="ver"><thead><tr><th>Versión</th><th>Quién la sostuvo</th><th>Estado</th></tr></thead><tbody>' + A.versiones.map(x => `<tr><td>${c(x.version)}</td><td>${c(x.quien)}</td><td>${czTxt(x.estado)}${/,/.test(x.estado) ? ea(x.estado.split(',').slice(1).join(',').trim()) : ''}</td></tr>`).join('') + '</tbody></table><p class="metodo">Cómo usamos estas etiquetas: <a href="/metodologia/">método y niveles de certeza</a>.</p></div>' + figAmp(A, 'versiones');
+  if (A.versiones) h += '<div class="verw"><h2>Qué se dijo y qué se sabe</h2><table class="ver"><thead><tr><th>Versión</th><th>Quién la sostuvo</th><th>Estado</th></tr></thead><tbody>' + A.versiones.map(x => `<tr><td>${c(x.version)}</td><td>${c(x.quien)}</td><td>${czTxt(x.estado)}${CZ[String(x.estado).split(',')[0].split(' ')[0].replace(/[^a-z]/g, '')] && /,/.test(x.estado) ? ea(x.estado.split(',').slice(1).join(',').trim()) : ''}</td></tr>`).join('') + '</tbody></table><p class="metodo">Cómo usamos estas etiquetas: <a href="/metodologia/">método y niveles de certeza</a>.</p></div>' + figAmp(A, 'versiones');
   if (A.contexto) h += '<h2>Contexto</h2>' + A.contexto.map((x, i) => `<p>${c(x)}</p>` + figAmp(A, 'contexto:' + i)).join('');
   return h;
 }
@@ -118,7 +118,7 @@ function mapa(todos) {
   return h.slice(0, a) + '<h2>Todos los casos</h2><div class="grid">' + todos.slice().sort((p, q) => q.publicado.localeCompare(p.publicado) || (p.ordenMapa < 0 ? 1e9 : p.ordenMapa) - (q.ordenMapa < 0 ? 1e9 : q.ordenMapa)).map(d => tarjeta(d)).join('') + h.slice(b);
 }
 
-// Categorías: una página-hub por etiqueta con al menos 2 casos (/categoria/<slug>/)
+// Categorías: una página-hub por etiqueta (/categoria/<slug>/). Con 1 solo caso lleva noindex y no entra en el sitemap hasta tener 2
 const CATS = {
   'Crimen': ['crimen', 'Crímenes históricos', 'Casos criminales reales: qué dicen los documentos, qué se atribuyó después y qué sigue sin comprobarse.'],
   'Espacio': ['espacio', 'Misterios del espacio', 'Misiones, accidentes y señales del espacio contados desde las fuentes disponibles.'],
@@ -130,10 +130,10 @@ const CATS = {
 };
 const slugCat = c => CATS[c] ? CATS[c][0] : null;
 function categorias(todos) {
-  return Object.keys(CATS).map(c => ({ cat: c, slug: CATS[c][0], titulo: CATS[c][1], intro: CATS[c][2], casos: todos.filter(d => d.cat === c) })).filter(x => x.casos.length >= 2);
+  return Object.keys(CATS).map(c => ({ cat: c, slug: CATS[c][0], titulo: CATS[c][1], intro: CATS[c][2], casos: todos.filter(d => d.cat === c) })); // todas existen (los chips y enlaces nunca dan 404); se indexan a partir de 2 casos
 }
 function paginaCat(x) {
-  const url = `${SITIO}/categoria/${x.slug}/`, tit = `${x.titulo} | Señal Perdida`, desc = `${x.intro} ${x.casos.length} casos con fuentes.`.slice(0, 160);
+  const url = `${SITIO}/categoria/${x.slug}/`, tit = `${x.titulo} | Señal Perdida`, desc = `${x.intro} ${x.casos.length} ${x.casos.length === 1 ? 'caso con fuentes' : 'casos con fuentes'}.`.slice(0, 160);
   const ld = { '@context': 'https://schema.org', '@type': 'CollectionPage', name: x.titulo, description: x.intro, inLanguage: 'es', url, isPartOf: { '@type': 'WebSite', name: 'Señal Perdida', url: SITIO + '/' } };
   const bc = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Inicio', item: SITIO + '/' }, { '@type': 'ListItem', position: 2, name: x.titulo, item: url }] };
   return `<!doctype html>
@@ -143,7 +143,7 @@ function paginaCat(x) {
 <link rel="icon" href="/favicon.png" type="image/png"><link rel="stylesheet" href="/estilo.css?v=bus24a3">
 <meta property="og:site_name" content="Señal Perdida"><meta property="og:type" content="website"><meta property="og:locale" content="es_ES">
 <meta property="og:title" content="${ea(tit)}"><meta property="og:description" content="${ea(desc)}"><meta property="og:url" content="${url}">
-<meta name="robots" content="index,follow,max-image-preview:large">
+<meta name="robots" content="${x.casos.length >= 2 ? 'index,follow,max-image-preview:large' : 'noindex,follow'}">
 <script type="application/ld+json">${J(ld)}</script><script type="application/ld+json">${J(bc)}</script></head><body>
 <a class="skip" href="#main">Saltar al contenido</a>
 <header class="site"><div class="wrap wide"><a class="brand" href="/"><img src="/logo-television-transparente.png" alt="" width="54" height="57"><span>Señal Perdida</span></a>
@@ -161,15 +161,34 @@ function sitemap(todos) {
   const f = path.join(RAIZ, 'sitemap.xml'), h = fs.readFileSync(f, 'utf8');
   // Fechas reales: la lastmod de cada caso sale de d.modificado (solo cambia cuando se edita el caso)
   const fechas = (t) => { for (const d of todos) { const re = new RegExp('(<loc>' + SITIO.replace(/[.]/g, '\\.') + '/casos/' + d.slug + '/</loc><lastmod>)[^<]*(</lastmod>)'); if (d.modificado) t = t.replace(re, '$1' + d.modificado + '$2'); } return t; };
-  const nuevos = todos.filter(d => !h.includes(`<loc>${SITIO}/casos/${d.slug}/</loc>`)); if (!nuevos.length) return catMap(fechas(h), todos);
+  const nuevos = todos.filter(d => !h.includes(`<loc>${SITIO}/casos/${d.slug}/</loc>`)); if (!nuevos.length) return catMap(imagenes(fechas(h), todos), todos);
   const ent = d => `<url><loc>${SITIO}/casos/${d.slug}/</loc><lastmod>${d.modificado}</lastmod><priority>0.8</priority>` + d.figs.map(g => `<image:image><image:loc>${SITIO}${g.src}</image:loc><image:caption>${ex(g.alt)}</image:caption></image:image>`).join('') +
     (d.video ? `<video:video><video:thumbnail_loc>https://i.ytimg.com/vi/${d.video.id}/hqdefault.jpg</video:thumbnail_loc><video:title>${ex(d.titulo)}</video:title><video:description>${ex(d.desc)}</video:description><video:player_loc>https://www.youtube.com/embed/${d.video.id}</video:player_loc><video:publication_date>${d.video.subido}</video:publication_date><video:family_friendly>yes</video:family_friendly></video:video>` : '') + '</url>\n';
   const i = h.indexOf('\n', h.indexOf('<loc>' + SITIO + '/</loc>')) + 1;
-  return catMap(fechas(h.slice(0, i) + nuevos.map(ent).join('') + h.slice(i)), todos);
+  return catMap(imagenes(fechas(h.slice(0, i) + nuevos.map(ent).join('') + h.slice(i)), todos), todos);
+}
+
+// Imágenes del sitemap: salen de la propia página generada (galería + imágenes del cuerpo), sin portada ni imagen social ni miniaturas decorativas (alt vacío)
+const desesc = s => s.replace(/&quot;/g, '"').replace(/&lt;/g, '<').replace(/&gt;/g, '>').replace(/&amp;/g, '&');
+function imagenesDePagina(html) {
+  const vistas = new Set(), out = [];
+  for (const m of html.matchAll(/<img [^>]*?src="(\/img\/[^"]+)"[^>]*?alt="([^"]+)"/g)) {
+    if (/-portada-del-caso\.jpg$|-imagen-para-compartir\.jpg$/.test(m[1]) || vistas.has(m[1])) continue;
+    vistas.add(m[1]); out.push({ src: m[1], alt: desesc(m[2]) });
+  }
+  return out;
+}
+function imagenes(h, todos) {
+  for (const d of todos) {
+    const re = new RegExp('(<loc>' + SITIO.replace(/[.]/g, '\\.') + '/casos/' + d.slug + '/</loc><lastmod>[^<]*</lastmod><priority>[^<]*</priority>)(?:<image:image>.*?</image:image>)*');
+    const imgs = imagenesDePagina(pagina(d, todos)).map(g => `<image:image><image:loc>${SITIO}${g.src}</image:loc><image:caption>${ex(g.alt)}</image:caption></image:image>`).join('');
+    h = h.replace(re, (_, a) => a + imgs);
+  }
+  return h;
 }
 
 function catMap(h, todos) {
-  for (const x of categorias(todos)) {
+  for (const x of categorias(todos).filter(y => y.casos.length >= 2)) {
     const loc = `${SITIO}/categoria/${x.slug}/`, lm = x.casos.map(d => d.modificado).filter(Boolean).sort().pop() || '';
     const ent = `<url><loc>${loc}</loc><lastmod>${lm}</lastmod><priority>0.7</priority></url>\n`;
     if (h.includes(`<loc>${loc}</loc>`)) h = h.replace(new RegExp('(<loc>' + loc.replace(/[.]/g, '\\.') + '</loc><lastmod>)[^<]*(</lastmod>)'), '$1' + lm + '$2');

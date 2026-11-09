@@ -74,7 +74,6 @@ function validar(slug) {
   const ids = new Set((A.fuentes || []).map(f => String(f.id)));
   (A.fuentes || []).forEach(f => { if (!/^https?:\/\//.test(f.url || '')) err.push('La fuente ' + f.id + ' no tiene enlace'); if (!f.txt) err.push('La fuente ' + f.id + ' no tiene texto'); });
   (A.cronologia || []).forEach((x, i) => { const c = String(x.certeza || '').split(',')[0].split(' ')[0].replace(/[^a-z]/g, ''); if (!CERTEZAS.includes(c)) err.push('Cronología ' + (i + 1) + ': certeza «' + x.certeza + '» no válida'); });
-  (A.versiones || []).forEach((x, i) => { if (/sin pruebas/i.test(x.estado || '')) err.push('Versión ' + (i + 1) + ': evita «sin pruebas» en estado (el generador duplica el texto)'); });
   const usadas = new Set(); JSON.stringify(A).replace(/\{(\d+)\}/g, (_, n) => { usadas.add(n); return ''; });
   usadas.forEach(n => { if (!ids.has(n)) err.push('Cita {' + n + '} sin fuente con ese id'); });
   ids.forEach(n => { if (!usadas.has(n)) avisos.push('La fuente ' + n + ' no se cita en ningún sitio'); });
