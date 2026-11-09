@@ -66,6 +66,7 @@ function validar(slug) {
   for (const k of ['slug', 'titulo', 'desc', 'lead', 'lugar', 'cat', 'corto', 'ogimg', 'publicado', 'modificado', 'orden', 'ordenMapa', 'portada', 'fuentes']) if (d[k] === undefined || d[k] === '') err.push('Falta el campo «' + k + '» en casos');
   if (d.slug !== slug) err.push('El campo slug no coincide con el nombre del archivo');
   if (d.cat && !CATS.includes(d.cat)) err.push('Categoría no válida: ' + d.cat + ' (válidas: ' + CATS.join(', ') + ')');
+  if (((d.tituloSeo || d.titulo || '').length + 16) > 62) avisos.push('El título de la etiqueta <title> pasa de 62 caracteres (Google lo corta): añade tituloSeo de hasta 46');
   if (!d.mapa) avisos.push('Sin coordenadas: el caso no saldrá en el mapa');
   if (d.mapa && !(typeof d.mapa.lat === 'number' && typeof d.mapa.lon === 'number')) err.push('mapa necesita lat y lon numéricos');
   if (typeof d.desc === 'string' && (d.desc.length < 80 || d.desc.length > 200)) avisos.push('La descripción tiene ' + d.desc.length + ' caracteres (mejor entre 110 y 160)');

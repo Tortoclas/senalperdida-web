@@ -53,14 +53,14 @@ function relacionados(d, todos) {
 }
 function pagina(d, todos) {
   const A = d.amp || null, c = A ? cit : x => x;
-  const url = `${SITIO}/casos/${d.slug}/`, tit = `${d.titulo} | Señal Perdida`, og = SITIO + d.ogimg;
+  const url = `${SITIO}/casos/${d.slug}/`, tit = `${d.titulo} | Señal Perdida`, titTag = `${d.tituloSeo || d.titulo} | Señal Perdida`, og = SITIO + d.ogimg;
   const ld1 = { '@context': 'https://schema.org', '@type': 'Article', headline: d.titulo, description: d.desc, inLanguage: 'es', datePublished: d.publicado, dateModified: d.modificado, mainEntityOfPage: url, author: { '@type': 'Organization', name: 'Señal Perdida' }, publisher: { '@type': 'Organization', name: 'Señal Perdida', logo: { '@type': 'ImageObject', url: SITIO + '/logo-senal-perdida.jpg' } }, image: [og] };
   const ld2 = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Inicio', item: SITIO + '/' }, { '@type': 'ListItem', position: 2, name: d.corto, item: url }] };
   let ld3 = '';
   if (d.video) ld3 = '<script type="application/ld+json">' + J({ '@context': 'https://schema.org', '@type': 'VideoObject', name: d.titulo, description: d.desc, thumbnailUrl: `https://i.ytimg.com/vi/${d.video.id}/hqdefault.jpg`, uploadDate: d.video.subido, embedUrl: `https://www.youtube.com/embed/${d.video.id}`, inLanguage: 'es' }) + '</script>';
   const head = `<!doctype html>
 <html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>${ea(tit)}</title><meta name="description" content="${ea(d.desc)}">
+<title>${ea(titTag)}</title><meta name="description" content="${ea(d.desc)}">
 <link rel="canonical" href="${url}"><meta name="theme-color" content="#0b0a09"><meta name="msvalidate.01" content="BB1B9C266BFA8BF7F61E3652DF26095C">
 <link rel="icon" href="/favicon.png" type="image/png"><link rel="stylesheet" href="/estilo.css?v=bus24a3">${A ? '<link rel="stylesheet" href="/ampliado.css?v=3">' : ''}
 <meta property="og:site_name" content="Señal Perdida"><meta property="og:type" content="article"><meta property="og:locale" content="es_ES">
