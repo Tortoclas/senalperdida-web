@@ -1,0 +1,162 @@
+{
+ "pregunta": "¿Cómo se resolvió el asesinato de Lauren Giddings y qué es mito del caso?",
+ "respuesta": "Lauren Giddings, recién graduada en Derecho, fue asesinada en junio de 2011 en su apartamento de Macon (Georgia). Su vecino y excompañero Stephen McDaniel tenía una llave maestra del edificio.{1}{2}{3} En abril de 2014 se declaró culpable y lo condenaron a cadena perpetua, con posibilidad de libertad condicional en 2041.{1}{2} Muchas cosas que circulan en vídeos virales no constan en las fuentes.",
+ "cronologia": [
+  {
+   "fecha": "25 de junio de 2011",
+   "texto": "Es la última vez que ven a Lauren Giddings, según la agencia AP.{4}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "26 de junio de 2011",
+   "texto": "Según su declaración escrita y el «Macon Telegraph», McDaniel entra en el apartamento de Lauren con una llave maestra de madrugada, hacia las 4:30, mientras ella duerme. La mata cuando se despierta.{1}{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "30 de junio de 2011",
+   "texto": "La policía encuentra los restos de Lauren en un contenedor junto al complejo, frente a la facultad de Derecho.{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Primera semana de julio de 2011",
+   "texto": "McDaniel es arrestado por allanamiento y no sale de prisión.{2}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Agosto de 2011",
+   "texto": "En una vista, la policía explica que McDaniel tenía una llave maestra del edificio y un duplicado de la llave del piso de Lauren. En un armario cerrado de la lavandería hay una sierra con ADN de ella, según el FBI.{4}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "15 de noviembre de 2011",
+   "texto": "Un gran jurado del condado de Bibb lo acusa formalmente de asesinato y de otros cargos.{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Febrero de 2013",
+   "texto": "La fiscalía anuncia que no pedirá la pena de muerte, por deseo de la familia de Lauren.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "21 de abril de 2014",
+   "texto": "Una semana antes del juicio, McDaniel se declara culpable. Lo condenan a cadena perpetua con posibilidad de libertad condicional en 2041.{1}{2}",
+   "certeza": "documentado"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "Entró con una llave maestra, vigiló a Lauren mientras dormía y la mató cuando despertó",
+   "quien": "Declaración escrita de McDaniel{1}{2}",
+   "estado": "admitido en su declaración de culpabilidad"
+  },
+  {
+   "version": "No sabe explicar del todo por qué lo hizo",
+   "quien": "McDaniel, en esa declaración{1}",
+   "estado": "atribuido"
+  },
+  {
+   "version": "Aceptó declararse culpable al saber que el FBI había recuperado un vídeo borrado de su cámara",
+   "quien": "ABA Journal{1}",
+   "estado": "atribuido"
+  },
+  {
+   "version": "Las pruebas digitales fueron decisivas para que se declarara culpable",
+   "quien": "Su abogado, citado por CBS News{2}",
+   "estado": "atribuido"
+  },
+  {
+   "version": "Un excompañero de piso contó que hablaba de cómo cometer el asesinato perfecto",
+   "quien": "Detective David Patterson, en la vista de agosto de 2011{4}",
+   "estado": "atribuido, testimonio indirecto"
+  },
+  {
+   "version": "El caso sigue sin cerrarse del todo",
+   "quien": "El fiscal, citado por CBS News: aun con juicio, «nunca habríamos sabido exactamente» qué le pasó a Lauren{2}",
+   "estado": "opinión de la fiscalía"
+  }
+ ],
+ "contexto": [
+  "Lauren y McDaniel eran vecinos de edificio y habían sido compañeros en la Universidad Mercer. McDaniel había hecho prácticas en la fiscalía local, y un juez rechazó apartar a esa oficina del caso por un posible conflicto de interés.{3}",
+  "El juicio se había trasladado al condado de Henry por un cambio de sede.{1}",
+  "La familia de Lauren presentó una demanda civil por muerte injusta, y la prensa esperaba un acuerdo tras la declaración de culpabilidad.{1}"
+ ],
+ "sabemos": [
+  "Lauren Giddings, de 27 años, acababa de terminar Derecho en la Universidad Mercer, en Macon (Georgia).{4}{5}",
+  "Sus restos aparecieron el 30 de junio de 2011 en un contenedor cerca de su edificio.{3}",
+  "McDaniel, su vecino y excompañero de clase, fue arrestado en julio de 2011 y acusado de asesinato en noviembre.{2}{3}",
+  "El 21 de abril de 2014 se declaró culpable y fue condenado a cadena perpetua, con libertad condicional posible en 2041.{1}{2}",
+  "La fiscalía había renunciado a pedir la pena de muerte por deseo de la familia.{1}"
+ ],
+ "ensenanza": [
+  "El caso de Lauren Giddings enseña el peso de la prueba digital. Según su abogado y el ABA Journal, el vídeo recuperado y los datos del ordenador y la cámara llevaron a McDaniel a declararse culpable.{1}{2}",
+  "También enseña que un acuerdo de culpabilidad zanja el juicio pero no todas las dudas. El propio fiscal reconoció que, con o sin juicio, quizá nunca se sepa todo lo que le ocurrió.{2}",
+  "Y deja una advertencia sobre los vídeos virales: muchas frases y detalles que circulan por internet no aparecen en ninguna fuente abierta. Detrás hay un asesinato real y una familia.{5}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://abajournal.com/news/article/law_grad_stephen_mcdaniel_takes_surprise_plea_in_dismemberment_slaying_of",
+   "txt": "Law grad Stephen McDaniel takes surprise plea in slaying of Lauren Giddings",
+   "autor": "ABA Journal, 22 de abril de 2014",
+   "tipo": "Prensa jurídica"
+  },
+  {
+   "id": 2,
+   "url": "https://www.cbsnews.com/amp/news/georgia-man-pleads-guilty-to-strangling-dismembering-woman/",
+   "txt": "Georgia man pleads guilty to strangling, dismembering woman",
+   "autor": "CBS News, 23 de abril de 2014",
+   "tipo": "Prensa"
+  },
+  {
+   "id": 3,
+   "url": "https://www.mercercluster.com/article/2011/12/grand-jury-indicts-mcdaniel-in-giddings-case",
+   "txt": "Grand jury indicts McDaniel in Giddings case",
+   "autor": "The Mercer Cluster, diciembre de 2011",
+   "tipo": "Prensa universitaria"
+  },
+  {
+   "id": 4,
+   "url": "https://www.deseret.com/2011/8/26/20211919/police-detail-evidence-in-ga-law-grad-killing",
+   "txt": "Police detail evidence in Ga. law grad killing",
+   "autor": "Associated Press, en Deseret News, 26 de agosto de 2011",
+   "tipo": "Agencia"
+  },
+  {
+   "id": 5,
+   "url": "https://en.wikipedia.org/wiki/Murder_of_Lauren_Giddings",
+   "txt": "Murder of Lauren Giddings",
+   "autor": "Wikipedia (en inglés)",
+   "tipo": "Enciclopedia"
+  }
+ ],
+ "saberMas": [],
+ "discute": [
+  "Lo que dijo exactamente a los periodistas. En muchos vídeos virales se le atribuye una frase en la que lamenta no haberla ayudado. No la hemos encontrado en ninguna fuente abierta, así que no la damos.",
+  "Si se enteró del hallazgo en directo. La Wikipedia en inglés dice que lo supo durante una entrevista con la cadena WGXA. La agencia AP cuenta que lo entrevistaron antes de que se supiera.{4}{5}",
+  "La duración del interrogatorio. Solo la Wikipedia en inglés dice que duró más de doce horas. No hemos encontrado una segunda fuente.{5}",
+  "Hasta dónde llegaba la llave maestra. Según la orden de arresto citada por The Mercer Cluster, abría todos los apartamentos del edificio. Según la vista de agosto de 2011, abría el armario de la lavandería y había un duplicado de la llave del piso de Lauren.{3}{4}",
+  "Si la confesión está completa. Algunos investigadores creen que no, y las fuentes no coinciden sobre qué pruebas lo llevaron a declararse culpable.{1}{2}",
+  "La hora del crimen. La acusación situó los hechos entre el 25 y el 30 de junio. La declaración de McDaniel, citada por CBS News, habla de las 4:30 del 26 de junio.{2}{3}",
+  "Si puede apelar. CBS News dice que el acuerdo le impide apelar la condena.{2}",
+  "El vídeo del interrogatorio se ha convertido en un meme en internet. Detrás hay un asesinato real."
+ ],
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
+ "imagenes": [
+  {
+   "despues": "cronologia",
+   "src": "/img/lauren-giddings-recreacion-de-un-campus-del-sur-de-estados-unidos-al-anochecer",
+   "alt": "Una persona de espaldas camina por un camino de ladrillo hacia un edificio con columnas al anochecer",
+   "pie": "Lauren acababa de terminar Derecho en la Universidad Mercer, en Macon.",
+   "w": 1000,
+   "h": 1778
+  },
+  {
+   "despues": "versiones",
+   "src": "/img/lauren-giddings-recreacion-de-una-llave-en-una-cerradura-oxidada",
+   "alt": "Una mano gira una llave antigua en una cerradura oxidada junto a unas tuberías",
+   "pie": "La llave maestra del edificio fue una de las pruebas del caso.",
+   "w": 1000,
+   "h": 1778
+  }
+ ]
+}

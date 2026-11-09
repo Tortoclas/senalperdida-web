@@ -1,0 +1,116 @@
+{
+ "pregunta": "¿Qué pasó de verdad en el caso Vallecas y qué hay de cierto en la película «Verónica»?",
+ "respuesta": "La noche del 27 de noviembre de 1992, la familia de Estefanía Gutiérrez Lázaro pidió ayuda a la policía en la calle Luis Marín, en Puente de Vallecas (Madrid).{1}{2} Estefanía había muerto el 14 de julio de 1991 y la autopsia calificó su muerte de súbita y sospechosa.{1}{2} El atestado anota una puerta de armario que se abre, un ruido en la terraza o el balcón y un crucifijo alterado, pero solo deja constancia de lo observado o relatado.{1}{2} El inspector dijo después en televisión que no vio nada extraño.{2}",
+ "cronologia": [
+  {
+   "fecha": "14 de julio de 1991",
+   "texto": "Muere Estefanía Gutiérrez Lázaro. Wikipedia habla de un episodio de catalepsia y de un coma, y sitúa su muerte en el Hospital Gregorio Marañón. Valle del Kas fija su edad en 17 años; Wikipedia da 17 y 18.{1}{2}",
+   "certeza": "aceptado"
+  },
+  {
+   "fecha": "Antes de su muerte",
+   "texto": "Hubo una sesión de güija entre estudiantes. Ninguna prueba conocida la relaciona con la muerte.{1}{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "27 de noviembre de 1992",
+   "texto": "La familia pide ayuda a la Policía Nacional en la calle Luis Marín. Según Wikipedia, los agentes la encontraron fuera de la casa, bajo la lluvia, y el inspector entró con otros dos agentes.{1}{2}",
+   "certeza": "aceptado"
+  },
+  {
+   "fecha": "27 de noviembre de 1992",
+   "texto": "El atestado, atribuido al inspector Negri, anota la apertura repentina de una puerta de armario, un ruido fuerte, una mancha marrón, un crucifijo alterado y arañazos.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "4 de octubre de 1993",
+   "texto": "En «Código Uno» (TVE), el inspector dice que hizo una inspección ocular del armario y que no vio nada extraño.{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1 de noviembre de 1993",
+   "texto": "Según Wikipedia, la foto de Estefanía se incendia solo en la zona del rostro. No hemos encontrado una segunda fuente.{1}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "2017",
+   "texto": "Se estrena «Verónica», de Paco Plaza, inspirada en el expediente.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Septiembre de 2018",
+   "texto": "El Mundo publica una entrevista con los hermanos Ricardo y Maximiliano, que niegan la versión que circula del caso.{1}{2}{3}",
+   "certeza": "documentado"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "Hubo fenómenos paranormales reales: un poltergeist o una posesión.",
+   "quien": "Divulgadores y parte de la prensa; Wikipedia cita a Iker Jiménez{1}",
+   "estado": "discutido, el atestado solo recoge lo observado o relatado{2}"
+  },
+  {
+   "version": "La familia interpretó o exageró hechos con explicación normal: el armario, el crucifijo, el póster y la mancha.",
+   "quien": "Los hermanos Ricardo y Maximiliano, en El Mundo (2018){2}",
+   "estado": "atribuido, versión de los hermanos"
+  },
+  {
+   "version": "Ricardo lanzó una piedra desde un balcón contiguo para impresionar a los agentes.",
+   "quien": "Ricardo, según Valle del Kas{2}",
+   "estado": "atribuido, testimonio de un hermano que no hemos podido contrastar"
+  },
+  {
+   "version": "La güija causó la muerte de Estefanía.",
+   "quien": "Relato popular{2}",
+   "estado": "discutido, ninguna prueba conocida lo acredita"
+  }
+ ],
+ "contexto": [
+  "«Verónica» (2017), de Paco Plaza, está inspirada en el expediente, pero es ficción: sus personajes y situaciones son creaciones para la pantalla.{1}{2}",
+  "La protagonista de la película usa una güija durante el eclipse del 11 de julio de 1991 e intenta contactar con su padre.{2}",
+  "La etiqueta de «único caso paranormal documentado por la Policía» es obra del relato mediático: el atestado solo deja constancia de lo observado o relatado.{2}"
+ ],
+ "sabemos": [
+  "Estefanía Gutiérrez Lázaro murió el 14 de julio de 1991 y la autopsia calificó su muerte de súbita y sospechosa.{1}{2}",
+  "La familia pidió ayuda a la policía la noche del 27 de noviembre de 1992, en la calle Luis Marín, en Puente de Vallecas.{1}{2}",
+  "El atestado se atribuye al inspector Negri y recoge hechos observados o relatados, sin concluir que fueran paranormales.{2}",
+  "El 4 de octubre de 1993, en «Código Uno», el inspector dijo que no vio nada extraño y que podía haber muchas explicaciones.{2}",
+  "En 2018, los hermanos de Estefanía negaron que levitara o hablara idiomas desconocidos.{2}"
+ ],
+ "discute": [
+  "La edad de Estefanía. Valle del Kas dice 17 años; Wikipedia da 17 en la entradilla y 18 en el cuerpo del artículo.{1}{2}",
+  "La causa de la muerte. Wikipedia dice que la autopsia no pudo determinarla; Valle del Kas cita a El Mundo (2018) y habla de asfixia pulmonar, y avisa de que no hay acceso público al historial clínico.{1}{2}",
+  "Lo que anotó el atestado. Wikipedia menciona ruidos desde el balcón, una baba marrón en una mesita de noche y arañazos de tres garras en la pared; Valle del Kas habla de un ruido en la terraza, una mancha en un mantel y arañazos en un póster.{1}{2}",
+  "El nombre del inspector. Wikipedia lo llama José Negri y Valle del Kas, José Pedro Negri.{1}{2}",
+  "Si hubo algo paranormal. Wikipedia dice que el caso no tiene explicación lógica o científica y admite que su fama televisiva se apoya en el morbo; los hermanos lo niegan.{1}{2}"
+ ],
+ "ensenanza": [
+  "Un documento oficial no convierte en hecho lo que cuenta. El atestado recoge lo que los agentes vieron y lo que la familia les dijo.",
+  "Años de televisión hicieron el resto. Conviene separar lo que anotó la policía de lo que se contó después."
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://es.wikipedia.org/wiki/El_Expediente_Vallecas",
+   "txt": "El Expediente Vallecas",
+   "autor": "Wikipedia (en español)",
+   "tipo": "Enciclopedia"
+  },
+  {
+   "id": 2,
+   "url": "https://www.valledelkas.com/reportajes/caso-vallecas-historia-real-atestado-veronica/",
+   "txt": "Reportaje sobre el caso Vallecas y «Verónica»",
+   "autor": "Redacción de Valle del Kas, 1 de octubre de 2026",
+   "tipo": "Web"
+  },
+  {
+   "id": 3,
+   "url": "https://www.elmundo.es/cronica/2018/09/26/5ba7641922601dd2528b4640.html",
+   "txt": "Desmontando Verónica, el poltergeist de Vallecas que nunca lo fue",
+   "autor": "El Mundo, 26 de septiembre de 2018 (citada por Wikipedia y Valle del Kas; no la hemos leído directamente)",
+   "tipo": "Prensa"
+  }
+ ],
+ "saberMas": [],
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados."
+}

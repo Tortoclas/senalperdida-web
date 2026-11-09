@@ -1,0 +1,151 @@
+{
+ "pregunta": "¿Cómo condenaron a dos hombres por matar a un pastor que seguía vivo?",
+ "respuesta": "En 1910 desapareció el pastor José María Grimaldos, «el Cepa». Dos vecinos, León Sánchez y Gregorio Valero, fueron detenidos, torturados y condenados a 18 años en 1918.{1}{2}{3} Grimaldos reapareció vivo y el Tribunal Supremo anuló la condena.{1}{2}{3} Las fuentes no coinciden en algunas fechas, como la de su reaparición.",
+ "cronologia": [
+  {
+   "fecha": "1910",
+   "texto": "Grimaldos desaparece tras vender unas ovejas. Su familia sospecha de Sánchez y Valero, compañeros de la finca. Según un estudio jurídico, el 21 de octubre de 1910 se le dio por muerto.{1}{2}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1911",
+   "texto": "El caso se archiva por falta de pruebas.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1913",
+   "texto": "Un nuevo juez reabre la causa. Detienen a Sánchez y a Valero, que pasan años presos antes del juicio.{1}{2}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Durante la instrucción",
+   "texto": "Los detenidos están incomunicados y sin defensa. Confiesan tras los malos tratos de guardias civiles, con conocimiento del juez instructor, según un jurista. Se acusan mutuamente y sus versiones sobre el cuerpo se contradicen. El cuerpo nunca apareció.{1}{2}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "25 de mayo de 1918",
+   "texto": "La Audiencia de Cuenca, con jurado, los condena a 18 años por asesinato.{2}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "4 de julio de 1925",
+   "texto": "Salen de prisión por indulto, tras más de doce años presos.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Entre 1924 y 1926",
+   "texto": "Grimaldos aparece vivo en Tresjuncos o en una aldea cercana. Según la versión recogida en Wikipedia, un cura de Mira pidió su partida de bautismo y él acudió a Tresjuncos. La fecha varía según la fuente: 1924, 1925 o febrero de 1926.{1}{2}{3}",
+   "certeza": "discutido"
+  },
+  {
+   "fecha": "6 de abril de 1926",
+   "texto": "El fiscal presenta un recurso de revisión.{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "10 de julio de 1926",
+   "texto": "El Tribunal Supremo admite la revisión y anula la condena. La sentencia se publicó en 1927. Reconoce el derecho de los condenados a la reparación del honor.{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1935",
+   "texto": "Según una fuente periodística, se juzga a guardias civiles y funcionarios de justicia, y todos son absueltos. Otra fuente jurídica dice que solo hubo correcciones disciplinarias.{2}{3}",
+   "certeza": "discutido"
+  },
+  {
+   "fecha": "1980",
+   "texto": "La película «El crimen de Cuenca», de Pilar Miró, pasa por un consejo de guerra que pide cuatro años de cárcel por injurias a la Guardia Civil. Su estreno comercial se retrasa hasta 1981.{2}",
+   "certeza": "documentado"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "Los condenados confesaron tras ser torturados por guardias civiles",
+   "quien": "Calvo González; el Tribunal Supremo consideró que la confesión se obtuvo con violencia{2}{3}",
+   "estado": "aceptado"
+  },
+  {
+   "version": "Grimaldos se había ido por voluntad propia y se enteró de todo al volver",
+   "quien": "Calvo González y un artículo periodístico{2}{3}",
+   "estado": "atribuido, sin más detalle"
+  },
+  {
+   "version": "Los responsables del error fueron juzgados y absueltos en 1935",
+   "quien": "Artículo de SensaCine{3}",
+   "estado": "discutido"
+  },
+  {
+   "version": "No se castigó a los responsables y no hubo indemnización",
+   "quien": "Calvo González{2}",
+   "estado": "discutido"
+  }
+ ],
+ "contexto": [
+  "Las confesiones arrancadas bajo tortura bastaron para condenar sin cuerpo y sin testigos directos. Por eso el caso se cita como ejemplo de error judicial.{2}",
+  "La película de Pilar Miró se basó en este caso y fue procesada. Un artículo la llama «la única película prohibida durante la democracia», pero no aporta fuente.{2}{3}",
+  "El caso se ha contado muchas veces, y cada relato elige sus fechas. Por eso conviene comparar fuentes antes de dar una por cierta.{1}{2}{3}"
+ ],
+ "sabemos": [
+  "José María Grimaldos López, «el Cepa», desapareció en 1910.{1}{2}{3}",
+  "León Sánchez Gascón y Gregorio Valero Contreras fueron condenados a 18 años en 1918 por su supuesto asesinato.{2}{3}",
+  "Confesaron tras ser maltratados por guardias civiles. El cuerpo no apareció nunca.{1}{2}{3}",
+  "Salieron por indulto el 4 de julio de 1925, después de más de doce años presos.{1}{2}",
+  "Grimaldos reapareció vivo y el Tribunal Supremo anuló la condena.{1}{2}{3}"
+ ],
+ "ensenanza": [
+  "El crimen de Cuenca enseña que una confesión no es una prueba por sí sola, sobre todo si se obtiene con violencia.{2}",
+  "También muestra lo difícil que es reparar un error judicial. Pasaron años hasta la anulación, y no hubo indemnización según un jurista.{2}",
+  "Y deja una advertencia sobre las fuentes: aun en un caso tan citado, las fechas de la reaparición y del destino de los condenados cambian de un texto a otro.{1}{2}{3}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://en.wikipedia.org/wiki/Crime_of_Cuenca",
+   "txt": "Crime of Cuenca",
+   "autor": "Wikipedia (en inglés)",
+   "tipo": "Enciclopedia"
+  },
+  {
+   "id": 2,
+   "url": "https://emporiododireito.com.br/leitura/verdad-y-proceso-habilmente-interrogados-declararon-y-el-tema-del-muerto-resucitado",
+   "txt": "Verdad y proceso: «hábilmente interrogados declararon» y el tema del muerto resucitado",
+   "autor": "José Calvo González, catedrático de Filosofía del Derecho (Universidad de Málaga), Empório do Direito, 23/08/2017",
+   "tipo": "Artículo jurídico"
+  },
+  {
+   "id": 3,
+   "url": "https://www.sensacine.com/noticias/cine/noticia-1000133998/",
+   "txt": "Qué fue de Gregorio Valero y León Sánchez, los condenados del crimen de Cuenca",
+   "autor": "SensaCine",
+   "tipo": "Prensa de cine"
+  }
+ ],
+ "saberMas": [],
+ "discute": [
+  "Cuándo reapareció Grimaldos: 1924 según Calvo González, 1925 según SensaCine y febrero de 1926 según la versión de Wikipedia que recoge la página. Con un indulto en julio de 1925, la fecha de 1924 no encaja del todo.{1}{2}{3}",
+  "Dónde estuvo Grimaldos durante esos años y por qué no se presentó antes. Las fuentes consultadas no lo detallan y aquí no lo suponemos.",
+  "Qué fue de los condenados. SensaCine dice que se fueron a Madrid como guardas del Retiro con una pensión vitalicia, sin dar fuente.{3} Calvo González dice que no hubo indemnización.{2}",
+  "Qué fue de los responsables. SensaCine dice que en 1935 se juzgó a guardias civiles y funcionarios y todos fueron absueltos. Calvo González habla solo de correcciones disciplinarias.{2}{3}",
+  "El juez instructor y el cura que habría sabido que Grimaldos vivía: SensaCine cuenta que el juez murió al año siguiente, de angina de pecho o quizá suicidado, y que el cura se suicidó. No da fechas ni fuentes.{3}",
+  "La fecha de estreno de la película y si fue «la única prohibida» en democracia: 1979, 1980 o 1981 según la fuente, y sin respaldo para esa afirmación."
+ ],
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
+ "imagenes": [
+  {
+   "despues": "cronologia",
+   "src": "/img/crimen-de-cuenca-recreacion-de-dos-hombres-entre-canas",
+   "alt": "Dos hombres de espaldas ante un campo de cañas, uno señalando a lo lejos",
+   "pie": "El campo de Cuenca, donde desapareció el pastor.",
+   "w": 1000,
+   "h": 1750
+  },
+  {
+   "despues": "ensenanza:1",
+   "src": "/img/crimen-de-cuenca-recreacion-de-tres-hombres-revisando-papeles-en-un-despacho",
+   "alt": "Tres hombres con traje revisando documentos sobre una mesa de despacho",
+   "pie": "Revisar los papeles del caso llevó años y acabó anulando la condena.",
+   "w": 1000,
+   "h": 1750
+  }
+ ]
+}

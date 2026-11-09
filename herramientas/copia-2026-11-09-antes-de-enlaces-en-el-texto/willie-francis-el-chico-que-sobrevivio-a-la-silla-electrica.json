@@ -1,0 +1,161 @@
+{
+ "pregunta": "¿Cómo pudo ejecutarse dos veces a Willie Francis?",
+ "respuesta": "Willie Francis, un chico negro de 16 años cuando lo condenaron, sobrevivió el 3 de mayo de 1946 a su primera ejecución en la silla eléctrica de Luisiana, porque la silla estaba mal instalada.{2} El Tribunal Supremo de Estados Unidos decidió el 13 de enero de 1947, por cinco votos contra cuatro, que una segunda ejecución no era inconstitucional.{1} Lo ejecutaron el 9 de mayo de 1947, con 18 años.{2}",
+ "cronologia": [
+  {
+   "fecha": "Diciembre de 1944",
+   "texto": "Andrew Thomas, farmacéutico de St. Martinville (Luisiana), muere de un disparo. El caso queda sin resolver durante nueve meses.{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "3 de agosto de 1945",
+   "texto": "La policía detiene a Willie Francis cerca de una estación de tren en Port Arthur (Texas), por sospecha de tráfico de drogas. En su cartera lleva la tarjeta de identidad de Thomas. Firma confesiones escritas del asesinato.{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1945",
+   "texto": "Juicio. Sus abogados de oficio no presentan objeciones ni llaman a testigos. El jurado lo declara culpable de asesinato en primer grado tras unos quince minutos. La pena de muerte es obligatoria. Tiene 16 años.{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "3 de mayo de 1946",
+   "texto": "Primer intento de ejecución. La silla portátil falla. Según Wikipedia, un guardia y un preso ebrios la habían instalado mal. Los testigos oyen gritar a Francis bajo la capucha. Sobrevive.{2}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Mayo de 1946",
+   "texto": "Su abogado Bertrand DeBlanc sostiene que una segunda ejecución sería un castigo cruel e inusual. La Junta de Perdones de Luisiana rechaza conmutar la pena. El Tribunal Supremo de Luisiana rechaza sus recursos el 15 de mayo.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "18 de noviembre de 1946",
+   "texto": "El Tribunal Supremo de Estados Unidos escucha el caso, Louisiana ex rel. Francis contra Resweber.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "13 de enero de 1947",
+   "texto": "El Tribunal Supremo confirma la ejecución, por cinco votos contra cuatro. El 10 de febrero rechaza reabrir el caso.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "9 de mayo de 1947",
+   "texto": "Francis es ejecutado en la silla eléctrica. Lo declaran muerto a las 12:10. Tiene 18 años.{2}",
+   "certeza": "documentado"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "Una segunda ejecución no viola la Constitución, porque el fallo fue un accidente sin malicia",
+   "quien": "Juez Reed, con otros tres jueces, más el voto del juez Frankfurter{1}",
+   "estado": "aceptado, por cinco votos contra cuatro"
+  },
+  {
+   "version": "Había que averiguar si la corriente llegó a pasar, y una segunda ejecución sería cruel e inusual",
+   "quien": "Juez Burton, con Douglas, Murphy y Rutledge{1}",
+   "estado": "voto particular"
+  },
+  {
+   "version": "Francis cometió el crimen",
+   "quien": "Sus propias confesiones; DeBlanc dijo que nunca lo negó{2}",
+   "estado": "aceptado, aunque el juicio se considera defectuoso"
+  },
+  {
+   "version": "Hubo cómplices, entre ellos el ayudante del sheriff August Fuselier",
+   "quien": "Una hipótesis recogida por Wikipedia{2}",
+   "estado": "sin pruebas"
+  },
+  {
+   "version": "El juicio fue «profundamente defectuoso»",
+   "quien": "Deborah Denno, en un capítulo sobre el caso{3}",
+   "estado": "valoración de una jurista"
+  }
+ ],
+ "contexto": [
+  "Los abogados de oficio no presentaron objeciones ni llamaron a ningún testigo. El jurado deliberó unos quince minutos.{2}",
+  "El arma y las balas desaparecieron de las pruebas policiales poco antes del juicio.{2}",
+  "El Supremo sigue citando este caso. Denno critica que se haya usado incluso en Baze contra Rees (2008), tras seis décadas de cambios legales.{3}",
+  "La Universidad de Luisiana en Lafayette conserva una colección con cartas, recortes de prensa y la petición al Tribunal Supremo.{4}"
+ ],
+ "sabemos": [
+  "Willie Francis nació en 1929. Lo condenaron por la muerte del farmacéutico Andrew Thomas, ocurrida en diciembre de 1944.{2}{4}",
+  "Lo detuvieron el 3 de agosto de 1945 en Port Arthur (Texas) y firmó confesiones. Tenía 16 años.{2}",
+  "Sus abogados de oficio no pusieron objeciones ni llamaron a testigos, y el jurado lo declaró culpable en unos quince minutos.{2}",
+  "El 3 de mayo de 1946 sobrevivió a la primera ejecución, porque la silla falló.{2}{3}",
+  "El Supremo confirmó la ejecución el 13 de enero de 1947 por cinco votos contra cuatro, y Francis murió en la silla el 9 de mayo de 1947.{1}{2}"
+ ],
+ "ensenanza": [
+  "El caso de Willie Francis enseña cómo se puede condenar a un menor con una defensa que no defiende. Confesó sin abogado y sus abogados de oficio no hicieron preguntas.{2}",
+  "También enseña que el sistema discutió si una segunda ejecución era cruel, pero cuatro de nueve jueces lo vieron claro y cinco no. Una sola persona más habría cambiado el resultado.{1}",
+  "Y deja una pregunta que los juristas siguen discutiendo: si un accidente al ejecutar borra la pena o solo la aplaza.{1}{3}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://www.law.cornell.edu/supremecourt/text/329/459",
+   "txt": "Louisiana ex rel. Francis v. Resweber, 329 U.S. 459 (1947)",
+   "autor": "Tribunal Supremo de EE. UU., en Cornell Legal Information Institute",
+   "tipo": "Sentencia"
+  },
+  {
+   "id": 2,
+   "url": "https://en.wikipedia.org/wiki/Willie_Francis",
+   "txt": "Willie Francis",
+   "autor": "Wikipedia (en inglés)",
+   "tipo": "Enciclopedia"
+  },
+  {
+   "id": 3,
+   "url": "https://legalhistoryblog.blogspot.com/2009/04/denno-when-willie-francis-died.html",
+   "txt": "Denno: «When Willie Francis Died»",
+   "autor": "Mary L. Dudziak, Legal History Blog, 21 de abril de 2009, sobre un capítulo de Deborah W. Denno",
+   "tipo": "Blog académico"
+  },
+  {
+   "id": 4,
+   "url": "https://library.louisiana.edu/node/1326",
+   "txt": "Willie Francis Collection",
+   "autor": "Biblioteca de la Universidad de Luisiana en Lafayette",
+   "tipo": "Archivo"
+  }
+ ],
+ "saberMas": [
+  "Deborah W. Denno, «When Willie Francis Died», en «Death Penalty Stories» (2009), citado por el Legal History Blog.",
+  "Gilbert King, citado por Wikipedia sobre el juicio."
+ ],
+ "saberMasNota": "Estas obras aparecen citadas o comentadas en las fuentes consultadas. No las hemos leído directamente.",
+ "discute": [
+  "Si era culpable. Francis nunca negó el crimen, según Wikipedia, y el abogado DeBlanc dijo lo mismo. El autor Gilbert King calificó el juicio de «farsa». Sobre su culpa hay confesiones; sobre el juicio, dudas serias.{2}",
+  "El motivo. Nunca se explicó con claridad. Hubo rumores de abusos de la víctima hacia Francis, pero no están confirmados. Francis dijo después que Thomas era un buen jefe y que no iba tras dinero.{2}",
+  "Si hubo otros implicados. Francis dijo que había robado el arma al ayudante August Fuselier. Se ha dicho que Fuselier era cómplice, pero no se encontró denuncia de robo ni informe que lo sostenga.{2}",
+  "Qué quiso decir Francis con la frase escrita «un secreto sobre él y yo». Su significado sigue sin aclararse.{2}",
+  "Un joyero dijo no recordar a Francis, aunque sus registros mostraban la venta de una caja de reloj robada a Thomas.{2}",
+  "Las fechas exactas del primer intento y del juicio no se dan en todas las fuentes. Aquí usamos las del 3 de mayo de 1946 y 1945.{2}{4}"
+ ],
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
+ "imagenes": [
+  {
+   "despues": "cronologia",
+   "src": "/img/willie-francis-recreacion-de-la-sala-del-juicio",
+   "alt": "Una sala de tribunal vacía en blanco y negro, con luz entrando por una ventana alta",
+   "pie": "El juicio duró poco. Los abogados de oficio no llamaron a ningún testigo.",
+   "w": 1000,
+   "h": 1500
+  },
+  {
+   "despues": "versiones",
+   "src": "/img/willie-francis-recreacion-de-la-firma-del-documento",
+   "alt": "Una mano firma un documento bajo una lámpara",
+   "pie": "Francis firmó confesiones escritas tras su detención.",
+   "w": 1000,
+   "h": 1500
+  },
+  {
+   "despues": "ensenanza:1",
+   "src": "/img/willie-francis-recreacion-de-la-silla-electrica",
+   "alt": "Una silla eléctrica en una sala oscura, iluminada por una lámpara naranja",
+   "pie": "La silla portátil de Luisiana falló el 3 de mayo de 1946.",
+   "w": 1000,
+   "h": 1500
+  }
+ ]
+}
