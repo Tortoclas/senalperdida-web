@@ -78,14 +78,17 @@
  "contexto": [
   "Un trabajo académico estudia el caso como hito en la historia del periodismo español, a partir del tratamiento que le dio el diario El Imparcial.{1}",
   "Galdós escribió crónicas del caso. Se publicaron en 1923 y se reeditaron con un prólogo de Rafael Reig en 2002.{2}",
-  "Sobre la identidad de la cómplice, las fuentes difieren: unas dicen Dolores Ávila y otras citan a Dolores Gutiérrez Robles, «Lola la Billetera».{2}"
+  "Sobre la identidad de la cómplice, las fuentes difieren: unas dicen Dolores Ávila y otras citan a Dolores Gutiérrez Robles, «Lola la Billetera».{2}",
+  "El caso fue tan famoso que dejó en Madrid la frase «es más conocido que el crimen de la calle Fuencarral». Galdós dibujó a Higinia durante la vista oral.{3}",
+  "Un estudio académico lee las crónicas de Galdós sobre el caso como obra de no ficción y las relaciona con el llamado «nuevo periodismo».{4}"
  ],
  "sabemos": [
   "Luciana Borcino, viuda de Vázquez Varela, apareció muerta el 2 de julio de 1888 en el número 109 de la calle Fuencarral, con tres puñaladas y el cuerpo quemado.{1}{2}",
   "Higinia Balaguer, su criada, cambió varias veces de declaración. El hijo, Varela, estaba entonces en la cárcel.{1}{2}",
   "El juicio duró del 26 de marzo al 25 de mayo de 1889. Salmerón defendió a Higinia.{1}{2}",
   "Higinia fue condenada a muerte y Dolores Ávila a 18 años. Varela, Millán Astray y María Ávila Palacios fueron absueltos.{1}{2}",
-  "Higinia fue ejecutada a garrote el 19 de julio de 1890, ante unas veinte mil personas.{2}"
+  "Higinia fue ejecutada a garrote el 19 de julio de 1890, ante unas veinte mil personas.{2}",
+  "La policía acudió tras oír gritos de mujer y ver humo en el piso segundo izquierda del número 109. La autopsia concluyó que una cuchillada le había atravesado el corazón.{3}"
  ],
  "ensenanza": [
   "El caso Fuencarral enseña cómo una confesión que cambia puede decidir una condena. Higinia dio varias versiones y el tribunal eligió la que la inculpaba.{1}{2}",
@@ -106,6 +109,20 @@
    "txt": "Crime of Fuencarral street",
    "autor": "Wikipedia (en inglés)",
    "tipo": "Enciclopedia"
+  },
+  {
+   "id": 3,
+   "url": "https://www.libertaddigital.com/opinion/fin-de-semana/el-crimen-de-la-calle-fuencarral-1276229893.html",
+   "txt": "El crimen de la calle Fuencarral",
+   "autor": "Libertad Digital, sección «Asesinatos misteriosos»",
+   "tipo": "Prensa"
+  },
+  {
+   "id": 4,
+   "url": "https://revistas.grancanaria.com/index.php/cig/article/download/2039/2459/2902",
+   "txt": "Los viejos modos de las nuevas poéticas: sobre El crimen de la calle de Fuencarral, la no-ficción y el «nuevo periodismo»",
+   "autor": "Elena de Lorenzo Álvarez, Cabildo de Gran Canaria",
+   "tipo": "Trabajo académico"
   }
  ],
  "saberMas": [
@@ -118,7 +135,9 @@
   "Si Higinia actuó sola. El tribunal consideró que pudo contar con ayuda y el caso nunca aclaró quién más participó.{1}{2}",
   "La fecha de la sentencia: 25 de mayo según Wikipedia y 29 de mayo según el trabajo de Zaragoza.{1}{2}",
   "La identidad de la cómplice y el significado de «Dolores, catorce mil duros», que nunca se aclaró.{2}",
-  "La edad de Higinia: 28 años en 1888 según un texto y 30 en su ejecución según otro. Aquí damos las cifras como las dan las fuentes.{1}{2}"
+  "La edad de Higinia: 28 años en 1888 según un texto y 30 en su ejecución según otro. Aquí damos las cifras como las dan las fuentes.{1}{2}",
+  "Quién drogó al perro y a la criada. Higinia apareció dormida junto al perro, ambos bajo los efectos de un narcótico. Una de las fuentes sostiene que ella misma narcotizó al perro mientras Luciana estaba en misa.{2}{3}",
+  "Quién era la cómplice. Una fuente académica habla de Dolores Ávila, amiga de Higinia, condenada a dieciocho años. Wikipedia cita además a Lola la Billetera, amiga de Higinia y amante del hijo de la víctima.{2}{4}"
  ],
  "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
  "imagenes": [
