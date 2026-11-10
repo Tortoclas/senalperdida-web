@@ -1,0 +1,96 @@
+{
+ "slug": "federico-ii-idioma-de-dios-experimento-bebes-salimbene",
+ "titulo": "Federico II y el idioma de Dios: el experimento con bebés",
+ "desc": "Federico II quiso saber qué idioma hablaría un niño al que nadie hablara. El experimento con bebés, las nodrizas y por qué solo lo cuenta Salimbene.",
+ "lead": "En el siglo XIII, el emperador Federico II quiso saber qué lengua hablaría un niño al que nadie le hablase. Según un fraile, mandó criar bebés en silencio y los niños no sobrevivieron. Ese fraile era enemigo del emperador, y es el único que lo dejó escrito.",
+ "lugar": "Reino de Sicilia y sur de Italia, siglo XIII",
+ "cat": "Historia",
+ "corto": "Federico II y el idioma de Dios",
+ "cap": "Recreaciones generadas con IA. No muestran a ninguna persona real.",
+ "saltoGal": false,
+ "galClase": "",
+ "saltoMas": false,
+ "mapa": {
+  "lat": 38.12,
+  "lon": 13.36
+ },
+ "fuentes": [
+  {
+   "url": "https://sourcebooks.fordham.edu/source/salimbene1.asp",
+   "txt": "Salimbene: On Frederick II, 13th Century (traducción y paráfrasis de G. G. Coulton, St. Francis to Dante, 1906; Medieval Sourcebook, Fordham University)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Language_deprivation_experiments",
+   "txt": "Language deprivation experiments (Wikipedia en inglés)"
+  },
+  {
+   "url": "https://es.wikipedia.org/wiki/Federico_II_Hohenstaufen",
+   "txt": "Federico II Hohenstaufen (Wikipedia en español)"
+  },
+  {
+   "url": "https://it.wikipedia.org/wiki/Salimbene_de_Adam",
+   "txt": "Salimbene de Adam (Wikipedia en italiano)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Salimbene_di_Adam",
+   "txt": "Salimbene di Adam (Wikipedia en inglés)"
+  },
+  {
+   "url": "https://www.britannica.com/biography/Frederick-II-Holy-Roman-emperor/Struggle-with-the-papacy",
+   "txt": "Frederick II: Struggle with the papacy (Encyclopaedia Britannica)"
+  },
+  {
+   "url": "https://www.britannica.com/event/Council-of-Lyon-First-1245",
+   "txt": "Councils of Lyon (Encyclopaedia Britannica)"
+  }
+ ],
+ "ogimg": "/img/federico-ii-y-el-idioma-de-dios-imagen-para-compartir.jpg",
+ "publicado": "2026-11-10",
+ "modificado": "2026-11-10",
+ "orden": -7,
+ "ordenMapa": 22,
+ "portada": "/img/federico-ii-y-el-idioma-de-dios-portada-del-caso.jpg",
+ "figs": [
+  {
+   "src": "/img/federico-ii-y-el-idioma-de-dios-ilustracion-un-emperador-medieval-en-su-corte.jpg",
+   "srcset": "/img/federico-ii-y-el-idioma-de-dios-ilustracion-un-emperador-medieval-en-su-corte-640.jpg 640w, /img/federico-ii-y-el-idioma-de-dios-ilustracion-un-emperador-medieval-en-su-corte.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de un emperador medieval en su corte",
+   "w": 1000,
+   "h": 1778
+  },
+  {
+   "src": "/img/federico-ii-y-el-idioma-de-dios-ilustracion-una-nodriza-dando-el-pecho-a-un-bebe.jpg",
+   "srcset": "/img/federico-ii-y-el-idioma-de-dios-ilustracion-una-nodriza-dando-el-pecho-a-un-bebe-640.jpg 640w, /img/federico-ii-y-el-idioma-de-dios-ilustracion-una-nodriza-dando-el-pecho-a-un-bebe.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de una nodriza dando el pecho a un bebé",
+   "w": 1000,
+   "h": 1778
+  },
+  {
+   "src": "/img/federico-ii-y-el-idioma-de-dios-ilustracion-un-fraile-medieval-escribiendo-una-cronica.jpg",
+   "srcset": "/img/federico-ii-y-el-idioma-de-dios-ilustracion-un-fraile-medieval-escribiendo-una-cronica-640.jpg 640w, /img/federico-ii-y-el-idioma-de-dios-ilustracion-un-fraile-medieval-escribiendo-una-cronica.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de un fraile medieval escribiendo una crónica",
+   "w": 1000,
+   "h": 1422
+  }
+ ],
+ "vtop": {
+  "saltoAntes": false,
+  "texto": "Míralo en vídeo",
+  "botones": [
+   {
+    "href": "https://www.youtube.com/shorts/-8mbWgegC7E",
+    "boton": "Ver en YouTube"
+   }
+  ]
+ },
+ "video": {
+  "formato": "short",
+  "etiqueta": "Short en YouTube (español)",
+  "id": "-8mbWgegC7E",
+  "titulo": "Federico II: el experimento con bebés a los que nadie podía hablar",
+  "subido": "2026-11-10T12:00:00+01:00"
+ }
+}

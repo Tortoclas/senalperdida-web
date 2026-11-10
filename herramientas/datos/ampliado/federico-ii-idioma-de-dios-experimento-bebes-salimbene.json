@@ -1,0 +1,198 @@
+{
+ "pregunta": "¿Es verdad que Federico II hizo un experimento con bebés para descubrir el idioma de Dios?",
+ "respuesta": "Solo lo cuenta un cronista: el fraile franciscano Salimbene de Parma.{1} Según él, Federico II ordenó a unas nodrizas dar el pecho y bañar a unos niños sin hablarles nunca, para saber si hablarían hebreo, griego, latín, árabe o la lengua de sus padres. Los niños «no podían vivir» sin gestos ni caricias.{1} Salimbene era muy hostil al emperador, y los historiadores dudan de que el experimento ocurriera tal como lo cuenta.{2}{4}",
+ "cronologia": [
+  {
+   "fecha": "26 de diciembre de 1194",
+   "texto": "Nace Federico II en Iesi, en Italia. Será rey de Sicilia y de Jerusalén y emperador del Sacro Imperio. Le llamarán «stupor mundi», el asombro del mundo.{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "22 de noviembre de 1220",
+   "texto": "El papa Honorio III lo corona emperador en Roma.{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "9 de octubre de 1221",
+   "texto": "Nace en Parma Salimbene de Adam, el futuro cronista.{4}{5}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1227",
+   "texto": "El papa Gregorio IX excomulga a Federico por no cumplir su promesa de ir a la cruzada.{6}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1238",
+   "texto": "Salimbene, con 17 años, entra en la orden franciscana.{4}{5}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1239",
+   "texto": "Gregorio IX excomulga a Federico por segunda vez.{6}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1245",
+   "texto": "En el concilio de Lyon, el papa Inocencio IV renueva la excomunión y declara depuesto al emperador.{7}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1248",
+   "texto": "Según la Wikipedia en inglés, Salimbene escribe probablemente ese año «Los doce crímenes del emperador Federico» (XII scelera Friderici imperatoris), un escrito contra él.{5}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "13 de diciembre de 1250",
+   "texto": "Muere Federico II en Castel Fiorentino.{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Años 1280",
+   "texto": "Salimbene escribe su Crónica, que recoge la vida italiana hasta 1287. La empezó hacia 1282, según la Wikipedia en inglés. En ella aparece el experimento con los niños.{1}{4}{5}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "1906",
+   "texto": "G. G. Coulton publica en inglés una traducción y paráfrasis del pasaje. Es el texto que más se cita hoy.{1}",
+   "certeza": "documentado"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "Federico mandó criar a unos niños sin que nadie les hablara. Los niños no pudieron vivir sin gestos, alegría en el rostro ni caricias.{1}",
+   "quien": "Salimbene de Adam, en su Crónica (traducción de Coulton){1}",
+   "estado": "único testimonio; el autor no lo presenció"
+  },
+  {
+   "version": "El relato forma parte de la propaganda contra un enemigo del papa.{2}{4}",
+   "quien": "Historiadores citados por la Wikipedia en inglés; la Wikipedia en italiano lo enmarca en la propaganda antiimperial{2}{4}",
+   "estado": "hipótesis no probada; el sesgo del autor no demuestra que la historia sea falsa"
+  },
+  {
+   "version": "Los niños murieron todos.",
+   "quien": "Relatos de divulgación, incluido el vídeo",
+   "estado": "lectura del texto; Salimbene dice que «no podían vivir» y no da número de niños{1}"
+  }
+ ],
+ "contexto": [
+  "Federico II gobernó Sicilia desde niño y se educó en Palermo, donde se mezclaban la cultura normanda, la árabe y la bizantina.{3} Sus choques con el papado le valieron el apodo de «Anticristo».{3}",
+  "La pregunta del experimento era antigua. Heródoto contó que el faraón Psamético I hizo criar a un niño sin oír ninguna lengua. Según ese relato, la primera palabra del niño fue «bekos», pan en frigio.{2}",
+  "Siglos después de Federico, se dijo que Jacobo IV de Escocia envió a dos niños a la isla de Inchkeith con una mujer muda, y que aprendieron hebreo. Los historiadores ya dudaron de esa noticia en su época.{2}",
+  "El emperador mogol Akbar también hizo criar niños con nodrizas mudas, en la llamada «casa de los mudos». Al visitarla en 1582 no oyó ninguna palabra. Es el caso que se considera más probablemente auténtico.{2}"
+ ],
+ "sabemos": [
+  "El relato procede de la Crónica de Salimbene, fraile franciscano del siglo XIII.{1}",
+  "Según Salimbene, las nodrizas podían dar el pecho, bañar y lavar a los niños, pero no hablarles ni parlotear con ellos.{1}",
+  "El emperador quería saber si hablarían hebreo, «que fue la primera», o griego, latín, árabe o la lengua de sus padres.{1}",
+  "El texto no da el número de niños, ni el lugar, ni la fecha.{1}",
+  "El experimento es una entrada en una lista de excesos del emperador. La lista incluye cortar el pulgar a un notario por escribir mal su nombre, encerrar vivo a un hombre en un tonel y abrir a dos hombres para ver cuál había digerido mejor.{1}",
+  "Salimbene nació en 1221 y escribió su Crónica décadas después de la muerte de Federico, en 1250.{3}{4}{5}",
+  "Federico fue excomulgado en 1227 y en 1239, y depuesto por el papa en 1245.{6}{7}"
+ ],
+ "discute": [
+  "Si el experimento ocurrió. Solo lo cuenta Salimbene, y la Wikipedia en inglés recoge que se duda de él como de los de Psamético y Jacobo IV.{1}{2}",
+  "Cuánto pesa la hostilidad del cronista. Para Salimbene, Federico era el Anticristo, según la Wikipedia en italiano. Pero el mismo fraile escribe que una vez lo quiso, y la Wikipedia en inglés habla de una «admiración a regañadientes».{1}{4}{5}",
+  "En qué obra aparece el relato. Fordham lo sitúa en la Crónica. La Wikipedia en inglés lo relaciona con «Los doce crímenes del emperador Federico».{1}{2}",
+  "El año. Algunas versiones dan 1248, pero el texto de Salimbene no fecha el experimento. 1248 es el año probable de su escrito contra Federico, no el de los hechos.{1}{5}",
+  "Cuántos niños hubo. Algunos relatos dan cifras; el texto no da ninguna.{1}",
+  "Qué dice exactamente el texto. Lo que más se cita es la versión inglesa de Coulton, que Fordham presenta como «traducida y parafraseada». No es el original latino.{1}",
+  "Cuándo murió Salimbene. La Wikipedia en italiano da 1288. La inglesa da 1288 en un sitio y «hacia 1290» en otro.{4}{5}"
+ ],
+ "ensenanza": [
+  "Una historia muy citada puede descansar sobre un solo testigo. Antes de repetirla, hay que preguntar quién la contó y qué pensaba del protagonista.{1}{4}",
+  "Que un cronista sea hostil no demuestra que mienta, pero obliga a leerlo con cuidado.{2}",
+  "Las cifras y fechas que se añaden con el tiempo, como el número de bebés, no siempre están en el texto original.{1}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://sourcebooks.fordham.edu/source/salimbene1.asp",
+   "txt": "Salimbene: On Frederick II, 13th Century",
+   "autor": "Salimbene de Adam; traducción y paráfrasis de G. G. Coulton (St. Francis to Dante, 1906); Medieval Sourcebook, Fordham University",
+   "tipo": "Archivo"
+  },
+  {
+   "id": 2,
+   "url": "https://en.wikipedia.org/wiki/Language_deprivation_experiments",
+   "txt": "Language deprivation experiments",
+   "autor": "Wikipedia en inglés",
+   "tipo": "Enciclopedia"
+  },
+  {
+   "id": 3,
+   "url": "https://es.wikipedia.org/wiki/Federico_II_Hohenstaufen",
+   "txt": "Federico II Hohenstaufen",
+   "autor": "Wikipedia en español",
+   "tipo": "Enciclopedia"
+  },
+  {
+   "id": 4,
+   "url": "https://it.wikipedia.org/wiki/Salimbene_de_Adam",
+   "txt": "Salimbene de Adam",
+   "autor": "Wikipedia en italiano",
+   "tipo": "Enciclopedia"
+  },
+  {
+   "id": 5,
+   "url": "https://en.wikipedia.org/wiki/Salimbene_di_Adam",
+   "txt": "Salimbene di Adam",
+   "autor": "Wikipedia en inglés",
+   "tipo": "Enciclopedia"
+  },
+  {
+   "id": 6,
+   "url": "https://www.britannica.com/biography/Frederick-II-Holy-Roman-emperor/Struggle-with-the-papacy",
+   "txt": "Frederick II: Struggle with the papacy",
+   "autor": "Encyclopaedia Britannica",
+   "tipo": "Enciclopedia"
+  },
+  {
+   "id": 7,
+   "url": "https://www.britannica.com/event/Council-of-Lyon-First-1245",
+   "txt": "Councils of Lyon",
+   "autor": "Encyclopaedia Britannica",
+   "tipo": "Enciclopedia"
+  }
+ ],
+ "saberMas": [
+  "Salimbene de Adam, «Cronica», edición de Oswald Holder-Egger en Monumenta Germaniae Historica, Scriptores XXXII.",
+  "G. G. Coulton, «From St. Francis to Dante» (1906)."
+ ],
+ "saberMasNota": "Estas obras aparecen citadas o comentadas en las fuentes consultadas. No las hemos leído directamente.",
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías ni retratos de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
+ "imagenes": [
+  {
+   "despues": "contexto:0",
+   "src": "/img/federico-ii-y-el-idioma-de-dios-ilustracion-manuscritos-medievales-en-varias-lenguas",
+   "alt": "Ilustración de manuscritos medievales en varias lenguas",
+   "pie": "Federico quería saber si los niños hablarían hebreo, griego, latín o árabe.",
+   "w": 1000,
+   "h": 1778
+  },
+  {
+   "despues": "cronologia",
+   "src": "/img/federico-ii-y-el-idioma-de-dios-ilustracion-cunas-vacias-en-una-sala-en-penumbra",
+   "alt": "Ilustración de cunas vacías en una sala en penumbra",
+   "pie": "Salimbene no dice cuántos niños hubo ni cuándo ocurrió.",
+   "w": 1000,
+   "h": 1586
+  },
+  {
+   "despues": "sabemos",
+   "src": "/img/federico-ii-y-el-idioma-de-dios-ilustracion-una-mujer-con-un-bebe-en-brazos-en-silencio",
+   "alt": "Ilustración de una mujer con un bebé en brazos, en silencio",
+   "pie": "Las nodrizas podían alimentar y bañar a los niños, pero no hablarles.",
+   "w": 1000,
+   "h": 792
+  },
+  {
+   "despues": "versiones",
+   "src": "/img/federico-ii-y-el-idioma-de-dios-ilustracion-un-papa-medieval-en-su-trono",
+   "alt": "Ilustración de un papa medieval en su trono",
+   "pie": "El papa excomulgó a Federico en 1227 y en 1239.",
+   "w": 1000,
+   "h": 1778
+  }
+ ]
+}
