@@ -97,7 +97,8 @@ function portada(todos) {
   const f = path.join(RAIZ, 'index.html'), h = fs.readFileSync(f, 'utf8'), a = h.indexOf('<div class="grid">'), b = h.indexOf('</div><p id="nada"');
   if (a < 0 || b < 0) throw new Error('No encuentro la rejilla de la portada');
   const tema = '<p class="metodo">Por tema: ' + categorias(todos).map(x => `<a href="/categoria/${x.slug}/">${ea(x.titulo)}</a>`).join(' · ') + '</p>';
-  const sal = h.slice(0, a).replace(/<p class="metodo">Por tema:.*?<\/p>/, tema) + '<div class="grid">' + todos.map((d, i) => tarjeta(d, { dest: i === 0 })).join('') + h.slice(b);
+  const col = '<p class="metodo">Colecciones: ' + COLECCIONES.map(c => `<a href="/coleccion/${c.slug}/">${ea(c.titulo)}</a>`).join(' · ') + '</p>';
+  const sal = h.slice(0, a).replace(/<p class="metodo">Por tema:.*?<\/p>(<p class="metodo">Colecciones:.*?<\/p>)?/, tema + col) + '<div class="grid">' + todos.map((d, i) => tarjeta(d, { dest: i === 0 })).join('') + h.slice(b);
   return sal;
 }
 // Mapa: los puntos que ya existen no se tocan; se añaden los casos nuevos (con d.mapa = {lat, lon} o {x, y}) y se regenera «Todos los casos»
@@ -154,6 +155,45 @@ function paginaCat(x) {
 <p class="lead">${ea(x.intro)} Cada caso enlaza sus fuentes y separa lo documentado de lo que se discute: <a href="/metodologia/">así lo hacemos</a>.</p>
 <div class="grid">${x.casos.map(d => tarjeta(d)).join('')}</div>
 <p class="metodo">Más temas: ${Object.keys(CATS).filter(c => c !== x.cat).map(c => `<a href="/categoria/${CATS[c][0]}/">${ea(CATS[c][1])}</a>`).join(' · ')}</p>
+<p class="metodo">Colecciones: ${COLECCIONES.map(c => `<a href="/coleccion/${c.slug}/">${ea(c.titulo)}</a>`).join(' · ')}</p>
+` + PIE;
+}
+// Colecciones: páginas que agrupan casos de varias categorías por un hilo común (/coleccion/<slug>/). Con menos de 2 casos llevan noindex y no entran en el sitemap
+const COLECCIONES = [
+  { slug: 'espana', titulo: 'Crímenes, misterios y leyendas de España', seo: 'Crímenes y misterios de España con fuentes',
+    desc: 'Ocho casos reales de España: garrote, condenas injustas, bebés robados y leyendas. Qué dicen las fuentes y qué sigue en discusión.',
+    parrafos: ['Esta colección reúne los casos de Señal Perdida que ocurrieron en España, desde las hogueras de Logroño en 1610 hasta los bebés robados que llegaron a juicio en 2018. Hay crímenes que acabaron en el garrote, condenas que se vinieron abajo cuando el muerto apareció vivo y leyendas que nacieron en una carretera de Madrid.',
+      'Casi todos comparten algo: la versión popular y la documentada no coinciden. En Fuencarral, el hijo de la víctima salió absuelto y la criada murió en el garrote. En Cuenca, dos hombres pasaron años presos por un asesinato que no existió. En Vallecas, el atestado policial y los hermanos de la joven fallecida cuentan historias distintas.'],
+    casos: ['crimen-de-la-calle-fuencarral-higinia-balaguer', 'crimen-de-gador-1910-hombre-del-saco-almeria', 'crimen-de-cuenca-el-muerto-que-estaba-vivo', 'bebes-robados-doctor-vela-primer-juicio', 'caso-vallecas-estefania-gutierrez-lazaro-atestado-policial-veronica', 'romasanta-el-hombre-lobo-de-allariz-historia-real', 'la-chica-de-la-curva-majadahonda-leyenda-autoestopista-fantasma', 'brujas-de-zugarramurdi-auto-de-fe-logrono-1610'] },
+  { slug: 'juicios-y-condenas', titulo: 'Juicios y condenas que marcaron la historia', seo: 'Juicios y condenas polémicos de la historia',
+    desc: 'Seis juicios reales, de un cadáver juzgado en Roma a una silla eléctrica que falló: qué se decidió, qué dicen los archivos y qué se discute.',
+    parrafos: ['Seis casos donde lo extraño ocurre en el tribunal: un cadáver juzgado en Roma entre 896 y 897, brujas condenadas en Logroño en 1610, una reina guillotinada en 1793, un chico que sobrevivió a la silla eléctrica de Luisiana en 1946 y fue ejecutado un año después, dos hombres presos por un muerto que estaba vivo y un médico que el tribunal declaró autor y aun así absolvió.',
+      'Un juicio solo prueba lo que el tribunal decide dar por probado. En cada caso separamos lo que se dijo en la sala, lo que muestran hoy los archivos y lo que sigue en discusión, con las fuentes enlazadas.'],
+    casos: ['sinodo-del-cadaver-el-papa-juzgado-despues-de-muerto', 'brujas-de-zugarramurdi-auto-de-fe-logrono-1610', 'maria-antonieta-juicio-hijo-luis-carlos-ultima-carta', 'willie-francis-el-chico-que-sobrevivio-a-la-silla-electrica', 'crimen-de-cuenca-el-muerto-que-estaba-vivo', 'bebes-robados-doctor-vela-primer-juicio'] }
+];
+function colecciones(todos) { return COLECCIONES.map(c => Object.assign({}, c, { casos: c.casos.map(sl => todos.find(d => d.slug === sl)).filter(Boolean) })); }
+function paginaColeccion(x) {
+  const url = `${SITIO}/coleccion/${x.slug}/`, tit = `${x.seo} | Señal Perdida`, desc = x.desc;
+  const ld = { '@context': 'https://schema.org', '@type': 'CollectionPage', name: x.titulo, description: desc, inLanguage: 'es', url, isPartOf: { '@type': 'WebSite', name: 'Señal Perdida', url: SITIO + '/' }, mainEntity: { '@type': 'ItemList', itemListElement: x.casos.map((d, i) => ({ '@type': 'ListItem', position: i + 1, url: `${SITIO}/casos/${d.slug}/`, name: d.titulo })) } };
+  const bc = { '@context': 'https://schema.org', '@type': 'BreadcrumbList', itemListElement: [{ '@type': 'ListItem', position: 1, name: 'Inicio', item: SITIO + '/' }, { '@type': 'ListItem', position: 2, name: x.titulo, item: url }] };
+  return `<!doctype html>
+<html lang="es"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>${ea(tit)}</title><meta name="description" content="${ea(desc)}">
+<link rel="canonical" href="${url}"><meta name="theme-color" content="#0b0a09"><meta name="msvalidate.01" content="BB1B9C266BFA8BF7F61E3652DF26095C">
+<link rel="icon" href="/favicon.png" type="image/png"><link rel="stylesheet" href="/estilo.css?v=bus24a3">
+<meta property="og:site_name" content="Señal Perdida"><meta property="og:type" content="website"><meta property="og:locale" content="es_ES">
+<meta property="og:title" content="${ea(tit)}"><meta property="og:description" content="${ea(desc)}"><meta property="og:url" content="${url}">
+<meta name="robots" content="${x.casos.length >= 2 ? 'index,follow,max-image-preview:large' : 'noindex,follow'}">
+<script type="application/ld+json">${J(ld)}</script><script type="application/ld+json">${J(bc)}</script></head><body>
+<a class="skip" href="#main">Saltar al contenido</a>
+<header class="site"><div class="wrap wide"><a class="brand" href="/"><img src="/logo-television-transparente.png" alt="" width="54" height="57"><span>Señal Perdida</span></a>
+<nav><a href="/#casos">Casos</a><a href="/mapa/">Mapa</a><a href="/sobre/">Más sobre SP</a></nav></div></header>
+<main id="main" class="wrap wide"><div class="crumbs"><a href="/">Inicio</a> › ${ea(x.titulo)}</div>
+<h1>${ea(x.titulo)}</h1>
+${x.parrafos.map((t, i) => `<p class="lead">${ea(t)}${i === x.parrafos.length - 1 ? ' <a href="/metodologia/">Así lo hacemos</a>.' : ''}</p>`).join('\n')}
+<div class="grid">${x.casos.map(d => tarjeta(d)).join('')}</div>
+<p class="metodo">Otras colecciones: ${COLECCIONES.filter(c => c.slug !== x.slug).map(c => `<a href="/coleccion/${c.slug}/">${ea(c.titulo)}</a>`).join(' · ')}</p>
+<p class="metodo">Por tema: ${Object.keys(CATS).map(c => `<a href="/categoria/${CATS[c][0]}/">${ea(CATS[c][1])}</a>`).join(' · ')}</p>
 ` + PIE;
 }
 // Sitemap: las entradas que ya existen no se tocan; se añaden las de los casos nuevos justo detrás de la portada, el más reciente primero
@@ -195,9 +235,18 @@ function catMap(h, todos) {
     if (h.includes(`<loc>${loc}</loc>`)) h = h.replace(new RegExp('(<loc>' + loc.replace(/[.]/g, '\\.') + '</loc><lastmod>)[^<]*(</lastmod>)'), '$1' + lm + '$2');
     else { const i = h.indexOf('\n', h.indexOf('<loc>' + SITIO + '/</loc>')) + 1; h = h.slice(0, i) + ent + h.slice(i); }
   }
+  return colMap(h, todos);
+}
+function colMap(h, todos) {
+  for (const x of colecciones(todos).filter(y => y.casos.length >= 2)) {
+    const loc = `${SITIO}/coleccion/${x.slug}/`, lm = x.casos.map(d => d.modificado).filter(Boolean).sort().pop() || '';
+    const ent = `<url><loc>${loc}</loc><lastmod>${lm}</lastmod><priority>0.7</priority></url>\n`;
+    if (h.includes(`<loc>${loc}</loc>`)) h = h.replace(new RegExp('(<loc>' + loc.replace(/[.]/g, '\\.') + '</loc><lastmod>)[^<]*(</lastmod>)'), '$1' + lm + '$2');
+    else { const i = h.indexOf('\n', h.indexOf('<loc>' + SITIO + '/</loc>')) + 1; h = h.slice(0, i) + ent + h.slice(i); }
+  }
   return h;
 }
-module.exports = { pagina, portada, mapa, sitemap, cargar, categorias, paginaCat };
+module.exports = { pagina, portada, mapa, sitemap, cargar, categorias, paginaCat, colecciones, paginaColeccion };
 if (require.main === module && process.argv[2] === '--prototipo') {   // node generar.js --prototipo <slug> <salida.html>: no toca la web
   const d = cargar().find(x => x.slug === process.argv[3]); if (!d) throw new Error('No existe ese caso'); fs.writeFileSync(process.argv[4], pagina(d, cargar())); console.log('Escrito', process.argv[4]);
 } else if (require.main === module) {
@@ -209,6 +258,9 @@ if (require.main === module && process.argv[2] === '--prototipo') {   // node ge
   }
   for (const x of categorias(TODOS)) { const dest = path.join(RAIZ, 'categoria', x.slug, 'index.html'), html = paginaCat(x);
     if (comp) { const real = fs.existsSync(dest) ? fs.readFileSync(dest, 'utf8') : ''; if (real === html) ok++; else { mal++; console.log('DIFIERE categoria', x.slug, real ? '' : '(nueva)'); } }
+    else { fs.mkdirSync(path.dirname(dest), { recursive: true }); fs.writeFileSync(dest, html); ok++; } }
+  for (const x of colecciones(TODOS)) { const dest = path.join(RAIZ, 'coleccion', x.slug, 'index.html'), html = paginaColeccion(x);
+    if (comp) { const real = fs.existsSync(dest) ? fs.readFileSync(dest, 'utf8') : ''; if (real === html) ok++; else { mal++; console.log('DIFIERE coleccion', x.slug, real ? '' : '(nueva)'); } }
     else { fs.mkdirSync(path.dirname(dest), { recursive: true }); fs.writeFileSync(dest, html); ok++; } }
   { const f = path.join(RAIZ, 'index.html'), nuevo = portada(TODOS), real = fs.readFileSync(f, 'utf8');
     if (comp) { if (nuevo === real) ok++; else { mal++; let i = 0; while (i < real.length && real[i] === nuevo[i]) i++; console.log('DIFIERE portada en', i, '\n  real:', JSON.stringify(real.slice(Math.max(0, i - 40), i + 100)), '\n  gen: ', JSON.stringify(nuevo.slice(Math.max(0, i - 40), i + 100))); } } else { fs.writeFileSync(f, nuevo); ok++; } }
