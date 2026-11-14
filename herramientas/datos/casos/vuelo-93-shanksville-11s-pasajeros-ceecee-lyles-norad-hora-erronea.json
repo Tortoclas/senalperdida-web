@@ -1,0 +1,88 @@
+{
+ "slug": "vuelo-93-shanksville-11s-pasajeros-ceecee-lyles-norad-hora-erronea",
+ "titulo": "Vuelo 93: la última media hora y la hora errónea que NORAD dio a la Comisión",
+ "desc": "Vuelo 93 el 11-S: la revuelta de los pasajeros, la llamada de la azafata CeeCee Lyles y la hora errónea que dieron los mandos de NORAD a la Comisión.",
+ "lead": "El 11 de septiembre de 2001, cuatro hombres tomaron la cabina del Vuelo 93 y lo giraron hacia Washington. Los pasajeros y la tripulación supieron por teléfono lo que había pasado en Nueva York, se lanzaron contra la cabina y el avión cayó en un campo de Pensilvania. Dos años después, los mandos de NORAD declararon que los habían avisado del secuestro a una hora en la que todavía no había ocurrido.",
+ "lugar": "Shanksville (Pensilvania, EE. UU.), 11 de septiembre de 2001",
+ "cat": "Historia",
+ "corto": "Vuelo 93",
+ "cap": "Recreaciones generadas con IA. No muestran a ninguna persona real.",
+ "saltoGal": false,
+ "galClase": "",
+ "saltoMas": false,
+ "mapa": {
+  "lat": 40.05,
+  "lon": -78.9
+ },
+ "fuentes": [
+  {
+   "url": "https://www.9-11commission.gov/report/911Report_Ch1.htm",
+   "txt": "Informe de la Comisión del 11-S, capítulo 1: «We Have Some Planes» (Comisión Nacional sobre los Ataques Terroristas contra Estados Unidos, 2004)"
+  },
+  {
+   "url": "https://www.nps.gov/people/ceeceerosslyles.htm",
+   "txt": "CeeCee Ross Lyles (Servicio de Parques Nacionales de EE. UU., Flight 93 National Memorial)"
+  },
+  {
+   "url": "https://www.aarp.org/espanol/turismo/nacional/info-2021/monumento-nacional-al-vuelo-93.html",
+   "txt": "Monumento Nacional al Vuelo 93 (AARP en español, 23 de agosto de 2021)"
+  },
+  {
+   "url": "https://es.wikipedia.org/wiki/Vuelo_93_de_United_Airlines",
+   "txt": "Vuelo 93 de United Airlines (Wikipedia en español)"
+  },
+  {
+   "url": "https://es.wikipedia.org/wiki/Monumento_conmemorativo_nacional_al_Vuelo_93",
+   "txt": "Monumento conmemorativo nacional al Vuelo 93 (Wikipedia en español)"
+  }
+ ],
+ "ogimg": "/img/vuelo-93-imagen-para-compartir.jpg",
+ "publicado": "2026-11-14",
+ "modificado": "2026-11-14",
+ "orden": -9,
+ "ordenMapa": 24,
+ "portada": "/img/vuelo-93-portada-del-caso.jpg",
+ "figs": [
+  {
+   "src": "/img/vuelo-93-ilustracion-una-azafata-al-telefono-en-la-cabina-trasera-de-un-avion.jpg",
+   "srcset": "/img/vuelo-93-ilustracion-una-azafata-al-telefono-en-la-cabina-trasera-de-un-avion-640.jpg 640w, /img/vuelo-93-ilustracion-una-azafata-al-telefono-en-la-cabina-trasera-de-un-avion.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de una azafata al teléfono en la cabina trasera de un avión",
+   "w": 1000,
+   "h": 1840
+  },
+  {
+   "src": "/img/vuelo-93-ilustracion-un-campo-con-la-tierra-removida-junto-a-un-bosque-en-pensilv.jpg",
+   "srcset": "/img/vuelo-93-ilustracion-un-campo-con-la-tierra-removida-junto-a-un-bosque-en-pensilv-640.jpg 640w, /img/vuelo-93-ilustracion-un-campo-con-la-tierra-removida-junto-a-un-bosque-en-pensilv.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de un campo con la tierra removida junto a un bosque en Pensilvania",
+   "w": 1000,
+   "h": 1778
+  },
+  {
+   "src": "/img/vuelo-93-ilustracion-del-national-mall-con-la-cupula-del-capitolio-al-fondo.jpg",
+   "srcset": "/img/vuelo-93-ilustracion-del-national-mall-con-la-cupula-del-capitolio-al-fondo-640.jpg 640w, /img/vuelo-93-ilustracion-del-national-mall-con-la-cupula-del-capitolio-al-fondo.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración del National Mall con la cúpula del Capitolio al fondo",
+   "w": 1000,
+   "h": 1756
+  }
+ ],
+ "vtop": {
+  "saltoAntes": false,
+  "texto": "Míralo en vídeo",
+  "botones": [
+   {
+    "href": "https://www.youtube.com/shorts/4HIm9u6FeM8",
+    "boton": "Ver en YouTube"
+   }
+  ]
+ },
+ "video": {
+  "formato": "short",
+  "etiqueta": "Short en YouTube (español)",
+  "id": "4HIm9u6FeM8",
+  "titulo": "Vuelo 93: asaltaron la cabina a 20 minutos de Washington",
+  "subido": "2026-11-14T12:00:00+01:00"
+ }
+}

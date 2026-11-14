@@ -1,0 +1,211 @@
+{
+ "pregunta": "¿Qué pasó en el Vuelo 93 y es verdad que los militares estaban listos para derribarlo?",
+ "respuesta": "Los pasajeros y la tripulación se enfrentaron a los secuestradores a las 9:57, y el avión se estrelló en Shanksville (Pensilvania) a las 10:03:11.{1} En mayo de 2003, mandos de NORAD declararon ante la Comisión del 11-S que los habían avisado del secuestro a las 9:16. La Comisión concluyó que era incorrecto: a esa hora el vuelo seguía con normalidad, y el primer aviso a los militares llegó a las 10:07, con el avión ya en el suelo.{1} NORAD sostuvo que lo habría interceptado y derribado. La Comisión respondió: «No estamos tan seguros».{1}",
+ "cronologia": [
+  {
+   "fecha": "11-S, 8:42",
+   "texto": "El Vuelo 93 despega de Newark rumbo a San Francisco, con retraso.{1}{4}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "9:22",
+   "texto": "Según Wikipedia, un despachador de United avisa a los pilotos por el sistema ACARS de que vigilen cualquier intrusión en cabina, porque dos aviones han chocado contra el World Trade Center.{4}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "9:28",
+   "texto": "Los secuestradores atacan. El avión vuela a 35.000 pies sobre el este de Ohio y cae de golpe 700 pies.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "9:32",
+   "texto": "Un secuestrador, probablemente Ziad Jarrah, anuncia que hay una bomba a bordo. Después gira el avión y pone rumbo al este.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Después de las 9:32",
+   "texto": "Pasajeros y tripulantes llaman desde los teléfonos del avión y desde móviles. Al menos diez pasajeros y dos tripulantes pasan información a tierra. Así se enteran de que dos aviones se han estrellado contra el World Trade Center.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Durante el secuestro",
+   "texto": "La azafata CeeCee Ross Lyles llama a su marido y le salta el contestador. Le deja grabado: «Espero poder volver a ver tu cara, cariño. Te quiero. Adiós».{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Antes de las 9:57",
+   "texto": "Según una de las llamadas, los pasajeros votan si se lanzan contra los secuestradores para recuperar el avión. Lo deciden y lo hacen.{1}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "9:57",
+   "texto": "Empieza el asalto de los pasajeros.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "9:58–10:01",
+   "texto": "Jarrah alabea el avión con fuerza a izquierda y derecha y después sube y baja el morro para desestabilizar el asalto.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "c. 9:58",
+   "texto": "Según el Servicio de Parques Nacionales, CeeCee Lyles vuelve a llamar unos cinco minutos antes del choque. Esta vez habla con su marido y rezan juntos.{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "10:03:11",
+   "texto": "El avión se pone boca abajo y se estrella en un campo de Shanksville, a unos 20 minutos de vuelo de Washington.{1}",
+   "certeza": "aceptado"
+  },
+  {
+   "fecha": "10:07",
+   "texto": "NEADS, el sector de defensa aérea del noreste de NORAD, recibe la primera llamada sobre el Vuelo 93. Llega del enlace militar del centro de control de Cleveland, que no sabe que el avión ya se ha estrellado.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "10:31",
+   "texto": "La autorización para derribar aviones llega por primera vez a NEADS.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "2002",
+   "texto": "El Congreso de Estados Unidos crea el monumento nacional al Vuelo 93.{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Mayo de 2003",
+   "texto": "Mandos de NORAD declaran en audiencia pública ante la Comisión que NEADS recibió el aviso del secuestro del Vuelo 93 a las 9:16. La Comisión concluye que la declaración era incorrecta.{1}",
+   "certeza": "desmentido"
+  },
+  {
+   "fecha": "2011",
+   "texto": "Se inaugura el monumento permanente en el lugar del choque.{5}",
+   "certeza": "documentado"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "NEADS recibió el aviso del secuestro del Vuelo 93 a las 9:16. Eso daba a los militares 47 minutos para responder.",
+   "quien": "Mandos de NORAD, en su testimonio público ante la Comisión del 11-S en mayo de 2003{1}",
+   "estado": "desmentido por la Comisión: a las 9:16 el avión aún no había sido secuestrado{1}"
+  },
+  {
+   "version": "NORAD habría interceptado y derribado el Vuelo 93 si hubiera hecho falta.",
+   "quien": "Responsables de NORAD, según la Comisión{1}",
+   "estado": "no comprobado; la Comisión responde «no estamos tan seguros»{1}"
+  },
+  {
+   "version": "Los militares no supieron del secuestro hasta que el avión se había estrellado. El primer aviso llegó a las 10:07.",
+   "quien": "Comisión del 11-S, capítulo 1 de su informe{1}",
+   "estado": "conclusión oficial de la Comisión"
+  },
+  {
+   "version": "El objetivo era el Capitolio o la Casa Blanca.",
+   "quien": "Comisión del 11-S{1}",
+   "estado": "conclusión oficial; no concreta cuál de los dos"
+  },
+  {
+   "version": "El objetivo era el Capitolio.",
+   "quien": "Jalid Sheij Mohamed, considerado el principal arquitecto del 11-S, según Wikipedia{4}",
+   "estado": "declaración de uno de los organizadores; no comprobada de forma independiente"
+  }
+ ],
+ "contexto": [
+  "Antes del 11-S, los protocolos de defensa aérea daban por hecho que un avión secuestrado sería fácil de identificar y no intentaría desaparecer.{1}",
+  "Según la Comisión, la defensa aérea del noreste tuvo nueve minutos de aviso con el primer avión secuestrado aquella mañana. Con el segundo, el tercero y el cuarto no tuvo ninguno.{1}",
+  "Los cazas de Langley despegaron por un aviso de que el vuelo American 11 se dirigía al sur, no por el Vuelo 93. Sus pilotos no recibieron nunca una orden de ataque.{1}",
+  "A las 10:10 se dijo expresamente a los pilotos que volaban sobre Washington que no tenían autorización para disparar.{1}",
+  "La Comisión dice que estas cuentas oficiales erróneas hacían parecer que los militares habían sido avisados a tiempo de responder a dos de los secuestros. También dice que el personal tomó las mejores decisiones que pudo con lo que sabía.{1}",
+  "Cuarenta personas murieron a bordo: 33 pasajeros y 7 tripulantes.{3} Entre ellas estaba CeeCee Ross Lyles, de 33 años y natural de Fort Pierce (Florida). Había sido policía y detective en Fort Pierce durante seis años antes de terminar su formación de azafata en enero de 2001.{2}"
+ ],
+ "sabemos": [
+  "Hubo cuatro secuestradores: Saeed al Ghamdi, Ahmed al Nami, Ahmad al Haznawi y Ziad Jarrah.{1}",
+  "El asalto de los pasajeros empezó a las 9:57 y el avión se estrelló a las 10:03:11, a unos 20 minutos de vuelo de Washington.{1}",
+  "Según la Comisión, los pasajeros supieron por teléfono que otros aviones se habían estrellado contra el World Trade Center.{1}",
+  "NEADS recibió la primera llamada sobre el Vuelo 93 a las 10:07, cuando el avión ya estaba en el suelo. Nunca pudo localizarlo en el radar.{1}",
+  "La declaración de NORAD de mayo de 2003 sobre un aviso a las 9:16 era incorrecta. La Comisión también corrigió la hora que NORAD dio para el aviso del vuelo American 77.{1}",
+  "Según la Comisión, NORAD no supo siquiera que el avión había sido secuestrado hasta después del choque.{1}",
+  "CeeCee Lyles habló con su marido unos cinco minutos antes del choque. Según el Servicio de Parques Nacionales, sus últimas palabras fueron: «Dile a los chicos que los quiero. Nos estamos preparando para hacerlo. ¡Está pasando!».{2}"
+ ],
+ "discute": [
+  "Por qué NORAD dio una hora errónea. La Comisión dice que la declaración era incorrecta, pero las fuentes consultadas no explican cómo se llegó a ella ni si fue un error o algo deliberado.{1}",
+  "Si los militares lo habrían derribado. NORAD sostiene que sí. La Comisión dice que no está tan segura y calcula que, desde el aviso de las 10:07, habrían tenido entre 6 y 16 minutos.{1}",
+  "El objetivo. La Comisión dice «el Capitolio o la Casa Blanca». Según Wikipedia, Jalid Sheij Mohamed confirmó que era el Capitolio.{1}{4}",
+  "El número de pasajeros. La Comisión habla de 37 pasajeros contando a los cuatro secuestradores, y AARP de 33 pasajeros y 7 tripulantes. Wikipedia da 37 pasajeros y 7 tripulantes.{1}{3}{4}",
+  "La hora exacta del choque. La Comisión reconoce que se ha discutido y da las 10:03:11, apoyándose en el análisis de la NTSB. AARP da las 10:03.{1}{3}",
+  "Cuánto retraso llevaba al despegar. La Comisión dice que más de 25 minutos. Wikipedia habla de 42 minutos.{1}{4}",
+  "Cuántos secuestradores había. Varios pasajeros describieron tres. La Comisión concluye que eran cuatro.{1}",
+  "Las fechas de la obra del monumento. Wikipedia sitúa el inicio de la construcción en 2009 y la inauguración del monumento permanente en 2011. AARP dice que la obra empezó en 2011 y que el centro de visitantes se abrió en 2015.{3}{5}"
+ ],
+ "ensenanza": [
+  "Una versión oficial puede ser incorrecta aunque venga de quien tenía los datos. La Comisión tuvo que reconstruir la mañana con sus propias pruebas para corregir lo que le habían declarado.{1}",
+  "Aquella mañana nadie en tierra llegó a tiempo al Vuelo 93. Lo que se hizo para detenerlo lo hicieron los pasajeros y la tripulación desde dentro.{1}{2}",
+  "Que una declaración sea falsa no dice por sí solo por qué lo es. Con las fuentes consultadas, solo se puede afirmar que la hora de las 9:16 no era cierta.{1}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://www.9-11commission.gov/report/911Report_Ch1.htm",
+   "txt": "The 9/11 Commission Report, capítulo 1: «We Have Some Planes»",
+   "autor": "Comisión Nacional sobre los Ataques Terroristas contra Estados Unidos, 2004",
+   "tipo": "archivo"
+  },
+  {
+   "id": 2,
+   "url": "https://www.nps.gov/people/ceeceerosslyles.htm",
+   "txt": "CeeCee Ross Lyles",
+   "autor": "Servicio de Parques Nacionales de EE. UU. (Flight 93 National Memorial)",
+   "tipo": "web"
+  },
+  {
+   "id": 3,
+   "url": "https://www.aarp.org/espanol/turismo/nacional/info-2021/monumento-nacional-al-vuelo-93.html",
+   "txt": "Monumento Nacional al Vuelo 93",
+   "autor": "AARP en español, 23 de agosto de 2021",
+   "tipo": "prensa"
+  },
+  {
+   "id": 4,
+   "url": "https://es.wikipedia.org/wiki/Vuelo_93_de_United_Airlines",
+   "txt": "Vuelo 93 de United Airlines",
+   "autor": "Wikipedia en español",
+   "tipo": "enciclopedia"
+  },
+  {
+   "id": 5,
+   "url": "https://es.wikipedia.org/wiki/Monumento_conmemorativo_nacional_al_Vuelo_93",
+   "txt": "Monumento conmemorativo nacional al Vuelo 93",
+   "autor": "Wikipedia en español",
+   "tipo": "enciclopedia"
+  }
+ ],
+ "saberMas": [],
+ "saberMasNota": "",
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
+ "imagenes": [
+  {
+   "despues": "cronologia",
+   "src": "/img/vuelo-93-ilustracion-una-azafata-agachada-entre-los-carritos-en-la-cocina-trasera",
+   "alt": "Ilustración de una azafata agachada entre los carritos en la cocina trasera de un avión",
+   "pie": "Según el Servicio de Parques Nacionales, en la segunda llamada la azafata y su marido rezaron juntos.",
+   "w": 1000,
+   "h": 1818
+  },
+  {
+   "despues": "versiones",
+   "src": "/img/vuelo-93-ilustracion-la-manilla-y-la-cerradura-de-una-puerta-de-cabina-sin-blinda",
+   "alt": "Ilustración de la manilla y la cerradura de una puerta de cabina sin blindar",
+   "pie": "Antes del 11-S, la puerta de la cabina de un 757 no estaba blindada.",
+   "w": 1000,
+   "h": 1756
+  },
+  {
+   "despues": "contexto:5",
+   "src": "/img/vuelo-93-ilustracion-un-contestador-automatico-con-la-luz-roja-encendida-en-una-c",
+   "alt": "Ilustración de un contestador automático con la luz roja encendida en una cocina vacía",
+   "pie": "La primera llamada acabó en el contestador de casa.",
+   "w": 1000,
+   "h": 1818
+  }
+ ]
+}
