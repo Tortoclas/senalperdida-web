@@ -1,0 +1,88 @@
+{
+ "slug": "el-dorado-origen-real-hombre-dorado-laguna-guatavita-muisca",
+ "titulo": "El Dorado: no era una ciudad, era un hombre en la laguna de Guatavita",
+ "desc": "El Dorado no era una ciudad: era un rito muisca en la laguna de Guatavita. Qué cuentan las crónicas, cómo nació la leyenda y qué se sacó del agua.",
+ "lead": "El Dorado no empezó siendo una ciudad. Los primeros relatos hablan de un hombre cubierto de polvo de oro y de una laguna en los Andes de Colombia. La ciudad llegó después, contada de expedición en expedición, y nadie la encontró.",
+ "lugar": "Laguna de Guatavita (Colombia), siglos XVI y XVII",
+ "cat": "Leyendas",
+ "corto": "El Dorado",
+ "mapa": {
+  "lat": 4.9772,
+  "lon": -73.7756
+ },
+ "fuentes": [
+  {
+   "url": "https://es.wikipedia.org/wiki/El_Dorado",
+   "txt": "El Dorado (Wikipedia en español)"
+  },
+  {
+   "url": "https://es.wikipedia.org/wiki/Laguna_de_Guatavita",
+   "txt": "Laguna de Guatavita (Wikipedia en español)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/El_Dorado",
+   "txt": "El Dorado (Wikipedia en inglés)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Muisca_raft",
+   "txt": "Muisca raft (Wikipedia en inglés)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/Lake_Guatavita",
+   "txt": "Lake Guatavita (Wikipedia en inglés)"
+  }
+ ],
+ "cap": "Recreaciones generadas con IA. No muestran a ninguna persona real ni reproducen piezas originales.",
+ "saltoGal": false,
+ "galClase": "",
+ "saltoMas": false,
+ "ogimg": "/img/el-dorado-imagen-para-compartir.jpg",
+ "publicado": "2026-11-12",
+ "modificado": "2026-11-12",
+ "orden": -8,
+ "ordenMapa": 23,
+ "portada": "/img/el-dorado-portada-del-caso.jpg",
+ "figs": [
+  {
+   "src": "/img/el-dorado-ilustracion-una-balsa-de-juncos-cargada-de-oro-y-esmeraldas-en-la-orilla.jpg",
+   "srcset": "/img/el-dorado-ilustracion-una-balsa-de-juncos-cargada-de-oro-y-esmeraldas-en-la-orilla-640.jpg 640w, /img/el-dorado-ilustracion-una-balsa-de-juncos-cargada-de-oro-y-esmeraldas-en-la-orilla.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de una balsa de juncos cargada de oro y esmeraldas en la orilla de una laguna al amanecer",
+   "w": 1000,
+   "h": 1792
+  },
+  {
+   "src": "/img/el-dorado-ilustracion-sacerdotes-muiscas-de-espaldas-en-una-balsa-mirando-los-circ.jpg",
+   "srcset": "/img/el-dorado-ilustracion-sacerdotes-muiscas-de-espaldas-en-una-balsa-mirando-los-circ-640.jpg 640w, /img/el-dorado-ilustracion-sacerdotes-muiscas-de-espaldas-en-una-balsa-mirando-los-circ.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de sacerdotes muiscas de espaldas en una balsa mirando los círculos que se abren en el agua",
+   "w": 1000,
+   "h": 1818
+  },
+  {
+   "src": "/img/el-dorado-ilustracion-un-caballo-de-guerra-espanol-bebiendo-en-la-orilla-de-una-la.jpg",
+   "srcset": "/img/el-dorado-ilustracion-un-caballo-de-guerra-espanol-bebiendo-en-la-orilla-de-una-la-640.jpg 640w, /img/el-dorado-ilustracion-un-caballo-de-guerra-espanol-bebiendo-en-la-orilla-de-una-la.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de un caballo de guerra español bebiendo en la orilla de una laguna andina",
+   "w": 1000,
+   "h": 1818
+  }
+ ],
+ "vtop": {
+  "saltoAntes": false,
+  "texto": "Míralo en vídeo",
+  "botones": [
+   {
+    "href": "https://www.youtube.com/shorts/_s5gD4IAyS4",
+    "boton": "Ver en YouTube"
+   }
+  ]
+ },
+ "video": {
+  "formato": "short",
+  "etiqueta": "Short en YouTube (español)",
+  "id": "_s5gD4IAyS4",
+  "titulo": "El Dorado no era una ciudad: era un rey cubierto de oro en Guatavita",
+  "subido": "2026-11-12T12:00:00+01:00"
+ }
+}

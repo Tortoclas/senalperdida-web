@@ -1,0 +1,224 @@
+{
+ "pregunta": "¿Qué era realmente El Dorado y existió la ciudad de oro?",
+ "respuesta": "No era una ciudad. En el siglo XVI los españoles tuvieron noticia de una ceremonia en la actual Colombia: un cacique muisca se cubría el cuerpo con polvo de oro y hacía ofrendas en una laguna sagrada, probablemente la de Guatavita.{1} Los primeros relatos que circularon entre los españoles de Quito hablaban de un hombre dorado, no de un lugar.{3} La idea de un reino de oro movió expediciones hasta el siglo XIX, y nunca se encontró.{1}",
+ "cronologia": [
+  {
+   "fecha": "1295–1410",
+   "texto": "Según la datación por radiocarbono del carbón de su molde, se funde la balsa muisca de oro que siglos después aparecerá en Pasca.{4}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "1534",
+   "texto": "Sebastián de Belalcázar conquista Quito.{1}{3} Según una fuente, un jefe capturado dijo que venía de una tierra a 12 días de marcha hacia el norte, y los españoles lo llamaron «el indio dorado».{3}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "Marzo de 1538",
+   "texto": "Belalcázar sale de Quito después de saber que Pizarro ha ordenado detenerlo.{3}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "1539",
+   "texto": "Belalcázar, Nicolás de Federmann (llegado desde Coro) y Gonzalo Jiménez de Quesada (llegado desde Santa Marta) coinciden en la sabana de Bogotá. Federmann llega en marzo de 1539.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Julio de 1539",
+   "texto": "El tesorero de Belalcázar declara que la expedición salió de Popayán en busca de una tierra llamada «el dorado». Según una fuente, es la primera vez que aparece la expresión.{1}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1541",
+   "texto": "Gonzalo Fernández de Oviedo recoge una historia que circula entre los españoles de Quito: un señor que cada mañana se unta con una resina y se cubre de polvo de oro «tan fino como sal molida».{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Siglo XVI",
+   "texto": "Primeros intentos de sacar el oro de la laguna. El capitán Lázaro Fonte extrae varias piezas de oro. Hernán Pérez de Quesada consigue bajar el nivel del agua y recoge objetos de oro en las orillas.{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "1562",
+   "texto": "Antonio de Sepúlveda recibe una licencia real para vaciar la laguna. Según una fuente, saca algo de oro y esmeraldas del barro. Otra dice que fracasó.{2}{3}",
+   "certeza": "discutido"
+  },
+  {
+   "fecha": "Años 1580",
+   "texto": "El poeta Juan de Castellanos ya asocia la leyenda con los muiscas. Cuenta que Belalcázar interrogó a un indio forastero que vivía en Quito.{3}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "1625",
+   "texto": "Doce mineros del Real de Mariquita intentan sacar el oro de la laguna.{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "1636",
+   "texto": "Juan Rodríguez Freyle es el primero que describe la ceremonia como un rito de investidura de cada nuevo zipa. Dice que se lo contó el sobrino del último señor indígena de Guatavita.{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1832",
+   "texto": "Los coroneles Hamilton y Campbell hacen un nuevo intento en la laguna.{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "1856",
+   "texto": "Aparece en Siecha otra balsa de oro. La envían a Bremen (Alemania) y se pierde en un incendio.{4}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Principios del siglo XX",
+   "texto": "Una operación financiada con capital inglés trabaja en la laguna. Los objetos que salen de ella se envían a Londres para exponerlos y subastarlos.{3} Hacia 1900 la laguna se usa también como cantera.{2}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "1969",
+   "texto": "Un campesino de Pasca, Cruz María Dimaté, encuentra en una cueva varias piezas de oro y cerámica, entre ellas la balsa muisca. La compra el Banco de la República y pasa al Museo del Oro de Bogotá.{4}",
+   "certeza": "documentado"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "Es un rito de investidura. El heredero, cubierto de oro en polvo, sale en una balsa de juncos hasta el centro de la laguna con oro y esmeraldas para ofrecerlos a los dioses, acompañado de cuatro caciques.{2}{3}",
+   "quien": "Juan Rodríguez Freyle (1636), según lo que le contó el sobrino del último señor de Guatavita{3}",
+   "estado": "relato escrito un siglo después de la conquista"
+  },
+  {
+   "version": "Es un señor que cada mañana se unta con resina y se cubre de polvo de oro.{3}",
+   "quien": "Gonzalo Fernández de Oviedo (1541), que lo recoge entre los españoles de Quito{3}",
+   "estado": "rumor de segunda mano"
+  },
+  {
+   "version": "El nuevo zipa, ya dorado, se lanza al agua y se lava el oro mientras se arrojan ofrendas a la laguna.{5}",
+   "quien": "Resumen de la tradición en la Wikipedia en inglés{5}",
+   "estado": "versión divulgativa; no consta de qué crónica sale el salto"
+  },
+  {
+   "version": "Fue una ceremonia única que sobrevivió en la memoria oral muisca hasta la llegada de los españoles.{3}",
+   "quien": "Quintero-Guzmán, citado en la Wikipedia en inglés{3}",
+   "estado": "hipótesis no probada"
+  },
+  {
+   "version": "Los españoles oyeron la historia de muiscas que habían visto la ceremonia.{3}",
+   "quien": "Warwick Bray, citado en la Wikipedia en inglés{3}",
+   "estado": "interpretación discutida"
+  },
+  {
+   "version": "La historia la inventaron los propios españoles.{3}",
+   "quien": "Ramos Pérez y Hemming, citados en la Wikipedia en inglés{3}",
+   "estado": "hipótesis no probada"
+  },
+  {
+   "version": "Existe un reino o una ciudad de oro en el interior de Sudamérica.{1}",
+   "quien": "Expediciones desde Quito, Santa Marta y Coro, y más tarde hacia las Guayanas{1}",
+   "estado": "nunca se encontró"
+  }
+ ],
+ "contexto": [
+  "La laguna de Guatavita está en la vereda Tierra Negra, en el municipio de Sesquilé (Cundinamarca, Colombia).{2}",
+  "Según las crónicas, la laguna era desde antiguo un lugar de culto. Se adoraba a una deidad que se manifestaba como un pequeño dragón o una culebra, y se le hacían ofrendas.{1}",
+  "Las crónicas también cuentan que una cacica se arrojó a la laguna con su hijo, acusada de infidelidad por el cacique. Se suponía que ambos vivían en un templo en el fondo del agua.{1}",
+  "La noticia de la riqueza muisca atrajo a la sabana de Bogotá expediciones salidas de Quito, Santa Marta y Coro. Después, muchos exploradores situaron El Dorado en las Guayanas.{1}",
+  "Algunos objetos prehispánicos sacados de la laguna por saqueadores se exponen hoy en el Museo del Oro de Bogotá.{1}"
+ ],
+ "sabemos": [
+  "Los primeros relatos que circularon entre los españoles de Quito hablan de un hombre cubierto de polvo de oro, no de una ciudad.{3}",
+  "La ceremonia que dio origen a la leyenda se relaciona con la laguna de Guatavita y con el pueblo muisca.{1}{3}",
+  "El relato más detallado del rito es de Juan Rodríguez Freyle, que escribe en 1636, un siglo después de la llegada de los españoles. Es una fuente tardía.{3}",
+  "Belalcázar, Federmann y Jiménez de Quesada coincidieron en la sabana de Bogotá en 1539.{1}",
+  "Hubo intentos de sacar el oro de la laguna desde el siglo XVI hasta principios del XX. Ninguno encontró un gran tesoro: solo algunas piezas.{2}{3}{5}",
+  "La balsa muisca de oro del Museo del Oro apareció en 1969 en una cueva de Pasca, no en Guatavita.{4}",
+  "La búsqueda de un reino dorado siguió hasta el siglo XIX y nunca dio resultado.{1}"
+ ],
+ "discute": [
+  "Si la ceremonia seguía viva cuando llegaron los españoles. Una fuente dice que había dejado de hacerse mucho antes. Bray cree que los españoles la oyeron de testigos directos. Quintero-Guzmán propone que fue una sola vez, y Ramos Pérez y Hemming, que la historia es un invento español.{1}{3}",
+  "Quién se lo contó a Belalcázar y dónde. Se habla de un jefe capturado en Quito en 1534, de un indio forastero que vivía en Quito (según Castellanos) y de un indio en Latacunga. Algunos historiadores dudan que un nativo de la sabana de Bogotá llegara hasta Quito.{1}{3}",
+  "Si El Dorado era un hombre o un lugar desde el principio. Los primeros relatos hablan de un hombre, pero la primera vez que aparece escrita la expresión, en 1539, se refiere a «una tierra llamada el dorado».{3}",
+  "Quién protagonizaba el rito. Una fuente habla del cacique de Guatavita y otras, del nuevo zipa.{1}{2}{3}",
+  "Qué pasó con Antonio de Sepúlveda. Una fuente da 1562 como año de su licencia y dice que sacó oro y esmeraldas. Otra dice que fracasó. En las fuentes consultadas no consta el año exacto de las obras.{2}{3}",
+  "Si la balsa de Pasca representa la ceremonia de Guatavita. Es la lectura tradicional, pero algunos especialistas la consideran eurocéntrica, y la pieza no apareció en Guatavita. Su fecha tampoco es segura: el radiocarbono da 1295–1410, y otra parte del mismo texto habla de entre 1200 y 1400.{4}"
+ ],
+ "ensenanza": [
+  "Una leyenda puede crecer a partir de un dato pequeño. Un rito local, contado de segunda mano, acabó siendo un reino de oro en los mapas.{1}{3}",
+  "La fuente más citada no es la más antigua. El relato de Rodríguez Freyle es de 1636, y los rumores que movieron a los conquistadores son de un siglo antes.{3}",
+  "Cada intento de vaciar la laguna partía de la misma idea, que el oro seguía allí. Lo que salió fueron unas pocas piezas.{2}{5}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://es.wikipedia.org/wiki/El_Dorado",
+   "txt": "El Dorado",
+   "autor": "Wikipedia en español",
+   "tipo": "enciclopedia"
+  },
+  {
+   "id": 2,
+   "url": "https://es.wikipedia.org/wiki/Laguna_de_Guatavita",
+   "txt": "Laguna de Guatavita",
+   "autor": "Wikipedia en español",
+   "tipo": "enciclopedia"
+  },
+  {
+   "id": 3,
+   "url": "https://en.wikipedia.org/wiki/El_Dorado",
+   "txt": "El Dorado",
+   "autor": "Wikipedia en inglés",
+   "tipo": "enciclopedia"
+  },
+  {
+   "id": 4,
+   "url": "https://en.wikipedia.org/wiki/Muisca_raft",
+   "txt": "Muisca raft",
+   "autor": "Wikipedia en inglés",
+   "tipo": "enciclopedia"
+  },
+  {
+   "id": 5,
+   "url": "https://en.wikipedia.org/wiki/Lake_Guatavita",
+   "txt": "Lake Guatavita",
+   "autor": "Wikipedia en inglés",
+   "tipo": "enciclopedia"
+  }
+ ],
+ "saberMas": [
+  "Juan Rodríguez Freyle, crónica del Nuevo Reino de Granada (1636), citada por las fuentes.",
+  "Juan de Castellanos, «Elegías de varones ilustres de Indias»."
+ ],
+ "saberMasNota": "Estas obras aparecen citadas o comentadas en las fuentes consultadas. No las hemos leído directamente.",
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
+ "imagenes": [
+  {
+   "despues": "cronologia",
+   "src": "/img/el-dorado-ilustracion-una-plaza-de-tierra-del-quito-colonial-con-dos-figuras-peque",
+   "alt": "Ilustración de una plaza de tierra del Quito colonial con dos figuras pequeñas al pie de un volcán",
+   "pie": "Los primeros rumores sobre el hombre dorado circularon entre los españoles de Quito.",
+   "w": 1000,
+   "h": 1818
+  },
+  {
+   "despues": "versiones",
+   "src": "/img/el-dorado-ilustracion-un-manuscrito-antiguo-abierto-junto-a-una-pluma-y-una-vela",
+   "alt": "Ilustración de un manuscrito antiguo abierto junto a una pluma y una vela",
+   "pie": "El relato más detallado del rito se escribió en 1636, un siglo después de la conquista.",
+   "w": 1000,
+   "h": 1792
+  },
+  {
+   "despues": "sabemos",
+   "src": "/img/el-dorado-ilustracion-un-gran-corte-en-la-pared-de-tierra-de-un-crater-con-andamio",
+   "alt": "Ilustración de un gran corte en la pared de tierra de un cráter con andamios de madera",
+   "pie": "Durante siglos se intentó vaciar la laguna para sacar el oro.",
+   "w": 1000,
+   "h": 1818
+  },
+  {
+   "despues": "ensenanza:0",
+   "src": "/img/el-dorado-ilustracion-cordilleras-andinas-al-atardecer-vistas-desde-el-borde-de-un",
+   "alt": "Ilustración de cordilleras andinas al atardecer vistas desde el borde de un cráter, sin ninguna ciudad",
+   "pie": "La ciudad de oro nunca apareció.",
+   "w": 1000,
+   "h": 1792
+  }
+ ]
+}
