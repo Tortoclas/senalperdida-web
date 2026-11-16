@@ -1,0 +1,84 @@
+{
+ "slug": "caras-de-belmez-precinto-notarial-cocina-jaen-1971",
+ "titulo": "Las caras de Bélmez: la cocina que sellaron ante notario",
+ "desc": "Las caras de Bélmez: la cocina de María Gómez en 1971, el precinto ante notario de 1973 y los análisis que aún enfrentan a creyentes y escépticos.",
+ "lead": "En agosto de 1971, María Gómez Cámara dijo ver una cara en el suelo de cemento de su casa de Bélmez de la Moraleda, en Jaén. La taparon y, según la familia, volvió a salir. Dos años después la estancia se precintó ante notario para que nadie pudiera tocarla. Al abrirla había caras nuevas, y los análisis posteriores se contradicen.",
+ "lugar": "Bélmez de la Moraleda (Jaén), 1971 y décadas siguientes",
+ "cat": "Misterio",
+ "corto": "Las caras de Bélmez",
+ "fuentes": [
+  {
+   "url": "https://www.eldebate.com/espana/andalucia/20260603/casa-jaen-sigue-dividiendo-espana-misterio-desafia-toda-explicacion_424242.html",
+   "txt": "La casa de Jaén que sigue dividiendo a España: el misterio que desafía toda explicación (El Debate, junio de 2026)"
+  },
+  {
+   "url": "https://www.que.es/2026/06/09/belmez-parapsicologia-caras-misterio/",
+   "txt": "El misterio de las caras de Bélmez: el fenómeno paranormal que conmocionó a España hace décadas (Que.es, 9 de junio de 2026)"
+  },
+  {
+   "url": "https://es.wikipedia.org/wiki/Caras_de_B%C3%A9lmez",
+   "txt": "Caras de Bélmez (Wikipedia en español)"
+  },
+  {
+   "url": "https://en.wikipedia.org/wiki/B%C3%A9lmez_Faces",
+   "txt": "Bélmez Faces (Wikipedia en inglés)"
+  }
+ ],
+ "cap": "Recreaciones generadas con IA. No muestran a ninguna persona real ni reproducen las caras originales.",
+ "saltoGal": false,
+ "galClase": "",
+ "saltoMas": false,
+ "mapa": {
+  "lat": 37.72,
+  "lon": -3.38
+ },
+ "ogimg": "/img/las-caras-de-belmez-imagen-para-compartir.jpg",
+ "publicado": "2026-11-15",
+ "modificado": "2026-11-15",
+ "orden": -10,
+ "ordenMapa": 25,
+ "portada": "/img/las-caras-de-belmez-portada-del-caso.jpg",
+ "figs": [
+  {
+   "src": "/img/las-caras-de-belmez-ilustracion-en-tinta-de-una-cocina-rural-cerrada-y-sellada.jpg",
+   "srcset": "/img/las-caras-de-belmez-ilustracion-en-tinta-de-una-cocina-rural-cerrada-y-sellada-640.jpg 640w, /img/las-caras-de-belmez-ilustracion-en-tinta-de-una-cocina-rural-cerrada-y-sellada.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración en tinta de una cocina rural cerrada y sellada",
+   "w": 1000,
+   "h": 1818
+  },
+  {
+   "src": "/img/las-caras-de-belmez-ilustracion-un-suelo-de-cemento-gris-visto-desde-arriba-con-una-mancha-q.jpg",
+   "srcset": "/img/las-caras-de-belmez-ilustracion-un-suelo-de-cemento-gris-visto-desde-arriba-con-una-mancha-q-640.jpg 640w, /img/las-caras-de-belmez-ilustracion-un-suelo-de-cemento-gris-visto-desde-arriba-con-una-mancha-q.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de un suelo de cemento gris visto desde arriba con una mancha que sugiere una cara",
+   "w": 1000,
+   "h": 1818
+  },
+  {
+   "src": "/img/las-caras-de-belmez-ilustracion-una-puerta-de-madera-de-cocina-cerrada-con-un-cordon-y-lacre.jpg",
+   "srcset": "/img/las-caras-de-belmez-ilustracion-una-puerta-de-madera-de-cocina-cerrada-con-un-cordon-y-lacre-640.jpg 640w, /img/las-caras-de-belmez-ilustracion-una-puerta-de-madera-de-cocina-cerrada-con-un-cordon-y-lacre.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de una puerta de madera de cocina cerrada con un cordón y lacre",
+   "w": 1000,
+   "h": 1818
+  }
+ ],
+ "vtop": {
+  "saltoAntes": false,
+  "texto": "Míralo en vídeo",
+  "botones": [
+   {
+    "href": "https://www.youtube.com/shorts/Z2tGCg-lXzA",
+    "boton": "Ver en YouTube"
+   }
+  ]
+ },
+ "video": {
+  "formato": "short",
+  "etiqueta": "Short en YouTube (español)",
+  "id": "Z2tGCg-lXzA",
+  "titulo": "Caras de Bélmez: sellaron la cocina 90 días y salieron caras nuevas",
+  "subido": "2026-11-15T12:00:00+01:00"
+ }
+}
