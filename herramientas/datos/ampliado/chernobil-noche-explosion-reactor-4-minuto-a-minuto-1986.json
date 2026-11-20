@@ -1,0 +1,258 @@
+{
+ "pregunta": "¿Qué pasó exactamente en Chernóbil la noche del 26 de abril de 1986 y por qué explotó el reactor?",
+ "respuesta": "Durante una prueba eléctrica en el reactor 4, la potencia se disparó en segundos y dos explosiones destruyeron el reactor.{1}{2} La prueba empezó a la 01:23:04 y el botón de parada de emergencia se pulsó a la 01:23:40.{1} Según la World Nuclear Association, la causa fue un diseño de reactor defectuoso unido a errores graves de los operadores.{2} Qué pesó más y qué provocó el último salto de potencia sigue en discusión.{1}{2}",
+ "cronologia": [
+  {
+   "fecha": "1982-1986",
+   "texto": "La prueba de la turbina se exigía desde la construcción del reactor, en 1982, y se había aplazado tres veces, según Wikipedia.{3} La WNA dice que se hizo una prueba parecida el año anterior y que falló porque la energía de la turbina cayó demasiado rápido.{1}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "25 de abril de 1986",
+   "texto": "El reactor 4 iba a pararse para su mantenimiento ordinario. Se decidió aprovechar la parada para comprobar si la turbina, mientras se frenaba, podía mover las bombas de refrigeración hasta que arrancaran los generadores diésel.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "25 de abril, tarde",
+   "texto": "Con el reactor a media potencia, el controlador de la red eléctrica no autorizó seguir bajando, porque se necesitaba esa electricidad. Según el programa de la prueba, se desconectó el sistema de refrigeración de emergencia del núcleo.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "25 de abril, hacia las 23:00",
+   "texto": "La red autoriza por fin a reducir la potencia. Wikipedia calcula unas 10 horas de retraso, con el reactor a baja potencia y acumulando xenón.{1}{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "26 de abril, 00:28",
+   "texto": "La potencia cae a unos 30 MW térmicos, muy por debajo de los 700-1000 previstos para la prueba. La WNA dice que la causa pudo ser un error de operación.{1}",
+   "certeza": "discutido"
+  },
+  {
+   "fecha": "Hacia la 01:00",
+   "texto": "Para recuperar potencia se retiran muchas barras de control. El margen mínimo de reactividad queda por debajo del permitido, quizá sin que los operadores lo supieran.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "01:03",
+   "texto": "El reactor se estabiliza en unos 200 MW térmicos y se decide hacer la prueba a esa potencia.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "01:22:30",
+   "texto": "Según cálculos posteriores, el margen de reactividad equivale a ocho barras. El reglamento exigía un mínimo de 15.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "01:23:04",
+   "texto": "Empieza la prueba. Se cierran las válvulas de vapor de la turbina y las cuatro bombas que dependen de ella empiezan a frenarse.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "01:23:40",
+   "texto": "Un operador pulsa el botón de parada de emergencia, AZ-5. No se ha establecido por qué se pulsó en ese momento.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "01:23:43",
+   "texto": "Saltan las señales de protección por subida de potencia. La potencia supera los 530 MW térmicos y sigue subiendo.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Segundos después",
+   "texto": "Hay dos explosiones. La primera es de vapor. La segunda, dos o tres segundos más tarde, lanza fragmentos de combustible y grafito al rojo.{1}{2} Wikipedia fecha el accidente a la 01:23:45.{3}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "01:24",
+   "texto": "En el registro queda anotado «fuertes sacudidas». Según la WNA, las barras de control se quedaron atascadas a media altura.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "01:28",
+   "texto": "Llega un primer grupo de 14 bomberos. Hay fuegos en lo que queda del edificio y en el tejado de bitumen de la sala de turbinas.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "02:10 y 02:20",
+   "texto": "Los fuegos de los tejados de los bloques 3 y 4 quedan localizados, según el informe INSAG-1 citado por la WNA.{1}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "05:00",
+   "texto": "Según el INSAG-1, el fuego queda apagado. Ese mismo día se para el reactor 3. Los reactores 1 y 2 se paran a la mañana siguiente.{1}",
+   "certeza": "atribuido"
+  },
+  {
+   "fecha": "27 de abril de 1986",
+   "texto": "Se evacúa Prípiat, la ciudad de los trabajadores de la central, con 45.000 vecinos.{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Del 2.º al 10.º día",
+   "texto": "Unos 1800 vuelos de helicóptero arrojan sobre el reactor unas 5000 toneladas de materiales: carburo de boro, plomo, arena, arcilla y dolomita.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "5 y 6 de mayo de 1986",
+   "texto": "Se instala un sistema que inyecta nitrógeno frío bajo el reactor. El 6 de mayo la temperatura del núcleo ha bajado y la emisión radiactiva cae de forma brusca.{1}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "14 de mayo de 1986",
+   "texto": "Unas 116.000 personas que vivían a menos de 30 kilómetros ya han sido evacuadas.{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Finales de julio de 1986",
+   "texto": "Han muerto 28 personas por las dosis recibidas el primer día, seis de ellas bomberos. Se suman a los dos trabajadores muertos por las explosiones.{1}{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Octubre de 1986",
+   "texto": "Se termina el sarcófago de hormigón sobre el edificio destruido, pensado para durar entre 20 y 30 años.{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "1991-1992",
+   "texto": "Un informe soviético de 1991 y el informe INSAG-7 de 1992 ponen el peso en el diseño del reactor, más que en los operadores.{2}",
+   "certeza": "documentado"
+  },
+  {
+   "fecha": "Noviembre de 2016",
+   "texto": "Se desliza sobre el reactor el Nuevo Confinamiento Seguro, un arco de 36.000 toneladas y 100 años de vida útil prevista.{2}",
+   "certeza": "documentado"
+  }
+ ],
+ "versiones": [
+  {
+   "version": "El accidente lo causaron sobre todo los operadores, que violaron normas y retiraron deliberadamente la mayoría de las barras de control.",
+   "quien": "Informe INSAG-1 (1986), citado por la WNA{2}",
+   "estado": "revisada por el propio INSAG en 1992"
+  },
+  {
+   "version": "Lo decisivo fueron el diseño del reactor y de sus barras de control. Los operadores no incumplieron normas que nadie había escrito ni conocían el peligro del margen de reactividad.",
+   "quien": "Comité Estatal de Supervisión de la Seguridad soviético (1991) e INSAG-7 (1992), citados por la WNA{2}",
+   "estado": "versión que siguen los informes posteriores; el INSAG-7 mantiene que las acciones de los operadores fueron «muy desacertadas» (WNA)"
+  },
+  {
+   "version": "El último salto de potencia empezó por la formación de vapor en el fondo del núcleo, al bajar el caudal de las bombas durante la prueba.",
+   "quien": "World Nuclear Association{1}",
+   "estado": "una de las dos explicaciones que da la WNA; no comprobada"
+  },
+  {
+   "version": "El salto lo provocó el propio botón de parada: al entrar, las barras aumentaron la reactividad en la parte baja del núcleo.",
+   "quien": "WNA como visión alternativa; informe soviético de 1991; Wikipedia{1}{3}",
+   "estado": "discutida; el informe de 1991 la señala como el suceso que inició el accidente"
+  },
+  {
+   "version": "Los operarios dudaron en abortar la prueba y, cuando por fin pulsaron el botón, no respondió. La explosión llegó a la 01:24.",
+   "quien": "Documental «Chernóbil, la noche del fin del mundo» (2008), según su ficha en Wikipedia{4}",
+   "estado": "relato divulgativo; la secuencia de la WNA sitúa el botón a la 01:23:40 y las explosiones segundos después"
+  }
+ ],
+ "contexto": [
+  "La central estaba a unos 110 kilómetros al norte de Kiev y tenía cuatro reactores del modelo soviético RBMK-1000. A unos 3 kilómetros estaba Prípiat, una ciudad nueva de 49.000 habitantes.{2}",
+  "El RBMK usa grafito como moderador y agua que hierve dentro de los tubos de combustible. Ese vapor mueve directamente las turbinas.{2}",
+  "La prueba se consideraba un asunto eléctrico, no nuclear. La WNA dice que se preparó sin coordinarse con los responsables de la seguridad del reactor, y que a los operadores no se les advirtió del riesgo.{1}",
+  "El efecto peligroso de las barras de control se detectó en 1983 en la central de Ignalina. El INSAG-7 dice que nunca se impusieron restricciones y que el asunto «al parecer se olvidó».{1}",
+  "La WNA atribuye el accidente al aislamiento de la Guerra Fría y a la falta de cultura de seguridad. Cita a Gorbachov: para él, Chernóbil pesó más en la caída de la Unión Soviética que la perestroika.{2}"
+ ],
+ "sabemos": [
+  "El reactor 4 quedó destruido durante una prueba de seguridad eléctrica, la madrugada del 26 de abril de 1986.{1}{3}",
+  "La prueba empezó a la 01:23:04 y el botón AZ-5 se pulsó a la 01:23:40.{1}",
+  "El reactor funcionaba con un margen de reactividad de ocho barras, cuando el mínimo era de 15.{1}",
+  "Hubo dos explosiones. Dos trabajadores murieron por ellas; el cuerpo de uno nunca se recuperó.{1}{2}",
+  "Los primeros 14 bomberos llegaron a la 01:28. Los incendios estaban apagados a las 05:00, según el INSAG-1.{1}",
+  "Para finales de julio habían muerto 28 personas más por síndrome de irradiación aguda, seis de ellas bomberos.{1}{2}",
+  "Prípiat se evacuó el 27 de abril. El 14 de mayo ya habían salido unas 116.000 personas del radio de 30 kilómetros.{2}",
+  "Se liberó al menos un 5 % del material radiactivo que quedaba en el núcleo.{2}"
+ ],
+ "discute": [
+  "Qué disparó el último salto de potencia. La WNA da dos explicaciones: el vapor en el fondo del núcleo o la entrada de las barras tras pulsar AZ-5. Wikipedia da por buena la segunda.{1}{3}",
+  "Por qué se pulsó el botón a la 01:23:40. La comisión soviética no pudo establecerlo.{1}",
+  "Si la caída a 30 MW fue un error del operador. El INSAG-1 dice que sí. El INSAG-7 recoge informes que dicen que no hubo error como tal.{1}",
+  "Cuánta culpa tuvieron los operadores. El INSAG-1 habla de violaciones de normas, el informe de 1991 dice que no incumplieron reglas que nadie había escrito y Legasov escribió que es imposible encontrar un único culpable.{2} El operador Leonid Toptunov declaró que habían seguido el procedimiento.{3}",
+  "La hora exacta. Wikipedia da la 01:23:45, la WNA anota «fuertes sacudidas» a la 01:24 y el documental de 2008 sitúa la explosión a la 01:24.{1}{3}{4}",
+  "Cuántos murieron en las primeras semanas. La WNA cuenta 30 muertes en tres meses y menciona otra por trombosis coronaria. Wikipedia habla de al menos 31 en dos semanas.{2}{3}",
+  "Quiénes eran los 134 enfermos de síndrome de irradiación aguda. La WNA habla de personas en la central y en las tareas de limpieza; Wikipedia, de bomberos.{2}{3}",
+  "Cuánta radiactividad salió. La WNA da unos 14 exabecquerelios, o 5,2 en equivalente de yodo-131. Wikipedia habla de 5,2 exabecquerelios y lo compara con 400 bombas de Hiroshima. El documental habla de 500 veces Hiroshima.{2}{3}{4}",
+  "Cuántas personas se evacuaron. La WNA da unas 116.000 hasta el 14 de mayo y unas 350.000 en total. El documental habla de unas 135.000.{2}{4}",
+  "El efecto en la salud a largo plazo. Según el comité científico de la ONU citado por la WNA, hubo unos 5000 cánceres de tiroides con 15 muertes y no hay pruebas de un gran impacto en la salud pública a los 20 años.{2}"
+ ],
+ "ensenanza": [
+  "Un accidente grande suele ser una cadena de pasos pequeños: una prueba aplazada, una red que pide más horas de potencia, un margen que nadie veía en el panel.{1}{3}",
+  "El primer informe culpó a los operadores. Los siguientes miraron el diseño y lo que no se les había contado. La explicación cambió cuando cambió la información disponible.{2}",
+  "Treinta y cinco años después aún se discute qué pasó en los últimos tres segundos. Un relato que lo explica todo con un solo culpable simplifica.{1}{2}"
+ ],
+ "fuentes": [
+  {
+   "id": 1,
+   "url": "https://world-nuclear.org/information-library/appendices/chernobyl-accident-appendix-1-sequence-of-events",
+   "txt": "Chernobyl Accident Appendix 1: Sequence of Events",
+   "autor": "World Nuclear Association",
+   "tipo": "web"
+  },
+  {
+   "id": 2,
+   "url": "https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident",
+   "txt": "Chernobyl Accident 1986",
+   "autor": "World Nuclear Association",
+   "tipo": "web"
+  },
+  {
+   "id": 3,
+   "url": "https://es.wikipedia.org/wiki/Accidente_de_Chern%C3%B3bil",
+   "txt": "Accidente de Chernóbil",
+   "autor": "Wikipedia en español",
+   "tipo": "enciclopedia"
+  },
+  {
+   "id": 4,
+   "url": "https://es.wikipedia.org/wiki/Chern%C3%B3bil%2C_la_noche_del_fin_del_mundo",
+   "txt": "Chernóbil, la noche del fin del mundo (documental, 2008)",
+   "autor": "Wikipedia en español",
+   "tipo": "enciclopedia"
+  }
+ ],
+ "saberMas": [
+  "OIEA, INSAG-1, «Summary Report on the Post-Accident Review Meeting on the Chernobyl Accident» (1986), citado por la WNA.",
+  "OIEA, INSAG-7, «The Chernobyl Accident: Updating of INSAG-1» (1992), citado por la WNA.",
+  "Valeri Legásov, «Testamento», citado por la WNA."
+ ],
+ "saberMasNota": "Estas obras aparecen citadas o comentadas en las fuentes consultadas. No las hemos leído directamente.",
+ "notaImagenes": "Las imágenes de este artículo son recreaciones ilustrativas generadas con inteligencia artificial. No son fotografías de la época, no retratan a personas reales y los textos que aparecen en ellas son inventados.",
+ "imagenes": [
+  {
+   "despues": "cronologia",
+   "src": "/img/chernobil-la-noche-del-reactor-4-ilustracion-un-registrador-de-papel-con-una-linea-roja-que-se-dispara-ha",
+   "alt": "Ilustración de un registrador de papel con una línea roja que se dispara hacia arriba",
+   "pie": "Recreación: en pocos segundos, la potencia pasó de 200 a más de 530 MW térmicos.",
+   "w": 1000,
+   "h": 562
+  },
+  {
+   "despues": "versiones",
+   "src": "/img/chernobil-la-noche-del-reactor-4-ilustracion-un-panel-con-decenas-de-diales-redondos-de-posicion-de-barra",
+   "alt": "Ilustración de un panel con decenas de diales redondos de posición de barras",
+   "pie": "Recreación: el margen de reactividad equivalía a ocho barras; el mínimo era 15.",
+   "w": 1000,
+   "h": 562
+  },
+  {
+   "despues": "contexto:0",
+   "src": "/img/chernobil-la-noche-del-reactor-4-ilustracion-bloques-de-viviendas-blancos-a-lo-lejos-de-noche-desde-el-bo",
+   "alt": "Ilustración de bloques de viviendas blancos a lo lejos, de noche, desde el borde de un pinar",
+   "pie": "Recreación: Prípiat estaba a unos 3 kilómetros del reactor.",
+   "w": 1000,
+   "h": 562
+  },
+  {
+   "despues": "sabemos",
+   "src": "/img/chernobil-la-noche-del-reactor-4-ilustracion-aerea-de-un-gran-refugio-de-hormigon-y-acero-en-obras-con-gr",
+   "alt": "Ilustración aérea de un gran refugio de hormigón y acero en obras, con grúas",
+   "pie": "Recreación: el sarcófago se terminó en octubre de 1986.",
+   "w": 1000,
+   "h": 562
+  }
+ ]
+}

@@ -1,0 +1,68 @@
+{
+ "slug": "chernobil-noche-explosion-reactor-4-minuto-a-minuto-1986",
+ "titulo": "Chernóbil: la noche que explotó el reactor 4, minuto a minuto",
+ "tituloSeo": "Qué pasó en Chernóbil, minuto a minuto",
+ "desc": "Chernóbil, 26 de abril de 1986: la prueba del reactor 4 minuto a minuto, del botón AZ-5 a las explosiones, y lo que aún discuten los informes.",
+ "lead": "Pasada la medianoche, el turno de noche del reactor 4 de Chernóbil se preparaba para una prueba eléctrica que llevaba horas de retraso. La prueba empezó a la una y veintitrés. Treinta y seis segundos después, alguien pulsó el botón de parada de emergencia, y en pocos segundos el reactor quedó destruido.",
+ "lugar": "Central nuclear de Chernóbil, junto a Prípiat (Ucrania, entonces URSS), 25 y 26 de abril de 1986",
+ "cat": "Historia",
+ "corto": "Chernóbil, la noche del reactor 4",
+ "cap": "Recreaciones generadas con IA. No muestran a ninguna persona real.",
+ "saltoGal": false,
+ "galClase": "",
+ "saltoMas": false,
+ "mapa": {
+  "lat": 51.389,
+  "lon": 30.099
+ },
+ "fuentes": [
+  {
+   "url": "https://world-nuclear.org/information-library/appendices/chernobyl-accident-appendix-1-sequence-of-events",
+   "txt": "Chernobyl Accident Appendix 1: Sequence of Events (World Nuclear Association)"
+  },
+  {
+   "url": "https://world-nuclear.org/information-library/safety-and-security/safety-of-plants/chernobyl-accident",
+   "txt": "Chernobyl Accident 1986 (World Nuclear Association)"
+  },
+  {
+   "url": "https://es.wikipedia.org/wiki/Accidente_de_Chern%C3%B3bil",
+   "txt": "Accidente de Chernóbil (Wikipedia en español)"
+  },
+  {
+   "url": "https://es.wikipedia.org/wiki/Chern%C3%B3bil%2C_la_noche_del_fin_del_mundo",
+   "txt": "Chernóbil, la noche del fin del mundo (documental de 2008, ficha en Wikipedia en español)"
+  }
+ ],
+ "ogimg": "/img/chernobil-la-noche-del-reactor-4-imagen-para-compartir.jpg",
+ "publicado": "2026-11-20",
+ "modificado": "2026-11-20",
+ "orden": -11,
+ "ordenMapa": 26,
+ "portada": "/img/chernobil-la-noche-del-reactor-4-portada-del-caso.jpg",
+ "figs": [
+  {
+   "src": "/img/chernobil-la-noche-del-reactor-4-ilustracion-tres-operadores-de-espaldas-ante-el-panel-de-posiciones-de-l.jpg",
+   "srcset": "/img/chernobil-la-noche-del-reactor-4-ilustracion-tres-operadores-de-espaldas-ante-el-panel-de-posiciones-de-l-640.jpg 640w, /img/chernobil-la-noche-del-reactor-4-ilustracion-tres-operadores-de-espaldas-ante-el-panel-de-posiciones-de-l.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de tres operadores de espaldas ante el panel de posiciones de las barras de control",
+   "w": 1000,
+   "h": 562
+  },
+  {
+   "src": "/img/chernobil-la-noche-del-reactor-4-ilustracion-un-boton-de-parada-con-la-tapa-levantada-en-una-consola-gris.jpg",
+   "srcset": "/img/chernobil-la-noche-del-reactor-4-ilustracion-un-boton-de-parada-con-la-tapa-levantada-en-una-consola-gris-640.jpg 640w, /img/chernobil-la-noche-del-reactor-4-ilustracion-un-boton-de-parada-con-la-tapa-levantada-en-una-consola-gris.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de un botón de parada con la tapa levantada en una consola gris",
+   "w": 1000,
+   "h": 562
+  },
+  {
+   "src": "/img/chernobil-la-noche-del-reactor-4-ilustracion-bomberos-desenrollando-mangueras-junto-a-un-camion-rojo-de-n.jpg",
+   "srcset": "/img/chernobil-la-noche-del-reactor-4-ilustracion-bomberos-desenrollando-mangueras-junto-a-un-camion-rojo-de-n-640.jpg 640w, /img/chernobil-la-noche-del-reactor-4-ilustracion-bomberos-desenrollando-mangueras-junto-a-un-camion-rojo-de-n.jpg 1000w",
+   "sizes": "(max-width:560px) 72vw, 220px",
+   "alt": "Ilustración de bomberos desenrollando mangueras junto a un camión rojo de noche",
+   "w": 1000,
+   "h": 562
+  }
+ ]
+}
