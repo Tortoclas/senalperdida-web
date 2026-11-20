@@ -64,5 +64,22 @@
    "w": 1000,
    "h": 562
   }
- ]
+ ],
+ "vtop": {
+  "saltoAntes": false,
+  "texto": "Míralo en vídeo",
+  "botones": [
+   {
+    "href": "https://www.youtube.com/watch?v=DFIbTm8g6m0",
+    "boton": "Ver en YouTube"
+   }
+  ]
+ },
+ "video": {
+  "formato": "largo",
+  "etiqueta": "Vídeo en YouTube (español)",
+  "id": "DFIbTm8g6m0",
+  "titulo": "Chernóbil minuto a minuto: el botón que debía apagarlo lo aceleró",
+  "subido": "2026-11-20T12:00:00+01:00"
+ }
 }
